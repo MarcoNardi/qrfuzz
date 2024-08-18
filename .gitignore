@@ -11,3 +11,4 @@ dist/
 data-tests/
 src/inspectors/credentials.json
 src/coverage_count.txt
+src/outputacv.log
