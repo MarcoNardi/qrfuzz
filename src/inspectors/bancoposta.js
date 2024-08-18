@@ -18,7 +18,7 @@ class Inspector {
     }
 
     async getResultView(driver) {
-        return await driver.findElement("id", "posteitaliane.posteapp.appbpol:id/md_buttonDefaultPositive");
+        return await driver.findElement("id", "posteitaliane.posteapp.appbpol:id/typ_qr_errato_chiudi_button");
     }
     
     async goBackToScan(driver) {
