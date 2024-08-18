@@ -53,6 +53,25 @@ const main = async () => {
   let driver = await startDriver(wdio_timeout);
   const appIns = await _appIns;
 
+  const { spawn } = require("child_process");
+
+  /*const ls = spawn("acv", ["activate", appIns.app_package]);  
+  ls.stdout.on("data", (data: string) => {
+    console.log(`stdout: ${data}`);
+  });
+
+  ls.stderr.on("data", (data: string) => {
+      console.log(`stderr: ${data}`);
+  });
+
+  ls.on('error', (error: { message: any; }) => {
+      console.log(`error: ${error.message}`);
+  });
+
+  ls.on("close", (code: any) => {
+      console.log(`child process exited with code ${code}`);
+  });*/
+
   await goToAppScanPage(driver);
 
   const generator = get_generator(app_id);
@@ -64,7 +83,67 @@ const main = async () => {
   // Perform QR Checking
   let qr_payload: Uint8Array | null;
   let qr_status: DictsIterStatus;
+  let coverage_count=0;
+  
+  const fs = require("fs")
+
+  try {
+    const data = fs.readFileSync("x.txt", 'utf8');
+    coverage_count = parseInt(data, 10); // Convert the string data to an integer
+    console.log(`Read value ${coverage_count} from coverage_count.txt}`);
+  } catch (error) {
+    console.error(`Error reading file coverage_count.txt:`, error);
+    coverage_count = 0; // Provide a default value or handle the error as needed
+}
   while ((([qr_payload, qr_status] = qr_iter()), qr_payload != null)) {
+    
+    if(coverage_count%30==0){  //every 30 qr codes we compute the coverage    
+      const command = 'acv';
+      const args = ['snap', appIns.app_package];
+
+      const child = spawn(command, args);
+
+      child.stdout.on('data', (data: Buffer) => {
+        //console.log(`Output: ${data.toString()}`);
+      });
+    
+      child.stderr.on('data', (data: Buffer) => { 
+        console.error(`Error: ${data.toString()}`);
+      });
+    
+      child.on('close', (code: number) => { 
+        console.log(`Process exited with code ${code}`);
+        if(code==0){
+          console.log("pulled data now starting coverage")
+          const { spawn } = require('child_process');
+          
+
+          
+          const command = 'acv';
+          const args = ['cover-pickles', appIns.app_package];
+          const logFile = 'outputacv.log'; // Name of the log file
+
+          // Open a writable stream to the log file
+          const logStream = fs.createWriteStream(logFile, { flags: 'a' }); 
+
+          const child = spawn(command, args);
+
+          child.stdout.on('data', (data: Buffer) => {
+              logStream.write(`Output: ${data.toString()}\n`);
+          });
+
+          child.stderr.on('data', (data: Buffer) => {
+              logStream.write(`Error: ${data.toString()}\n`);
+          });
+
+          child.on('close', (code: number) => {
+              logStream.write(`Process exited with code ${code}\n`);
+              logStream.end(); // Close the log file stream
+              console.log(`Process completed. Check ${logFile} for details.`);
+          });
+        }
+      });
+    }
     const dict = qr_status.files[qr_status.dict_idx];
     const line_idx = qr_status.line_idx;
     const name = `${dict}-${line_idx}`;
@@ -91,7 +170,7 @@ const main = async () => {
     console.log(`> QR code under analysis: file: ${dict}, line: ${line_idx}`);
 
     driver = await checkAppRunningAndRestart(driver, wdio_timeout);
-
+    
     // Hook to result view
     const result_view = await appIns.getResultView(driver);
 
@@ -106,6 +185,12 @@ const main = async () => {
         saveScreenshot(data_path, name + ".png", driver),
       ]);
     } else {
+      //the qr code is successfully scanned so i update the coverage count variable
+      coverage_count++;
+
+      // Save the integer to the file
+      fs.writeFileSync("coverage_count.txt", coverage_count.toString());
+      console.log(`Saved value ${coverage_count} to coverage_count.txt`);
       // Await for the script before taking a screenshot
       await sleep(200);
       const msg = `[index.ts] Read QR Code: file: ${dict}, line: ${line_idx}`;
