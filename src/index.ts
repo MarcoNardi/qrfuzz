@@ -86,14 +86,14 @@ const main = async () => {
   let coverage_count=0;
   
   const fs = require("fs")
-
+  let qrcodecountsfile=`qrcodecounts${appIns.app_package}.txt`
   try {
-    const data = fs.readFileSync("x.txt", 'utf8');
-    coverage_count = parseInt(data, 10); // Convert the string data to an integer
-    console.log(`Read value ${coverage_count} from coverage_count.txt}`);
+    const data = fs.readFileSync(qrcodecountsfile, 'utf8');
+    coverage_count = parseInt(data, 10); 
+    console.log(`Read value ${coverage_count} from ${qrcodecountsfile}`);
   } catch (error) {
-    console.error(`Error reading file coverage_count.txt:`, error);
-    coverage_count = 0; // Provide a default value or handle the error as needed
+    console.error(`Error reading file ${qrcodecountsfile}`, error);
+    coverage_count = 0; // default value
 }
   while ((([qr_payload, qr_status] = qr_iter()), qr_payload != null)) {
     
