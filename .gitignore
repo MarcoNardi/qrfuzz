@@ -12,3 +12,6 @@ data-tests/
 src/inspectors/credentials.json
 src/coverage_count.txt
 src/outputacv.log
+src/qrcodecountsposteitaliane.posteapp.apppostepay.txt
+test/apks/times_log.csv
+test/apks/times_log.csv

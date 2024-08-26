@@ -52,6 +52,7 @@ require android_sdk
     emulator_args+=(-camera-back "$webcam")
 }
 
+echo "${emulator_args[@]}"
 require avd
 
 # Launch the emulator
