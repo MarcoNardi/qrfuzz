@@ -1,0 +1,2183 @@
+Output 2024-08-30T12:11:47.296Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:11:53.031Z: ec files: 1(1), probes: 43130 out of 661313 total; 6.521873908421579% coverage
+
+Output 2024-08-30T12:11:53.031Z: 	st 1: 0 out of 620042, 0.0%
+
+Output 2024-08-30T12:11:53.629Z: new	st 1: 39811 out of 620042, 6.4206940820137985%
+
+Output 2024-08-30T12:11:53.629Z: diff	st 1: lines [91m39811[0m(620042), methods [91m3823[0m(46839), classes 0(7883), coverage 6.4206940820137985%
+
+Output 2024-08-30T12:11:57.285Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:11:57.285Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T12:12:05.196Z: ec files: 5(1), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T12:12:05.196Z: 	st 5: 0 out of 770005, 0.0%
+
+Output 2024-08-30T12:12:05.914Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:12:05.915Z: diff	st 5: lines [91m761[0m(770005), methods [91m79[0m(53662), classes 0(8082), coverage 0.0988305270744995%
+
+Output 2024-08-30T12:12:10.090Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T12:12:10.090Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:12:12.434Z: ec files: 7(1), probes: 3038 out of 155559 total; 1.9529567559575467% coverage
+
+Output 2024-08-30T12:12:12.434Z: 	st 7: 0 out of 142586, 0.0%
+
+Output 2024-08-30T12:12:12.595Z: new	st 7: 2711 out of 142586, 1.9013086838820081%
+
+Output 2024-08-30T12:12:12.595Z: diff	st 7: lines [91m2711[0m(142586), methods [91m346[0m(13820), classes 0(2165), coverage 1.9013086838820081%
+
+Output 2024-08-30T12:12:13.450Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:12:13.450Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T12:12:18.997Z: ec files: 6(1), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+
+Output 2024-08-30T12:12:18.997Z: 	st 6: 0 out of 552128, 0.0%
+
+Output 2024-08-30T12:12:19.671Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:12:19.671Z: diff	st 6: lines [91m1731[0m(552128), methods [91m151[0m(53263), classes 0(9329), coverage 0.31351425756346357%
+
+Output 2024-08-30T12:12:23.564Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T12:12:23.566Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:12:28.605Z: ec files: 3(1), probes: 10058 out of 729379 total; 1.378981297788941% coverage
+
+Output 2024-08-30T12:12:28.605Z: 	st 3: 0 out of 691520, 0.0%
+
+Output 2024-08-30T12:12:29.464Z: new	st 3: 9323 out of 691520, 1.3481894956038871%
+
+Output 2024-08-30T12:12:29.464Z: diff	st 3: lines [91m9323[0m(691520), methods [91m853[0m(43132), classes 0(6427), coverage 1.3481894956038871%
+
+Output 2024-08-30T12:12:33.697Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:12:33.697Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:12:39.699Z: ec files: 2(1), probes: 8619 out of 621264 total; 1.3873329212701846% coverage
+
+Output 2024-08-30T12:12:39.699Z: 	st 2: 0 out of 582539, 0.0%
+
+Output 2024-08-30T12:12:40.434Z: new	st 2: 7859 out of 582539, 1.3490942237343766%
+
+Output 2024-08-30T12:12:40.435Z: diff	st 2: lines [91m7859[0m(582539), methods [91m862[0m(43316), classes 0(7363), coverage 1.3490942237343766%
+
+Output 2024-08-30T12:12:44.225Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:12:44.225Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:12:50.086Z: ec files: 4(1), probes: 7180 out of 481398 total; 1.4914893705416308% coverage
+
+Output 2024-08-30T12:12:50.086Z: 	st 4: 0 out of 447285, 0.0%
+
+Output 2024-08-30T12:12:50.684Z: new	st 4: 6552 out of 447285, 1.464837855058855%
+
+Output 2024-08-30T12:12:50.684Z: diff	st 4: lines [91m6552[0m(447285), methods [91m764[0m(37191), classes 0(5406), coverage 1.464837855058855%
+
+Output 2024-08-30T12:12:53.691Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:12:53.691Z:  total diff: lines [91m68748[0m(3806105), methods [91m6878[0m(291223), classes 0(46655), coverage 1.8062560018706788%
+
+2024-08-30T12:12:54.289Z Process exited with code 0
+Output 2024-08-30T12:16:25.972Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:16:34.792Z: ec files: 1(2), probes: 43188 out of 661313 total; 6.530644339367289% coverage
+
+Output 2024-08-30T12:16:34.793Z: 	st 1: 39811 out of 620042, 6.4206940820137985%
+
+Output 2024-08-30T12:16:35.420Z: new	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:16:35.420Z: diff	st 1: lines [91m52[0m(620042), methods [91m6[0m(46839), classes 0(7883), coverage 0.00838652865451095%
+
+Output 2024-08-30T12:16:38.950Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T12:16:47.804Z: ec files: 5(2), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T12:16:47.810Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:16:48.584Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:16:48.584Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:16:51.092Z: ec files: 7(2), probes: 3045 out of 155559 total; 1.9574566563168958% coverage
+
+Output 2024-08-30T12:16:51.092Z: 	st 7: 2711 out of 142586, 1.9013086838820081%
+
+Output 2024-08-30T12:16:51.298Z: new	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:16:51.298Z: diff	st 7: lines [91m7[0m(142586), methods 0(13820), classes 0(2165), coverage 0.004909317885346334%
+
+Output 2024-08-30T12:16:52.170Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:16:52.170Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T12:17:00.886Z: ec files: 6(2), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+
+Output 2024-08-30T12:17:00.886Z: 	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:17:01.562Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:17:01.562Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:17:09.733Z: ec files: 3(2), probes: 10074 out of 729379 total; 1.3811749447132424% coverage
+
+Output 2024-08-30T12:17:09.733Z: 	st 3: 9323 out of 691520, 1.3481894956038871%
+
+Output 2024-08-30T12:17:10.471Z: new	st 3: 9340 out of 691520, 1.3506478482184174%
+
+Output 2024-08-30T12:17:10.472Z: diff	st 3: lines [91m17[0m(691520), methods 0(43132), classes 0(6427), coverage 0.002458352614530257%
+
+Output 2024-08-30T12:17:14.339Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:17:14.340Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:17:21.995Z: ec files: 4(2), probes: 7184 out of 481398 total; 1.4923202838399827% coverage
+
+Output 2024-08-30T12:17:21.996Z: 	st 4: 6552 out of 447285, 1.464837855058855%
+
+Output 2024-08-30T12:17:22.529Z: new	st 4: 6557 out of 447285, 1.4659557105648524%
+
+Output 2024-08-30T12:17:22.529Z: diff	st 4: lines [91m5[0m(447285), methods 0(37191), classes 0(5406), coverage 0.001117855505997252%
+
+Output 2024-08-30T12:17:25.339Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:17:25.339Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:17:32.632Z: ec files: 2(2), probes: 8690 out of 621264 total; 1.3987612351592882% coverage
+
+Output 2024-08-30T12:17:32.632Z: 	st 2: 7859 out of 582539, 1.3490942237343766%
+
+Output 2024-08-30T12:17:33.252Z: new	st 2: 7927 out of 582539, 1.360767261934394%
+
+Output 2024-08-30T12:17:33.253Z: diff	st 2: lines [91m68[0m(582539), methods [91m3[0m(43316), classes 0(7363), coverage 0.01167303820001752%
+
+Output 2024-08-30T12:17:36.737Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:17:36.744Z:  total diff: lines [91m149[0m(3806105), methods [91m9[0m(291223), classes 0(46655), coverage 0.003914763255348972%
+
+2024-08-30T12:17:37.469Z Process exited with code 0
+Output 2024-08-30T12:21:01.948Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:21:11.604Z: ec files: 1(3), probes: 43188 out of 661313 total; 6.530644339367289% coverage
+
+Output 2024-08-30T12:21:11.605Z: 	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:21:12.186Z: new	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:21:12.186Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T12:21:23.800Z: ec files: 5(3), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T12:21:23.800Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:21:24.593Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:21:24.594Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T12:21:24.594Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:21:27.142Z: ec files: 7(3), probes: 3045 out of 155559 total; 1.9574566563168958% coverage
+
+Output 2024-08-30T12:21:27.143Z: 	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:21:27.363Z: new	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:21:27.364Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T12:21:36.874Z: ec files: 6(3), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+
+Output 2024-08-30T12:21:36.874Z: 	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:21:37.568Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:21:37.568Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:21:46.687Z: ec files: 3(3), probes: 10074 out of 729379 total; 1.3811749447132424% coverage
+
+Output 2024-08-30T12:21:46.687Z: 	st 3: 9340 out of 691520, 1.3506478482184174%
+
+Output 2024-08-30T12:21:47.383Z: new	st 3: 9340 out of 691520, 1.3506478482184174%
+
+Output 2024-08-30T12:21:47.383Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:21:55.704Z: ec files: 4(3), probes: 7402 out of 481398 total; 1.5376050586001604% coverage
+
+Output 2024-08-30T12:21:55.710Z: 	st 4: 6557 out of 447285, 1.4659557105648524%
+
+Output 2024-08-30T12:21:56.256Z: new	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:21:56.257Z: diff	st 4: lines [91m207[0m(447285), methods [91m16[0m(37191), classes 0(5406), coverage 0.046279217948288%
+
+Output 2024-08-30T12:21:58.694Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:21:58.694Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:22:08.535Z: ec files: 2(3), probes: 8690 out of 621264 total; 1.3987612351592882% coverage
+
+Output 2024-08-30T12:22:08.535Z: 	st 2: 7927 out of 582539, 1.360767261934394%
+
+Output 2024-08-30T12:22:09.205Z: new	st 2: 7927 out of 582539, 1.360767261934394%
+
+Output 2024-08-30T12:22:09.205Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+ total diff: lines [91m207[0m(3806105), methods [91m16[0m(291223), classes 0(46655), coverage 0.005438630831256626%
+
+2024-08-30T12:22:10.006Z Process exited with code 0
+Output 2024-08-30T12:25:43.345Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:25:53.980Z: ec files: 1(4), probes: 43188 out of 661313 total; 6.530644339367289% coverage
+
+Output 2024-08-30T12:25:53.981Z: 	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:25:54.593Z: new	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:25:54.593Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T12:26:08.332Z: ec files: 5(4), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T12:26:08.332Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:26:09.052Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:26:09.052Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:26:12.054Z: ec files: 7(4), probes: 3045 out of 155559 total; 1.9574566563168958% coverage
+
+Output 2024-08-30T12:26:12.054Z: 	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:26:12.215Z: new	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:26:12.215Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:26:22.733Z: ec files: 2(4), probes: 8719 out of 621264 total; 1.403429138015401% coverage
+	st 2: 7927 out of 582539, 1.360767261934394%
+
+Output 2024-08-30T12:26:23.450Z: new	st 2: 7956 out of 582539, 1.3657454694020486%
+
+Output 2024-08-30T12:26:23.450Z: diff	st 2: lines [91m29[0m(582539), methods 0(43316), classes 0(7363), coverage 0.004978207467654615%
+
+Output 2024-08-30T12:26:27.329Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:26:27.335Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T12:26:38.363Z: ec files: 6(4), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+
+Output 2024-08-30T12:26:38.363Z: 	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:26:39.002Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T12:26:39.002Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:26:51.282Z: ec files: 3(4), probes: 10092 out of 729379 total; 1.3836427975030814% coverage
+
+Output 2024-08-30T12:26:51.282Z: 	st 3: 9340 out of 691520, 1.3506478482184174%
+
+Output 2024-08-30T12:26:52.024Z: new	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:26:52.025Z: diff	st 3: lines [91m18[0m(691520), methods 0(43132), classes 0(6427), coverage 0.002602961591855607%
+
+Output 2024-08-30T12:26:55.889Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:26:55.889Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:27:04.439Z: ec files: 4(4), probes: 7402 out of 481398 total; 1.5376050586001604% coverage
+
+Output 2024-08-30T12:27:04.439Z: 	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:27:05.007Z: new	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:27:05.007Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+ total diff: lines [91m47[0m(3806105), methods 0(291223), classes 0(46655), coverage 0.0012348582080630988%
+
+2024-08-30T12:27:05.598Z Process exited with code 0
+Output 2024-08-30T12:30:12.683Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:30:24.506Z: ec files: 1(5), probes: 43188 out of 661313 total; 6.530644339367289% coverage
+
+Output 2024-08-30T12:30:24.506Z: 	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:30:25.103Z: new	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:30:25.104Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T12:30:40.312Z: ec files: 5(5), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T12:30:40.312Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:30:41.035Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:30:41.035Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:30:44.664Z: ec files: 7(5), probes: 3045 out of 155559 total; 1.9574566563168958% coverage
+
+Output 2024-08-30T12:30:44.664Z: 	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:30:44.840Z: new	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:30:44.841Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:30:56.842Z: ec files: 2(5), probes: 8719 out of 621264 total; 1.403429138015401% coverage
+
+Output 2024-08-30T12:30:56.842Z: 	st 2: 7956 out of 582539, 1.3657454694020486%
+
+Output 2024-08-30T12:30:57.462Z: new	st 2: 7956 out of 582539, 1.3657454694020486%
+
+Output 2024-08-30T12:30:57.462Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T12:31:09.640Z: ec files: 6(5), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+
+Output 2024-08-30T12:31:09.640Z: 	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:31:10.256Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:31:10.256Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:31:22.615Z: ec files: 3(5), probes: 10092 out of 729379 total; 1.3836427975030814% coverage
+
+Output 2024-08-30T12:31:22.615Z: 	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:31:23.330Z: new	st 3: 9358 out of 691520, 1.353250809810273%
+diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T12:31:23.330Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:31:33.631Z: ec files: 4(5), probes: 7402 out of 481398 total; 1.5376050586001604% coverage
+	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:31:34.139Z: new	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:31:34.140Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+ total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T12:31:34.811Z Process exited with code 0
+Output 2024-08-30T12:34:50.839Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:35:02.910Z: ec files: 2(6), probes: 8720 out of 621264 total; 1.403590100182853% coverage
+
+Output 2024-08-30T12:35:02.910Z: 	st 2: 7956 out of 582539, 1.3657454694020486%
+
+Output 2024-08-30T12:35:03.486Z: new	st 2: 7957 out of 582539, 1.3659171317285195%
+
+Output 2024-08-30T12:35:03.486Z: diff	st 2: lines [91m1[0m(582539), methods 0(43316), classes 0(7363), coverage 0.000171662326470777%
+
+Output 2024-08-30T12:35:07.187Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:35:07.188Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:35:20.880Z: ec files: 1(6), probes: 43188 out of 661313 total; 6.530644339367289% coverage
+
+Output 2024-08-30T12:35:20.880Z: 	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:35:21.601Z: new	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:35:21.601Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T12:35:38.136Z: ec files: 5(6), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T12:35:38.136Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:35:38.917Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:35:38.917Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:35:43.019Z: ec files: 7(6), probes: 3045 out of 155559 total; 1.9574566563168958% coverage
+
+Output 2024-08-30T12:35:43.019Z: 	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:35:43.270Z: new	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:35:43.270Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T12:35:56.005Z: ec files: 6(6), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+
+Output 2024-08-30T12:35:56.005Z: 	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:35:56.695Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:35:56.696Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:36:11.321Z: ec files: 3(6), probes: 10092 out of 729379 total; 1.3836427975030814% coverage
+
+Output 2024-08-30T12:36:11.321Z: 	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:36:12.004Z: new	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:36:12.004Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:36:22.997Z: ec files: 4(6), probes: 7402 out of 481398 total; 1.5376050586001604% coverage
+
+Output 2024-08-30T12:36:22.997Z: 	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:36:23.526Z: new	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:36:23.526Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+ total diff: lines [91m1[0m(3806105), methods 0(291223), classes 0(46655), coverage 2.6273578894959547e-05%
+
+2024-08-30T12:36:24.108Z Process exited with code 0
+Output 2024-08-30T12:39:21.609Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:39:34.994Z: ec files: 2(7), probes: 8720 out of 621264 total; 1.403590100182853% coverage
+
+Output 2024-08-30T12:39:34.994Z: 	st 2: 7957 out of 582539, 1.3659171317285195%
+
+Output 2024-08-30T12:39:35.549Z: new	st 2: 7957 out of 582539, 1.3659171317285195%
+
+Output 2024-08-30T12:39:35.550Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:39:50.831Z: ec files: 1(7), probes: 43188 out of 661313 total; 6.530644339367289% coverage
+	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:39:51.427Z: new	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:39:51.428Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:40:07.420Z: ec files: 3(7), probes: 10092 out of 729379 total; 1.3836427975030814% coverage
+
+Output 2024-08-30T12:40:07.420Z: 	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:40:08.071Z: new	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:40:08.071Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T12:40:26.454Z: ec files: 5(7), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T12:40:26.454Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:40:27.259Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:40:27.259Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:40:31.840Z: ec files: 7(7), probes: 3045 out of 155559 total; 1.9574566563168958% coverage
+
+Output 2024-08-30T12:40:31.840Z: 	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:40:32.065Z: new	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:40:32.066Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T12:40:45.691Z: ec files: 6(7), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+
+Output 2024-08-30T12:40:45.692Z: 	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:40:46.302Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:40:58.325Z: ec files: 4(7), probes: 7402 out of 481398 total; 1.5376050586001604% coverage
+
+Output 2024-08-30T12:40:58.326Z: 	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:40:58.827Z: new	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:40:58.827Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+ total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T12:40:59.410Z Process exited with code 0
+Output 2024-08-30T12:43:52.687Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:44:07.225Z: ec files: 2(8), probes: 8724 out of 621264 total; 1.4042339488526616% coverage
+
+Output 2024-08-30T12:44:07.225Z: 	st 2: 7957 out of 582539, 1.3659171317285195%
+
+Output 2024-08-30T12:44:07.798Z: new	st 2: 7961 out of 582539, 1.366603781034403%
+
+Output 2024-08-30T12:44:07.798Z: diff	st 2: lines [91m4[0m(582539), methods 0(43316), classes 0(7363), coverage 0.000686649305883455%
+
+Output 2024-08-30T12:44:11.352Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:44:11.353Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T12:44:26.924Z: ec files: 6(8), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+
+Output 2024-08-30T12:44:26.924Z: 	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:44:27.551Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:44:27.551Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:44:43.606Z: ec files: 1(8), probes: 43188 out of 661313 total; 6.530644339367289% coverage
+
+Output 2024-08-30T12:44:43.606Z: 	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:44:44.259Z: new	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:44:44.259Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:45:01.460Z: ec files: 3(8), probes: 10092 out of 729379 total; 1.3836427975030814% coverage
+
+Output 2024-08-30T12:45:01.460Z: 	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:45:02.155Z: new	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:45:02.155Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T12:45:34.402Z: ec files: 5(8), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T12:45:34.409Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:45:35.722Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:45:35.722Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:45:54.695Z: ec files: 4(8), probes: 7402 out of 481398 total; 1.5376050586001604% coverage
+
+Output 2024-08-30T12:45:54.695Z: 	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:45:55.205Z: new	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:45:55.211Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+
+Output 2024-08-30T12:45:55.211Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:45:59.707Z: ec files: 7(8), probes: 3045 out of 155559 total; 1.9574566563168958% coverage
+
+Output 2024-08-30T12:45:59.707Z: 	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:45:59.889Z: new	st 7: 2718 out of 142586, 1.9062180017673545%
+diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines [91m4[0m(3806105), methods 0(291223), classes 0(46655), coverage 0.00010509431557983819%
+
+2024-08-30T12:46:00.223Z Process exited with code 0
+Output 2024-08-30T12:48:25.458Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:48:40.640Z: ec files: 2(9), probes: 8724 out of 621264 total; 1.4042339488526616% coverage
+
+Output 2024-08-30T12:48:40.640Z: 	st 2: 7961 out of 582539, 1.366603781034403%
+
+Output 2024-08-30T12:48:41.251Z: new	st 2: 7961 out of 582539, 1.366603781034403%
+
+Output 2024-08-30T12:48:41.251Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T12:48:57.730Z: ec files: 6(9), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+
+Output 2024-08-30T12:48:57.730Z: 	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:48:58.429Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T12:48:58.429Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:49:15.998Z: ec files: 1(9), probes: 43324 out of 661313 total; 6.551209487791711% coverage
+
+Output 2024-08-30T12:49:15.999Z: 	st 1: 39863 out of 620042, 6.42908061066831%
+
+Output 2024-08-30T12:49:16.832Z: new	st 1: 39985 out of 620042, 6.448756697126969%
+
+Output 2024-08-30T12:49:16.832Z: diff	st 1: lines [91m122[0m(620042), methods [91m15[0m(46839), classes 0(7883), coverage 0.019676086458658704%
+
+Output 2024-08-30T12:49:20.893Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:49:20.895Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:49:38.016Z: ec files: 3(9), probes: 10092 out of 729379 total; 1.3836427975030814% coverage
+
+Output 2024-08-30T12:49:38.016Z: 	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:49:38.753Z: new	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:49:38.753Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T12:50:00.415Z: ec files: 5(9), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T12:50:00.415Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:50:01.742Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:50:01.742Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:50:24.726Z: ec files: 4(9), probes: 7402 out of 481398 total; 1.5376050586001604% coverage
+
+Output 2024-08-30T12:50:24.726Z: 	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:50:25.795Z: new	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:50:25.795Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:50:31.074Z: ec files: 7(9), probes: 3045 out of 155559 total; 1.9574566563168958% coverage
+
+Output 2024-08-30T12:50:31.075Z: 	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:50:31.241Z: new	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:50:31.241Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines [91m122[0m(3806105), methods [91m15[0m(291223), classes 0(46655), coverage 0.0032053766251850645%
+
+2024-08-30T12:50:31.560Z Process exited with code 0
+Output 2024-08-30T12:52:55.301Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:53:12.049Z: ec files: 2(10), probes: 8724 out of 621264 total; 1.4042339488526616% coverage
+
+Output 2024-08-30T12:53:12.049Z: 	st 2: 7961 out of 582539, 1.366603781034403%
+
+Output 2024-08-30T12:53:12.756Z: new	st 2: 7961 out of 582539, 1.366603781034403%
+diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T12:53:30.618Z: ec files: 6(10), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:53:31.291Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:53:31.291Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T12:53:31.291Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:53:56.068Z: ec files: 4(10), probes: 7402 out of 481398 total; 1.5376050586001604% coverage
+
+Output 2024-08-30T12:53:56.068Z: 	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:53:56.890Z: new	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:53:56.890Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:54:18.872Z: ec files: 1(10), probes: 43324 out of 661313 total; 6.551209487791711% coverage
+
+Output 2024-08-30T12:54:18.873Z: 	st 1: 39985 out of 620042, 6.448756697126969%
+
+Output 2024-08-30T12:54:19.760Z: new	st 1: 39985 out of 620042, 6.448756697126969%
+
+Output 2024-08-30T12:54:19.760Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+
+Output 2024-08-30T12:54:19.767Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:54:38.411Z: ec files: 3(10), probes: 10092 out of 729379 total; 1.3836427975030814% coverage
+
+Output 2024-08-30T12:54:38.411Z: 	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:54:39.123Z: new	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:54:39.124Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T12:55:02.383Z: ec files: 5(10), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T12:55:02.383Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:55:03.148Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:55:03.148Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:55:11.887Z: ec files: 7(10), probes: 3045 out of 155559 total; 1.9574566563168958% coverage
+
+Output 2024-08-30T12:55:11.888Z: 	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:55:12.207Z: new	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:55:12.208Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T12:55:12.709Z Process exited with code 0
+Output 2024-08-30T12:57:25.667Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T12:57:43.269Z: ec files: 2(11), probes: 8724 out of 621264 total; 1.4042339488526616% coverage
+
+Output 2024-08-30T12:57:43.269Z: 	st 2: 7961 out of 582539, 1.366603781034403%
+
+Output 2024-08-30T12:57:43.920Z: new	st 2: 7961 out of 582539, 1.366603781034403%
+
+Output 2024-08-30T12:57:43.920Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T12:58:02.693Z: ec files: 6(11), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+
+Output 2024-08-30T12:58:02.694Z: 	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:58:03.295Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T12:58:03.295Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T12:58:18.210Z: ec files: 4(11), probes: 7402 out of 481398 total; 1.5376050586001604% coverage
+
+Output 2024-08-30T12:58:18.210Z: 	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T12:58:18.720Z: new	st 4: 6764 out of 447285, 1.5122349285131402%
+diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T12:58:38.715Z: ec files: 1(11), probes: 43324 out of 661313 total; 6.551209487791711% coverage
+
+Output 2024-08-30T12:58:38.715Z: 	st 1: 39985 out of 620042, 6.448756697126969%
+
+Output 2024-08-30T12:58:39.445Z: new	st 1: 39985 out of 620042, 6.448756697126969%
+
+Output 2024-08-30T12:58:39.445Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:59:00.586Z: ec files: 3(11), probes: 10132 out of 729379 total; 1.3891269148138348% coverage
+
+Output 2024-08-30T12:59:00.587Z: 	st 3: 9358 out of 691520, 1.353250809810273%
+
+Output 2024-08-30T12:59:01.248Z: new	st 3: 9398 out of 691520, 1.3590351689032856%
+
+Output 2024-08-30T12:59:01.248Z: diff	st 3: lines [91m40[0m(691520), methods 0(43132), classes 0(6427), coverage 0.005784359093012614%
+
+Output 2024-08-30T12:59:05.615Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T12:59:05.615Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T12:59:44.612Z: ec files: 5(11), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T12:59:44.618Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:59:45.368Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T12:59:45.374Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T12:59:45.374Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T12:59:50.878Z: ec files: 7(11), probes: 3045 out of 155559 total; 1.9574566563168958% coverage
+
+Output 2024-08-30T12:59:50.878Z: 	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:59:51.054Z: new	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T12:59:51.054Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines [91m40[0m(3806105), methods 0(291223), classes 0(46655), coverage 0.0010509431557983817%
+
+2024-08-30T12:59:51.466Z Process exited with code 0
+Output 2024-08-30T13:02:03.752Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:02:22.750Z: ec files: 2(12), probes: 8724 out of 621264 total; 1.4042339488526616% coverage
+
+Output 2024-08-30T13:02:22.751Z: 	st 2: 7961 out of 582539, 1.366603781034403%
+
+Output 2024-08-30T13:02:23.306Z: new	st 2: 7961 out of 582539, 1.366603781034403%
+
+Output 2024-08-30T13:02:23.306Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:02:55.664Z: ec files: 6(12), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+
+Output 2024-08-30T13:02:55.670Z: 	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T13:02:56.261Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T13:02:56.261Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T13:02:56.266Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:03:11.892Z: ec files: 4(12), probes: 7402 out of 481398 total; 1.5376050586001604% coverage
+
+Output 2024-08-30T13:03:11.892Z: 	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T13:03:12.433Z: new	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T13:03:12.433Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:03:33.578Z: ec files: 1(12), probes: 43324 out of 661313 total; 6.551209487791711% coverage
+
+Output 2024-08-30T13:03:33.578Z: 	st 1: 39985 out of 620042, 6.448756697126969%
+
+Output 2024-08-30T13:03:34.210Z: new	st 1: 39985 out of 620042, 6.448756697126969%
+
+Output 2024-08-30T13:03:34.210Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:03:57.403Z: ec files: 3(12), probes: 10132 out of 729379 total; 1.3891269148138348% coverage
+
+Output 2024-08-30T13:03:57.403Z: 	st 3: 9398 out of 691520, 1.3590351689032856%
+
+Output 2024-08-30T13:03:58.153Z: new	st 3: 9398 out of 691520, 1.3590351689032856%
+
+Output 2024-08-30T13:03:58.153Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T13:03:58.153Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:04:41.850Z: ec files: 5(12), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T13:04:41.852Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T13:04:43.119Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T13:04:43.120Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T13:04:43.126Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:04:49.620Z: ec files: 7(12), probes: 3045 out of 155559 total; 1.9574566563168958% coverage
+
+Output 2024-08-30T13:04:49.620Z: 	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T13:04:49.785Z: new	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T13:04:49.786Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T13:04:50.139Z Process exited with code 0
+Output 2024-08-30T13:06:40.760Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:07:01.065Z: ec files: 2(13), probes: 8739 out of 621264 total; 1.4066483813644441% coverage
+
+Output 2024-08-30T13:07:01.065Z: 	st 2: 7961 out of 582539, 1.366603781034403%
+
+Output 2024-08-30T13:07:01.823Z: new	st 2: 7976 out of 582539, 1.3691787159314655%
+
+Output 2024-08-30T13:07:01.824Z: diff	st 2: lines [91m15[0m(582539), methods 0(43316), classes 0(7363), coverage 0.002574934897062696%
+
+Output 2024-08-30T13:07:07.331Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:07:07.331Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:07:37.387Z: ec files: 6(13), probes: 1870 out of 602060 total; 0.31060027239809984% coverage
+
+Output 2024-08-30T13:07:37.387Z: 	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T13:07:38.057Z: new	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T13:07:38.057Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:07:54.920Z: ec files: 4(13), probes: 7405 out of 481398 total; 1.5382282435739243% coverage
+	st 4: 6764 out of 447285, 1.5122349285131402%
+
+Output 2024-08-30T13:07:55.462Z: new	st 4: 6767 out of 447285, 1.5129056418167388%
+
+Output 2024-08-30T13:07:55.462Z: diff	st 4: lines [91m3[0m(447285), methods 0(37191), classes 0(5406), coverage 0.00067071330359849%
+
+Output 2024-08-30T13:07:58.411Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:07:58.411Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:08:21.800Z: ec files: 1(13), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T13:08:21.800Z: 	st 1: 39985 out of 620042, 6.448756697126969%
+
+Output 2024-08-30T13:08:22.501Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:08:22.501Z: diff	st 1: lines [91m25[0m(620042), methods [91m1[0m(46839), classes 0(7883), coverage 0.0040319849300529675%
+
+Output 2024-08-30T13:08:27.383Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:08:27.384Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:09:01.486Z: ec files: 3(13), probes: 10132 out of 729379 total; 1.3891269148138348% coverage
+
+Output 2024-08-30T13:09:01.486Z: 	st 3: 9398 out of 691520, 1.3590351689032856%
+
+Output 2024-08-30T13:09:02.149Z: new	st 3: 9398 out of 691520, 1.3590351689032856%
+
+Output 2024-08-30T13:09:02.149Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:09:30.074Z: ec files: 5(13), probes: 831 out of 819600 total; 0.1013909224011713% coverage
+
+Output 2024-08-30T13:09:30.081Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T13:09:31.375Z: new	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T13:09:31.377Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T13:09:31.382Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:09:41.990Z: ec files: 7(13), probes: 3045 out of 155559 total; 1.9574566563168958% coverage
+
+Output 2024-08-30T13:09:41.991Z: 	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T13:09:42.265Z: new	st 7: 2718 out of 142586, 1.9062180017673545%
+diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines [91m43[0m(3806105), methods [91m1[0m(291223), classes 0(46655), coverage 0.0011297638924832605%
+
+2024-08-30T13:09:42.846Z Process exited with code 0
+Output 2024-08-30T13:11:10.747Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:11:36.353Z: ec files: 2(14), probes: 8983 out of 621264 total; 1.4459231502227716% coverage
+
+Output 2024-08-30T13:11:36.354Z: 	st 2: 7976 out of 582539, 1.3691787159314655%
+
+Output 2024-08-30T13:11:37.428Z: new	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:11:37.428Z: diff	st 2: lines [91m229[0m(582539), methods [91m21[0m(43316), classes 0(7363), coverage 0.03931067276182372%
+
+Output 2024-08-30T13:11:42.588Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:11:42.588Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:12:13.938Z: ec files: 6(14), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T13:12:13.938Z: 	st 6: 1731 out of 552128, 0.31351425756346357%
+
+Output 2024-08-30T13:12:14.522Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:12:14.522Z: diff	st 6: lines [91m6[0m(552128), methods [91m2[0m(53263), classes 0(9329), coverage 0.0010867045322823527%
+
+Output 2024-08-30T13:12:18.112Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:12:18.112Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:12:36.033Z: ec files: 4(14), probes: 7533 out of 481398 total; 1.5648174691211845% coverage
+
+Output 2024-08-30T13:12:36.033Z: 	st 4: 6767 out of 447285, 1.5129056418167388%
+
+Output 2024-08-30T13:12:36.593Z: new	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:12:36.593Z: diff	st 4: lines [91m120[0m(447285), methods [91m9[0m(37191), classes 0(5406), coverage 0.026828532143935088%
+
+Output 2024-08-30T13:12:39.456Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:12:39.456Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:13:06.305Z: ec files: 1(14), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T13:13:06.306Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:13:07.515Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:13:07.522Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+
+Output 2024-08-30T13:13:07.522Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:13:40.498Z: ec files: 3(14), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T13:13:40.498Z: 	st 3: 9398 out of 691520, 1.3590351689032856%
+
+Output 2024-08-30T13:13:41.239Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:13:41.239Z: diff	st 3: lines [91m711[0m(691520), methods [91m23[0m(43132), classes 0(6427), coverage 0.10281698287829699%
+
+Output 2024-08-30T13:13:45.192Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:13:45.194Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:14:14.417Z: ec files: 5(14), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T13:14:14.419Z: 	st 5: 761 out of 770005, 0.0988305270744995%
+
+Output 2024-08-30T13:14:15.846Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:14:15.846Z: diff	st 5: lines [91m221[0m(770005), methods [91m7[0m(53662), classes 0(8082), coverage 0.028701112330439427%
+
+Output 2024-08-30T13:14:22.404Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:14:22.406Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:14:33.799Z: ec files: 7(14), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T13:14:33.800Z: 	st 7: 2718 out of 142586, 1.9062180017673545%
+
+Output 2024-08-30T13:14:34.095Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:14:34.095Z: diff	st 7: lines [91m36[0m(142586), methods [91m5[0m(13820), classes 0(2165), coverage 0.02524792055320982%
+
+Output 2024-08-30T13:14:35.429Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:14:35.429Z:  total diff: lines [91m1323[0m(3806105), methods [91m67[0m(291223), classes 0(46655), coverage 0.03475994487803148%
+
+2024-08-30T13:14:36.113Z Process exited with code 0
+Output 2024-08-30T13:15:42.063Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:16:05.005Z: ec files: 2(15), probes: 8983 out of 621264 total; 1.4459231502227716% coverage
+
+Output 2024-08-30T13:16:05.006Z: 	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:16:06.060Z: new	st 2: 8205 out of 582539, 1.4084893886932892%
+diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:16:44.265Z: ec files: 6(15), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T13:16:44.266Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:16:44.857Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:16:44.857Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:17:03.415Z: ec files: 4(15), probes: 7533 out of 481398 total; 1.5648174691211845% coverage
+
+Output 2024-08-30T13:17:03.416Z: 	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:17:03.897Z: new	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:17:03.897Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:17:30.589Z: ec files: 1(15), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T13:17:30.589Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:17:31.709Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:17:31.716Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+
+Output 2024-08-30T13:17:31.716Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:18:11.271Z: ec files: 3(15), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T13:18:11.271Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:18:11.962Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:18:11.962Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T13:18:11.969Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:18:41.541Z: ec files: 5(15), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T13:18:41.544Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:18:42.800Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:18:42.800Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T13:18:42.801Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:18:54.705Z: ec files: 7(15), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T13:18:54.705Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:18:54.989Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:18:54.989Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T13:18:55.729Z Process exited with code 0
+Output 2024-08-30T13:20:18.286Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:20:43.802Z: ec files: 2(16), probes: 8983 out of 621264 total; 1.4459231502227716% coverage
+
+Output 2024-08-30T13:20:43.803Z: 	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:20:45.016Z: new	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:20:45.016Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+
+Output 2024-08-30T13:20:45.016Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:21:22.749Z: ec files: 6(16), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T13:21:22.750Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:21:23.330Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:21:23.330Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:21:43.040Z: ec files: 4(16), probes: 7533 out of 481398 total; 1.5648174691211845% coverage
+
+Output 2024-08-30T13:21:43.040Z: 	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:21:43.594Z: new	st 4: 6887 out of 447285, 1.5397341739606738%
+diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:22:17.406Z: ec files: 1(16), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T13:22:17.407Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:22:18.579Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:22:18.579Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:22:54.030Z: ec files: 3(16), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T13:22:54.031Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:22:54.944Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:22:54.944Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:23:32.545Z: ec files: 5(16), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T13:23:32.546Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:23:34.042Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:23:34.042Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:23:46.105Z: ec files: 7(16), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T13:23:46.105Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:23:46.395Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:23:46.396Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T13:23:47.001Z Process exited with code 0
+Output 2024-08-30T13:24:48.983Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:25:13.434Z: ec files: 2(17), probes: 8983 out of 621264 total; 1.4459231502227716% coverage
+
+Output 2024-08-30T13:25:13.434Z: 	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:25:14.015Z: new	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:25:14.015Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:25:56.264Z: ec files: 6(17), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T13:25:56.264Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:25:56.919Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:25:56.919Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:26:17.180Z: ec files: 4(17), probes: 7533 out of 481398 total; 1.5648174691211845% coverage
+
+Output 2024-08-30T13:26:17.180Z: 	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:26:17.664Z: new	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:26:17.664Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:26:45.054Z: ec files: 1(17), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T13:26:45.055Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:26:45.727Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:26:45.727Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:27:21.333Z: ec files: 3(17), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T13:27:21.340Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:27:22.483Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:27:22.483Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:28:03.908Z: ec files: 5(17), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T13:28:03.908Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:28:05.602Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:28:05.603Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T13:28:05.604Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:28:18.401Z: ec files: 7(17), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T13:28:18.401Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:28:18.677Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:28:18.677Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T13:28:19.227Z Process exited with code 0
+Output 2024-08-30T13:29:21.135Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:29:49.262Z: ec files: 2(18), probes: 8983 out of 621264 total; 1.4459231502227716% coverage
+
+Output 2024-08-30T13:29:49.262Z: 	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:29:50.203Z: new	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:29:50.203Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+
+Output 2024-08-30T13:29:50.204Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:30:33.992Z: ec files: 6(18), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T13:30:33.992Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:30:34.586Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:30:34.586Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T13:30:34.593Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:30:55.738Z: ec files: 4(18), probes: 7533 out of 481398 total; 1.5648174691211845% coverage
+
+Output 2024-08-30T13:30:55.738Z: 	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:30:56.221Z: new	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:30:56.221Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:31:35.942Z: ec files: 1(18), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T13:31:35.949Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:31:36.620Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:31:36.621Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:32:07.383Z: ec files: 3(18), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T13:32:07.383Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:32:08.086Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:32:08.086Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T13:32:08.093Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:32:58.229Z: ec files: 5(18), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T13:32:58.230Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:32:59.056Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:32:59.057Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:33:06.672Z: ec files: 7(18), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T13:33:06.672Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:33:06.840Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:33:06.840Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T13:33:07.403Z Process exited with code 0
+Output 2024-08-30T13:33:57.668Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:34:28.841Z: ec files: 2(19), probes: 8983 out of 621264 total; 1.4459231502227716% coverage
+
+Output 2024-08-30T13:34:28.841Z: 	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:34:29.820Z: new	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:34:29.820Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:35:12.837Z: ec files: 6(19), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T13:35:12.838Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:35:13.458Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:35:13.458Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T13:35:13.465Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:35:35.175Z: ec files: 4(19), probes: 7533 out of 481398 total; 1.5648174691211845% coverage
+
+Output 2024-08-30T13:35:35.176Z: 	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:35:35.677Z: new	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:35:35.677Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:36:08.218Z: ec files: 1(19), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T13:36:08.218Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:36:09.343Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:36:09.343Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+
+Output 2024-08-30T13:36:09.344Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:36:48.289Z: ec files: 3(19), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T13:36:48.290Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:36:48.994Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:36:48.994Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T13:36:49.000Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:37:23.734Z: ec files: 5(19), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T13:37:23.742Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:37:25.044Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T13:37:25.045Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:37:39.582Z: ec files: 7(19), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T13:37:39.582Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:37:39.886Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:37:39.886Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T13:37:40.448Z Process exited with code 0
+Output 2024-08-30T13:38:32.725Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:39:00.382Z: ec files: 2(20), probes: 8983 out of 621264 total; 1.4459231502227716% coverage
+
+Output 2024-08-30T13:39:00.382Z: 	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:39:01.024Z: new	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:39:01.025Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:39:37.634Z: ec files: 6(20), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T13:39:37.640Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:39:38.882Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:39:38.882Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T13:39:38.882Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:40:14.390Z: ec files: 4(20), probes: 7533 out of 481398 total; 1.5648174691211845% coverage
+
+Output 2024-08-30T13:40:14.390Z: 	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:40:14.957Z: new	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:40:14.957Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:40:54.711Z: ec files: 1(20), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T13:40:54.711Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:40:56.059Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:40:56.060Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:41:40.652Z: ec files: 3(20), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T13:41:40.653Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:41:42.041Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:41:42.042Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:42:33.398Z: ec files: 5(20), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T13:42:33.400Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:42:34.771Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:42:34.772Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T13:42:34.779Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:42:50.079Z: ec files: 7(20), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T13:42:50.079Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:42:50.363Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T13:42:51.089Z Process exited with code 0
+Output 2024-08-30T13:43:12.511Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:43:52.149Z: ec files: 2(21), probes: 8983 out of 621264 total; 1.4459231502227716% coverage
+	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:43:53.091Z: new	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:43:53.091Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:44:33.030Z: ec files: 6(21), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T13:44:33.031Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:44:33.674Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:44:33.674Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:45:14.417Z: ec files: 4(21), probes: 7533 out of 481398 total; 1.5648174691211845% coverage
+
+Output 2024-08-30T13:45:14.423Z: 	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:45:14.946Z: new	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:45:14.946Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:45:55.220Z: ec files: 1(21), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T13:45:55.220Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:45:56.297Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:45:56.297Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+
+Output 2024-08-30T13:45:56.297Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:46:43.662Z: ec files: 3(21), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T13:46:43.662Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:46:44.955Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:46:44.955Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T13:46:44.955Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:47:37.775Z: ec files: 5(21), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T13:47:37.782Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:47:39.142Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:47:39.142Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T13:47:39.143Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:47:50.465Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:47:55.091Z: ec files: 7(21), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T13:47:55.093Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:47:55.470Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:47:55.471Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+
+Output 2024-08-30T13:47:55.474Z:  total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T13:47:56.253Z Process exited with code 0
+Output 2024-08-30T13:48:30.044Z: ec files: 2(22), probes: 8983 out of 621264 total; 1.4459231502227716% coverage
+
+Output 2024-08-30T13:48:30.045Z: 	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:48:30.967Z: new	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:48:30.967Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+
+Output 2024-08-30T13:48:30.967Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:49:10.719Z: ec files: 6(22), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T13:49:10.720Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:49:11.337Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:49:11.337Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T13:49:11.344Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:49:41.756Z: ec files: 4(22), probes: 7533 out of 481398 total; 1.5648174691211845% coverage
+
+Output 2024-08-30T13:49:41.804Z: 	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:49:42.607Z: new	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:49:42.607Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:50:30.590Z: ec files: 1(22), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T13:50:30.590Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:50:31.258Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:50:31.258Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:51:23.975Z: ec files: 3(22), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T13:51:23.976Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:51:24.687Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:51:24.687Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T13:51:24.693Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:52:21.711Z: ec files: 5(22), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T13:52:21.713Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:52:22.547Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:52:22.547Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T13:52:22.554Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:52:26.200Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:52:33.205Z: ec files: 7(22), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T13:52:33.213Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:52:33.401Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:52:33.405Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+
+Output 2024-08-30T13:52:33.415Z:  total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T13:52:33.997Z Process exited with code 0
+Output 2024-08-30T13:53:06.324Z: ec files: 2(23), probes: 9001 out of 621264 total; 1.4488204692369107% coverage
+
+Output 2024-08-30T13:53:06.324Z: 	st 2: 8205 out of 582539, 1.4084893886932892%
+
+Output 2024-08-30T13:53:07.331Z: new	st 2: 8219 out of 582539, 1.410892661263881%
+
+Output 2024-08-30T13:53:07.331Z: diff	st 2: lines [91m14[0m(582539), methods [91m4[0m(43316), classes 0(7363), coverage 0.0024032725705917454%
+
+Output 2024-08-30T13:53:12.787Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:53:12.787Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:53:51.283Z: ec files: 6(23), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T13:53:51.283Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:53:51.907Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:53:51.907Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:54:19.831Z: ec files: 4(23), probes: 7533 out of 481398 total; 1.5648174691211845% coverage
+
+Output 2024-08-30T13:54:19.831Z: 	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:54:20.647Z: new	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:54:20.647Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+
+Output 2024-08-30T13:54:20.647Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T13:55:08.204Z: ec files: 1(23), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T13:55:08.210Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:55:08.861Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T13:55:08.861Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T13:56:01.967Z: ec files: 3(23), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T13:56:01.967Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:56:02.703Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T13:56:02.704Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T13:56:02.704Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T13:57:01.396Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T13:57:01.706Z: ec files: 5(23), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T13:57:01.707Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:57:03.116Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T13:57:03.116Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T13:57:03.116Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T13:57:22.229Z: ec files: 7(23), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T13:57:22.490Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+ total diff: lines [91m14[0m(3806105), methods [91m4[0m(291223), classes 0(46655), coverage 0.00036783010452943365%
+
+2024-08-30T13:57:23.165Z Process exited with code 0
+Output 2024-08-30T13:57:51.532Z: ec files: 2(24), probes: 9001 out of 621264 total; 1.4488204692369107% coverage
+
+Output 2024-08-30T13:57:51.532Z: 	st 2: 8219 out of 582539, 1.410892661263881%
+
+Output 2024-08-30T13:57:52.116Z: new	st 2: 8219 out of 582539, 1.410892661263881%
+
+Output 2024-08-30T13:57:52.116Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+
+Output 2024-08-30T13:57:52.116Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T13:58:38.969Z: ec files: 6(24), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T13:58:38.970Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:58:40.229Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T13:58:40.229Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T13:58:40.229Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T13:59:14.108Z: ec files: 4(24), probes: 7533 out of 481398 total; 1.5648174691211845% coverage
+
+Output 2024-08-30T13:59:14.108Z: 	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:59:14.615Z: new	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T13:59:14.615Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T14:00:07.081Z: ec files: 1(24), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T14:00:07.082Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T14:00:07.920Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T14:00:07.920Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+
+Output 2024-08-30T14:00:07.920Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T14:00:59.289Z: ec files: 3(24), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T14:00:59.296Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:01:00.407Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:01:00.407Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T14:01:00.414Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T14:01:17.342Z: ec files: 7(24), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T14:01:17.342Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T14:01:17.632Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T14:01:17.632Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T14:01:54.201Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T14:02:05.847Z: ec files: 5(24), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T14:02:05.992Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:02:07.535Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+ total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T14:02:09.629Z Process exited with code 0
+Output 2024-08-30T14:02:49.638Z: ec files: 2(25), probes: 9018 out of 621264 total; 1.4515568260835974% coverage
+
+Output 2024-08-30T14:02:49.638Z: 	st 2: 8219 out of 582539, 1.410892661263881%
+
+Output 2024-08-30T14:02:50.193Z: new	st 2: 8236 out of 582539, 1.4138109208138854%
+
+Output 2024-08-30T14:02:50.193Z: diff	st 2: lines [91m17[0m(582539), methods 0(43316), classes 0(7363), coverage 0.0029182595500044234%
+
+Output 2024-08-30T14:02:53.519Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T14:02:53.519Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T14:03:40.550Z: ec files: 6(25), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T14:03:40.552Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T14:03:41.687Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T14:04:16.873Z: ec files: 4(25), probes: 7535 out of 481398 total; 1.5652329257703606% coverage
+
+Output 2024-08-30T14:04:16.873Z: 	st 4: 6887 out of 447285, 1.5397341739606738%
+
+Output 2024-08-30T14:04:17.359Z: new	st 4: 6889 out of 447285, 1.5401813161630729%
+
+Output 2024-08-30T14:04:17.359Z: diff	st 4: lines [91m2[0m(447285), methods 0(37191), classes 0(5406), coverage 0.0004471422023989355%
+
+Output 2024-08-30T14:04:20.024Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T14:04:20.024Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T14:04:57.257Z: ec files: 1(25), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T14:04:57.264Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T14:04:57.923Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T14:04:57.930Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+
+Output 2024-08-30T14:04:57.930Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T14:05:53.031Z: ec files: 3(25), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T14:05:53.038Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:05:54.156Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:05:54.156Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T14:06:11.787Z: ec files: 7(25), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T14:06:11.787Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T14:06:12.067Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T14:06:38.287Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T14:07:08.963Z: ec files: 5(25), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T14:07:09.001Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:07:10.514Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:07:10.588Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+ total diff: lines [91m19[0m(3806105), methods 0(291223), classes 0(46655), coverage 0.0004991979990042314%
+
+2024-08-30T14:07:12.889Z Process exited with code 0
+Output 2024-08-30T14:07:28.647Z: ec files: 2(26), probes: 9018 out of 621264 total; 1.4515568260835974% coverage
+
+Output 2024-08-30T14:07:28.647Z: 	st 2: 8236 out of 582539, 1.4138109208138854%
+
+Output 2024-08-30T14:07:29.246Z: new	st 2: 8236 out of 582539, 1.4138109208138854%
+
+Output 2024-08-30T14:07:29.246Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+
+Output 2024-08-30T14:07:29.247Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T14:08:18.733Z: ec files: 6(26), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T14:08:18.739Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T14:08:19.857Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T14:08:19.857Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T14:08:19.858Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T14:08:55.324Z: ec files: 4(26), probes: 7535 out of 481398 total; 1.5652329257703606% coverage
+
+Output 2024-08-30T14:08:55.324Z: 	st 4: 6889 out of 447285, 1.5401813161630729%
+
+Output 2024-08-30T14:08:55.822Z: new	st 4: 6889 out of 447285, 1.5401813161630729%
+
+Output 2024-08-30T14:08:55.822Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T14:09:42.128Z: ec files: 1(26), probes: 43350 out of 661313 total; 6.555141060284615% coverage
+
+Output 2024-08-30T14:09:42.135Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T14:09:43.239Z: new	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T14:09:43.240Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+
+Output 2024-08-30T14:09:43.247Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T14:10:40.436Z: ec files: 3(26), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T14:10:40.437Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:10:41.863Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:10:41.864Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T14:10:41.864Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T14:10:58.941Z: ec files: 7(26), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T14:10:58.941Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T14:10:59.113Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T14:10:59.113Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T14:11:39.530Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T14:11:57.831Z: ec files: 5(26), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T14:11:58.013Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:11:58.737Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:11:58.738Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T14:11:58.743Z:  total diff: lines 0(3806105), methods 0(291223), classes 0(46655), coverage 0.0%
+
+2024-08-30T14:12:00.649Z Process exited with code 0
+Output 2024-08-30T14:12:32.508Z: ec files: 2(27), probes: 9018 out of 621264 total; 1.4515568260835974% coverage
+	st 2: 8236 out of 582539, 1.4138109208138854%
+
+Output 2024-08-30T14:12:33.485Z: new	st 2: 8236 out of 582539, 1.4138109208138854%
+
+Output 2024-08-30T14:12:33.485Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T14:13:25.326Z: ec files: 6(27), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T14:13:25.332Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T14:13:26.397Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T14:13:26.397Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T14:13:26.397Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T14:14:02.134Z: ec files: 4(27), probes: 7535 out of 481398 total; 1.5652329257703606% coverage
+
+Output 2024-08-30T14:14:02.134Z: 	st 4: 6889 out of 447285, 1.5401813161630729%
+
+Output 2024-08-30T14:14:02.618Z: new	st 4: 6889 out of 447285, 1.5401813161630729%
+
+Output 2024-08-30T14:14:02.618Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T14:14:42.889Z: ec files: 1(27), probes: 43407 out of 661313 total; 6.563760276903675% coverage
+
+Output 2024-08-30T14:14:42.889Z: 	st 1: 40010 out of 620042, 6.4527886820570215%
+
+Output 2024-08-30T14:14:44.114Z: new	st 1: 40065 out of 620042, 6.4616590489031385%
+
+Output 2024-08-30T14:14:44.114Z: diff	st 1: lines [91m55[0m(620042), methods [91m3[0m(46839), classes 0(7883), coverage 0.008870366846117084%
+
+Output 2024-08-30T14:14:49.926Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T14:14:49.926Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T14:16:00.529Z: ec files: 3(27), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T14:16:00.530Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:16:01.646Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:16:01.646Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T14:16:01.653Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T14:16:12.237Z: ec files: 7(27), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T14:16:12.237Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T14:16:12.414Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T14:16:12.415Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T14:16:41.557Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T14:17:12.441Z: ec files: 5(27), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:17:16.653Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:17:16.664Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+ total diff: lines [91m55[0m(3806105), methods [91m3[0m(291223), classes 0(46655), coverage 0.001445046839222775%
+
+2024-08-30T14:17:20.565Z Process exited with code 0
+Output 2024-08-30T14:17:38.693Z: ec files: 2(28), probes: 9018 out of 621264 total; 1.4515568260835974% coverage
+
+Output 2024-08-30T14:17:38.694Z: 	st 2: 8236 out of 582539, 1.4138109208138854%
+
+Output 2024-08-30T14:17:39.364Z: new	st 2: 8236 out of 582539, 1.4138109208138854%
+
+Output 2024-08-30T14:17:39.364Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+
+Output 2024-08-30T14:17:39.364Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T14:18:36.647Z: ec files: 6(28), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T14:18:36.648Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T14:18:37.673Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T14:18:37.673Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T14:18:37.674Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T14:19:14.713Z: ec files: 4(28), probes: 7539 out of 481398 total; 1.5660638390687123% coverage
+
+Output 2024-08-30T14:19:14.713Z: 	st 4: 6889 out of 447285, 1.5401813161630729%
+
+Output 2024-08-30T14:19:15.639Z: new	st 4: 6893 out of 447285, 1.5410756005678705%
+
+Output 2024-08-30T14:19:15.639Z: diff	st 4: lines [91m4[0m(447285), methods 0(37191), classes 0(5406), coverage 0.0008942844047976975%
+
+Output 2024-08-30T14:19:19.380Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T14:19:19.380Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T14:20:15.644Z: ec files: 1(28), probes: 43407 out of 661313 total; 6.563760276903675% coverage
+
+Output 2024-08-30T14:20:15.651Z: 	st 1: 40065 out of 620042, 6.4616590489031385%
+
+Output 2024-08-30T14:20:16.877Z: new	st 1: 40065 out of 620042, 6.4616590489031385%
+
+Output 2024-08-30T14:20:16.878Z: diff	st 1: lines 0(620042), methods 0(46839), classes 0(7883), coverage 0.0%
+
+Output 2024-08-30T14:20:16.878Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T14:21:08.012Z: ec files: 3(28), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T14:21:08.013Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:21:08.666Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:21:08.666Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T14:21:08.667Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T14:21:18.963Z: ec files: 7(28), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T14:21:18.963Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T14:21:19.166Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T14:21:19.166Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T14:21:47.329Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T14:22:30.885Z: ec files: 5(28), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T14:22:31.150Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:22:31.765Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:22:31.765Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T14:22:31.790Z:  total diff: lines [91m4[0m(3806105), methods 0(291223), classes 0(46655), coverage 0.00010509431557983819%
+
+2024-08-30T14:22:33.782Z Process exited with code 0
+Output 2024-08-30T14:22:45.439Z: ec files: 2(29), probes: 9018 out of 621264 total; 1.4515568260835974% coverage
+
+Output 2024-08-30T14:22:45.439Z: 	st 2: 8236 out of 582539, 1.4138109208138854%
+
+Output 2024-08-30T14:22:46.047Z: new	st 2: 8236 out of 582539, 1.4138109208138854%
+
+Output 2024-08-30T14:22:46.047Z: diff	st 2: lines 0(582539), methods 0(43316), classes 0(7363), coverage 0.0%
+
+Output 2024-08-30T14:22:46.047Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T14:23:43.079Z: ec files: 6(29), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T14:23:43.080Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T14:23:43.710Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T14:23:43.710Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T14:23:43.711Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T14:24:14.406Z: ec files: 4(29), probes: 7539 out of 481398 total; 1.5660638390687123% coverage
+
+Output 2024-08-30T14:24:14.406Z: 	st 4: 6893 out of 447285, 1.5410756005678705%
+
+Output 2024-08-30T14:24:14.886Z: new	st 4: 6893 out of 447285, 1.5410756005678705%
+
+Output 2024-08-30T14:24:14.886Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T14:25:08.644Z: ec files: 1(29), probes: 43413 out of 661313 total; 6.564667562863576% coverage
+
+Output 2024-08-30T14:25:08.650Z: 	st 1: 40065 out of 620042, 6.4616590489031385%
+
+Output 2024-08-30T14:25:09.286Z: new	st 1: 40070 out of 620042, 6.4624654458891495%
+
+Output 2024-08-30T14:25:09.286Z: diff	st 1: lines [91m5[0m(620042), methods [91m1[0m(46839), classes 0(7883), coverage 0.0008063969860111486%
+
+Output 2024-08-30T14:25:13.174Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T14:25:13.174Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T14:26:15.967Z: ec files: 3(29), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T14:26:15.968Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:26:16.695Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:26:16.695Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T14:26:16.695Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T14:26:27.338Z: ec files: 7(29), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T14:26:27.338Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T14:26:27.501Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+
+Output 2024-08-30T14:26:27.502Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T14:27:08.261Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T14:27:35.808Z: ec files: 5(29), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T14:27:36.062Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:27:36.634Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:27:36.634Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+
+Output 2024-08-30T14:27:36.654Z:  total diff: lines [91m5[0m(3806105), methods [91m1[0m(291223), classes 0(46655), coverage 0.00013136789447479772%
+
+2024-08-30T14:27:38.603Z Process exited with code 0
+Output 2024-08-30T14:28:14.959Z: ec files: 2(30), probes: 9030 out of 621264 total; 1.4534883720930232% coverage
+
+Output 2024-08-30T14:28:14.960Z: 	st 2: 8236 out of 582539, 1.4138109208138854%
+
+Output 2024-08-30T14:28:15.890Z: new	st 2: 8247 out of 582539, 1.4156992064050646%
+
+Output 2024-08-30T14:28:15.890Z: diff	st 2: lines [91m11[0m(582539), methods [91m1[0m(43316), classes 0(7363), coverage 0.001888285591179241%
+
+Output 2024-08-30T14:28:21.345Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T14:28:21.346Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T14:29:22.474Z: ec files: 6(30), probes: 1878 out of 602060 total; 0.31192904361691526% coverage
+
+Output 2024-08-30T14:29:22.475Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T14:29:23.115Z: new	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T14:29:23.115Z: diff	st 6: lines 0(552128), methods 0(53263), classes 0(9329), coverage 0.0%
+
+Output 2024-08-30T14:29:23.121Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T14:29:58.164Z: ec files: 4(30), probes: 7539 out of 481398 total; 1.5660638390687123% coverage
+
+Output 2024-08-30T14:29:58.171Z: 	st 4: 6893 out of 447285, 1.5410756005678705%
+
+Output 2024-08-30T14:29:58.971Z: new	st 4: 6893 out of 447285, 1.5410756005678705%
+
+Output 2024-08-30T14:29:58.971Z: diff	st 4: lines 0(447285), methods 0(37191), classes 0(5406), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T14:31:11.957Z: ec files: 1(30), probes: 43418 out of 661313 total; 6.565423634496827% coverage
+
+Output 2024-08-30T14:31:11.957Z: 	st 1: 40070 out of 620042, 6.4624654458891495%
+
+Output 2024-08-30T14:31:12.594Z: new	st 1: 40074 out of 620042, 6.463110563477958%
+
+Output 2024-08-30T14:31:12.594Z: diff	st 1: lines [91m4[0m(620042), methods [91m1[0m(46839), classes 0(7883), coverage 0.0006451175888086413%
+
+Output 2024-08-30T14:31:16.729Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T14:31:16.732Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T14:32:25.407Z: ec files: 3(30), probes: 10859 out of 729379 total; 1.4888007469367777% coverage
+
+Output 2024-08-30T14:32:25.409Z: 	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:32:26.902Z: new	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:32:26.902Z: diff	st 3: lines 0(691520), methods 0(43132), classes 0(6427), coverage 0.0%
+
+Output 2024-08-30T14:32:26.904Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
+Output 2024-08-30T14:32:40.845Z: ec files: 7(30), probes: 3086 out of 155559 total; 1.9838132155645125% coverage
+
+Output 2024-08-30T14:32:40.846Z: 	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T14:32:41.044Z: new	st 7: 2754 out of 142586, 1.9314659223205644%
+
+Output 2024-08-30T14:32:41.044Z: diff	st 7: lines 0(142586), methods 0(13820), classes 0(2165), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_5.pickle
+
+Output 2024-08-30T14:33:47.595Z: ec files: 5(30), probes: 1058 out of 819600 total; 0.1290873596876525% coverage
+
+Output 2024-08-30T14:33:47.597Z: 	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:33:48.925Z: new	st 5: 982 out of 770005, 0.12753163940493895%
+
+Output 2024-08-30T14:33:48.925Z: diff	st 5: lines 0(770005), methods 0(53662), classes 0(8082), coverage 0.0%
+ total diff: lines [91m15[0m(3806105), methods [91m2[0m(291223), classes 0(46655), coverage 0.00039410368342439317%
+
+2024-08-30T14:33:50.771Z Process exited with code 0
+Output 2024-08-30T14:33:56.541Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+
+Output 2024-08-30T14:34:56.492Z: ec files: 2(31), probes: 24576 out of 621264 total; 3.9558062273043344% coverage
+
+Output 2024-08-30T14:34:56.493Z: 	st 2: 8247 out of 582539, 1.4156992064050646%
+
+Output 2024-08-30T14:34:57.425Z: new	st 2: 22101 out of 582539, 3.7939090773321618%
+
+Output 2024-08-30T14:34:57.425Z: diff	st 2: lines [91m13854[0m(582539), methods [91m1795[0m(43316), classes 0(7363), coverage 2.378209870927097%
+
+Output 2024-08-30T14:35:02.329Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_2.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T14:35:53.198Z: ec files: 6(31), probes: 4893 out of 602060 total; 0.8127096967079693% coverage
+
+Output 2024-08-30T14:35:53.200Z: 	st 6: 1737 out of 552128, 0.3146009620957459%
+
+Output 2024-08-30T14:35:53.805Z: new	st 6: 4507 out of 552128, 0.8162962211661065%
+
+Output 2024-08-30T14:35:53.805Z: diff	st 6: lines [91m2770[0m(552128), methods [91m249[0m(53263), classes 0(9329), coverage 0.5016952590703606%
+
+Output 2024-08-30T14:35:58.891Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_6.pickle
+
+Output 2024-08-30T14:35:58.894Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T14:36:50.342Z: ec files: 4(31), probes: 15259 out of 481398 total; 3.1697265048878474% coverage
+
+Output 2024-08-30T14:36:50.342Z: 	st 4: 6893 out of 447285, 1.5410756005678705%
+
+Output 2024-08-30T14:36:50.835Z: new	st 4: 13904 out of 447285, 3.108532591077277%
+
+Output 2024-08-30T14:36:50.835Z: diff	st 4: lines [91m7011[0m(447285), methods [91m737[0m(37191), classes 0(5406), coverage 1.567456990509407%
+
+Output 2024-08-30T14:36:54.041Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_4.pickle
+
+Output 2024-08-30T14:36:54.043Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T14:37:55.441Z: ec files: 1(31), probes: 81516 out of 661313 total; 12.32638705121478% coverage
+
+Output 2024-08-30T14:37:55.442Z: 	st 1: 40074 out of 620042, 6.463110563477958%
+
+Output 2024-08-30T14:37:56.085Z: new	st 1: 75009 out of 620042, 12.097406304734196%
+diff	st 1: lines [91m34935[0m(620042), methods [91m3545[0m(46839), classes 0(7883), coverage 5.6342957412562376%
+
+Output 2024-08-30T14:37:59.542Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_1.pickle
+
+Output 2024-08-30T14:37:59.542Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T14:38:45.742Z: ec files: 3(31), probes: 25641 out of 729379 total; 3.515456299125695% coverage
+	st 3: 10109 out of 691520, 1.4618521517815826%
+
+Output 2024-08-30T14:38:46.407Z: new	st 3: 23902 out of 691520, 3.4564437760296154%
+
+Output 2024-08-30T14:38:46.407Z: diff	st 3: lines [91m13793[0m(691520), methods [91m1116[0m(43132), classes 0(6427), coverage 1.9945916242480328%
+
+Output 2024-08-30T14:38:49.907Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_3.pickle
+
+Output 2024-08-30T14:38:49.907Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/posteitaliane.posteapp.apppostepay_7.pickle
+
