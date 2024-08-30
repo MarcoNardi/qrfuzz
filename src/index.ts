@@ -36,7 +36,7 @@ const _opts = _appIns.then((appIns) => ({
     "appium:appActivity": appIns.app_activity,
     "appium:automationName": "UiAutomator2",
     "appium:autoGrantPermissions": "true",
-    // "appium:noReset": "true"
+    //"appium:noReset": "true"
   },
   logLevel: "warn",
 }));
@@ -71,7 +71,7 @@ const main = async () => {
   ls.on("close", (code: any) => {
       console.log(`child process exited with code ${code}`);
   });
-
+  //await driver.startActivity(appIns.app_package, appIns.app_activity);
   await goToAppScanPage(driver);
 
   const generator = get_generator(app_id);
