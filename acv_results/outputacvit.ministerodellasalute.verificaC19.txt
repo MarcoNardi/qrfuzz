@@ -1,0 +1,1265 @@
+Output 2024-08-27T13:25:37.633Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T13:25:45.913Z: ec files: 1(1), probes: 44576 out of 645598 total; 6.904606272014473% coverage
+
+Output 2024-08-27T13:25:45.920Z: 	st 1: 0 out of 599671, 0.0%
+
+Output 2024-08-27T13:25:46.499Z: new	st 1: 41434 out of 599671, 6.90945535135099%
+diff	st 1: lines [91m41434[0m(599671), methods [91m3584[0m(50896), classes 0(6182), coverage 6.90945535135099%
+
+Output 2024-08-27T13:25:50.020Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T13:25:50.020Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T13:25:53.648Z: ec files: 2(1), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T13:25:53.648Z: 	st 2: 0 out of 408050, 0.0%
+
+Output 2024-08-27T13:25:54.027Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T13:25:54.027Z: diff	st 2: lines [91m11993[0m(408050), methods [91m473[0m(28084), classes 0(4186), coverage 2.939100600416616%
+
+Output 2024-08-27T13:25:55.976Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T13:26:04.458Z: ec files: 3(1), probes: 50253 out of 692524 total; 7.256499413738729% coverage
+
+Output 2024-08-27T13:26:04.458Z: 	st 3: 0 out of 642879, 0.0%
+
+Output 2024-08-27T13:26:05.280Z: new	st 3: 46596 out of 642879, 7.2480202339787105%
+
+Output 2024-08-27T13:26:05.280Z: diff	st 3: lines [91m46596[0m(642879), methods [91m4109[0m(54939), classes 0(6884), coverage 7.2480202339787105%
+
+Output 2024-08-27T13:26:09.413Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T13:26:09.413Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T13:26:09.966Z: ec files: 4(1), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+	st 4: 0 out of 13485, 0.0%
+
+Output 2024-08-27T13:26:09.982Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T13:26:09.982Z: diff	st 4: lines [91m1[0m(13485), methods [91m1[0m(825), classes 0(99), coverage 0.007415647015202077%
+
+Output 2024-08-27T13:26:10.036Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T13:26:10.037Z:  total diff: lines [91m100024[0m(1664085), methods [91m8167[0m(134744), classes 0(17351), coverage 6.010750652761128%
+
+2024-08-27T13:26:10.355Z Process exited with code 0
+Output 2024-08-27T14:07:36.617Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:07:45.911Z: ec files: 1(2), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:07:45.911Z: 	st 1: 41434 out of 599671, 6.90945535135099%
+
+Output 2024-08-27T14:07:46.598Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:07:46.598Z: diff	st 1: lines [91m303[0m(599671), methods [91m6[0m(50896), classes 0(6182), coverage 0.05052770602547163%
+
+Output 2024-08-27T14:07:50.027Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:07:55.361Z: ec files: 2(2), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:07:55.361Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:07:55.736Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:07:55.736Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:08:03.047Z: ec files: 3(2), probes: 53199 out of 692524 total; 7.681899833074377% coverage
+
+Output 2024-08-27T14:08:03.047Z: 	st 3: 46596 out of 642879, 7.2480202339787105%
+
+Output 2024-08-27T14:08:03.791Z: new	st 3: 49440 out of 642879, 7.6904051928901085%
+
+Output 2024-08-27T14:08:03.791Z: diff	st 3: lines [91m2844[0m(642879), methods [91m119[0m(54939), classes 0(6884), coverage 0.44238495891139734%
+
+Output 2024-08-27T14:08:07.497Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:08:08.062Z: ec files: 4(2), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:08:08.062Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:08:08.078Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:08:08.078Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines [91m3147[0m(1664085), methods [91m125[0m(134744), classes 0(17351), coverage 0.1891129359377676%
+
+2024-08-27T14:08:08.567Z Process exited with code 0
+Output 2024-08-27T14:10:23.950Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:10:39.671Z: ec files: 1(3), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:10:39.671Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:10:40.835Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:10:40.836Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:10:48.496Z: ec files: 2(3), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:10:48.496Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:10:48.960Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:10:59.459Z: ec files: 3(3), probes: 53647 out of 692524 total; 7.746590731873552% coverage
+	st 3: 49440 out of 642879, 7.6904051928901085%
+
+Output 2024-08-27T14:11:00.258Z: new	st 3: 49871 out of 642879, 7.757447357900943%
+
+Output 2024-08-27T14:11:00.259Z: diff	st 3: lines [91m431[0m(642879), methods [91m27[0m(54939), classes 0(6884), coverage 0.06704216501083465%
+
+Output 2024-08-27T14:11:04.050Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:11:04.050Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:11:04.579Z: ec files: 4(3), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:11:04.579Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:11:04.605Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:11:04.605Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines [91m431[0m(1664085), methods [91m27[0m(134744), classes 0(17351), coverage 0.02590011928477211%
+
+2024-08-27T14:11:05.069Z Process exited with code 0
+Output 2024-08-27T14:13:12.538Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:13:25.683Z: ec files: 1(4), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:13:26.267Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:13:26.267Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:13:32.110Z: ec files: 2(4), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:13:32.110Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:13:32.491Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:13:43.838Z: ec files: 3(4), probes: 54237 out of 692524 total; 7.831786335202823% coverage
+
+Output 2024-08-27T14:13:43.839Z: 	st 3: 49871 out of 642879, 7.757447357900943%
+
+Output 2024-08-27T14:13:44.708Z: new	st 3: 50438 out of 642879, 7.845644359202899%
+
+Output 2024-08-27T14:13:44.708Z: diff	st 3: lines [91m567[0m(642879), methods [91m24[0m(54939), classes 0(6884), coverage 0.08819700130195535%
+
+Output 2024-08-27T14:13:48.369Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:13:48.369Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:13:48.889Z: ec files: 4(4), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:13:48.889Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:13:48.904Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:13:48.904Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines [91m567[0m(1664085), methods [91m24[0m(134744), classes 0(17351), coverage 0.03407277873425937%
+
+2024-08-27T14:13:49.214Z Process exited with code 0
+Output 2024-08-27T14:15:59.082Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:16:13.332Z: ec files: 1(5), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:16:13.332Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:16:13.934Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:16:13.934Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:16:21.520Z: ec files: 2(5), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:16:21.931Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:16:21.931Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:16:34.287Z: ec files: 3(5), probes: 54384 out of 692524 total; 7.853013036371302% coverage
+
+Output 2024-08-27T14:16:34.287Z: 	st 3: 50438 out of 642879, 7.845644359202899%
+
+Output 2024-08-27T14:16:35.008Z: new	st 3: 50579 out of 642879, 7.867576946828252%
+
+Output 2024-08-27T14:16:35.008Z: diff	st 3: lines [91m141[0m(642879), methods [91m11[0m(54939), classes 0(6884), coverage 0.02193258762535344%
+
+Output 2024-08-27T14:16:38.892Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:16:38.892Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:16:39.428Z: ec files: 4(5), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:16:39.428Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:16:39.442Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:16:39.443Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines [91m141[0m(1664085), methods [91m11[0m(134744), classes 0(17351), coverage 0.008473124870424287%
+
+2024-08-27T14:16:39.702Z Process exited with code 0
+Output 2024-08-27T14:18:45.047Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:19:00.446Z: ec files: 1(6), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:19:00.447Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:19:01.152Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:19:01.152Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:19:01.655Z: ec files: 4(6), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:19:01.655Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:19:01.669Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:19:01.670Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:19:14.749Z: ec files: 3(6), probes: 54401 out of 692524 total; 7.855467824941807% coverage
+	st 3: 50579 out of 642879, 7.867576946828252%
+
+Output 2024-08-27T14:19:15.450Z: new	st 3: 50597 out of 642879, 7.870376851631489%
+
+Output 2024-08-27T14:19:15.451Z: diff	st 3: lines [91m18[0m(642879), methods 0(54939), classes 0(6884), coverage 0.002799904803237052%
+
+Output 2024-08-27T14:19:19.188Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:19:19.188Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:19:27.507Z: ec files: 2(6), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:19:27.978Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:19:27.978Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+ total diff: lines [91m18[0m(1664085), methods 0(134744), classes 0(17351), coverage 0.0010816755153733133%
+
+2024-08-27T14:19:28.485Z Process exited with code 0
+Output 2024-08-27T14:21:30.911Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:21:47.421Z: ec files: 1(7), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:21:47.421Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:21:48.016Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:21:48.025Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:21:48.604Z: ec files: 4(7), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:21:48.604Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:21:48.619Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:21:48.619Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:22:02.961Z: ec files: 3(7), probes: 54406 out of 692524 total; 7.856189821580191% coverage
+
+Output 2024-08-27T14:22:02.961Z: 	st 3: 50597 out of 642879, 7.870376851631489%
+
+Output 2024-08-27T14:22:03.711Z: new	st 3: 50602 out of 642879, 7.871154602965722%
+diff	st 3: lines [91m5[0m(642879), methods 0(54939), classes 0(6884), coverage 0.0007777513342327458%
+
+Output 2024-08-27T14:22:07.264Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:22:07.264Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:22:16.570Z: ec files: 2(7), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:22:16.570Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:22:16.967Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+
+Output 2024-08-27T14:22:16.967Z:  total diff: lines [91m5[0m(1664085), methods 0(134744), classes 0(17351), coverage 0.00030046542093703146%
+
+2024-08-27T14:22:17.428Z Process exited with code 0
+Output 2024-08-27T14:24:17.252Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:24:29.939Z: ec files: 2(8), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:24:29.939Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:24:30.298Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:24:30.298Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:24:43.948Z: ec files: 1(8), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:24:43.949Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:24:44.618Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:24:44.618Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:24:45.164Z: ec files: 4(8), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:24:45.164Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:24:45.177Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:24:45.177Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:25:00.706Z: ec files: 3(8), probes: 55036 out of 692524 total; 7.947161398016531% coverage
+	st 3: 50602 out of 642879, 7.871154602965722%
+
+Output 2024-08-27T14:25:01.413Z: new	st 3: 51215 out of 642879, 7.966506916542615%
+
+Output 2024-08-27T14:25:01.413Z: diff	st 3: lines [91m613[0m(642879), methods [91m29[0m(54939), classes 0(6884), coverage 0.09535231357689355%
+
+Output 2024-08-27T14:25:05.004Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:25:05.004Z:  total diff: lines [91m613[0m(1664085), methods [91m29[0m(134744), classes 0(17351), coverage 0.03683706060688006%
+
+2024-08-27T14:25:05.806Z Process exited with code 0
+Output 2024-08-27T14:27:03.250Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:27:16.652Z: ec files: 2(9), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:27:16.652Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:27:17.012Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:27:17.012Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:27:32.822Z: ec files: 1(9), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:27:32.822Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:27:33.428Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:27:33.997Z: ec files: 4(9), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:27:33.997Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:27:34.010Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:27:34.010Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:27:50.675Z: ec files: 3(9), probes: 55047 out of 692524 total; 7.948749790620975% coverage
+
+Output 2024-08-27T14:27:50.676Z: 	st 3: 51215 out of 642879, 7.966506916542615%
+
+Output 2024-08-27T14:27:51.496Z: new	st 3: 51226 out of 642879, 7.9682179694779265%
+
+Output 2024-08-27T14:27:51.496Z: diff	st 3: lines [91m11[0m(642879), methods 0(54939), classes 0(6884), coverage 0.0017110529353117632%
+
+Output 2024-08-27T14:27:55.114Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:27:55.114Z:  total diff: lines [91m11[0m(1664085), methods 0(134744), classes 0(17351), coverage 0.0006610239260614692%
+
+2024-08-27T14:27:55.761Z Process exited with code 0
+Output 2024-08-27T14:29:49.054Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:30:03.351Z: ec files: 2(10), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:30:03.351Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:30:03.714Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:30:03.714Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:30:20.839Z: ec files: 3(10), probes: 55122 out of 692524 total; 7.959579740196729% coverage
+
+Output 2024-08-27T14:30:20.839Z: 	st 3: 51226 out of 642879, 7.9682179694779265%
+
+Output 2024-08-27T14:30:21.648Z: new	st 3: 51301 out of 642879, 7.979884239491413%
+
+Output 2024-08-27T14:30:21.648Z: diff	st 3: lines [91m75[0m(642879), methods [91m2[0m(54939), classes 0(6884), coverage 0.011666270013485636%
+
+Output 2024-08-27T14:30:25.271Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:30:42.956Z: ec files: 1(10), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:30:42.957Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:30:43.650Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:30:43.650Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:30:44.299Z: ec files: 4(10), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:30:44.299Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:30:44.314Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:30:44.314Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines [91m75[0m(1664085), methods [91m2[0m(134744), classes 0(17351), coverage 0.004506981314055472%
+
+2024-08-27T14:30:44.755Z Process exited with code 0
+Output 2024-08-27T14:32:35.732Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:32:50.384Z: ec files: 2(11), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:32:50.788Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:32:50.788Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:33:10.260Z: ec files: 3(11), probes: 55332 out of 692524 total; 7.989903599008843% coverage
+
+Output 2024-08-27T14:33:10.260Z: 	st 3: 51301 out of 642879, 7.979884239491413%
+
+Output 2024-08-27T14:33:10.933Z: new	st 3: 51514 out of 642879, 8.013016446329715%
+diff	st 3: lines [91m213[0m(642879), methods 0(54939), classes 0(6884), coverage 0.03313220683830165%
+
+Output 2024-08-27T14:33:14.612Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:33:14.612Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:33:32.949Z: ec files: 1(11), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:33:32.949Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:33:33.583Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:33:33.584Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:33:34.318Z: ec files: 4(11), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:33:34.333Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:33:34.333Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines [91m213[0m(1664085), methods 0(134744), classes 0(17351), coverage 0.01279982693191754%
+
+2024-08-27T14:33:34.770Z Process exited with code 0
+Output 2024-08-27T14:35:21.499Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:35:36.985Z: ec files: 2(12), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:35:36.985Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:35:37.402Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:35:37.402Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:35:56.888Z: ec files: 3(12), probes: 55390 out of 692524 total; 7.998278760014093% coverage
+
+Output 2024-08-27T14:35:56.888Z: 	st 3: 51514 out of 642879, 8.013016446329715%
+
+Output 2024-08-27T14:35:57.555Z: new	st 3: 51571 out of 642879, 8.021882811539962%
+
+Output 2024-08-27T14:35:57.555Z: diff	st 3: lines [91m57[0m(642879), methods [91m1[0m(54939), classes 0(6884), coverage 0.008866365210248583%
+
+Output 2024-08-27T14:36:01.290Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:36:01.290Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:36:20.888Z: ec files: 1(12), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:36:20.888Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:36:21.529Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:36:21.529Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:36:22.260Z: ec files: 4(12), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:36:22.260Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:36:22.276Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:36:22.277Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines [91m57[0m(1664085), methods [91m1[0m(134744), classes 0(17351), coverage 0.0034253057986821586%
+
+2024-08-27T14:36:22.688Z Process exited with code 0
+Output 2024-08-27T14:38:07.466Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:38:23.737Z: ec files: 2(13), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:38:23.737Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:38:24.099Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:38:24.100Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:38:45.884Z: ec files: 3(13), probes: 55399 out of 692524 total; 7.999578353963184% coverage
+
+Output 2024-08-27T14:38:45.884Z: 	st 3: 51571 out of 642879, 8.021882811539962%
+
+Output 2024-08-27T14:38:46.610Z: new	st 3: 51580 out of 642879, 8.023282763941582%
+
+Output 2024-08-27T14:38:46.610Z: diff	st 3: lines [91m9[0m(642879), methods 0(54939), classes 0(6884), coverage 0.00139995240161922%
+
+Output 2024-08-27T14:38:50.188Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:38:50.188Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:39:10.814Z: ec files: 1(13), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:39:10.814Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:39:11.502Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:39:11.503Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:39:12.406Z: ec files: 4(13), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:39:12.406Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:39:12.421Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:39:12.421Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines [91m9[0m(1664085), methods 0(134744), classes 0(17351), coverage 0.0005408377576866566%
+
+2024-08-27T14:39:12.834Z Process exited with code 0
+Output 2024-08-27T14:40:53.487Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:41:10.370Z: ec files: 2(14), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:41:10.370Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:41:10.776Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:41:10.777Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:41:32.840Z: ec files: 3(14), probes: 55452 out of 692524 total; 8.00723151833005% coverage
+
+Output 2024-08-27T14:41:32.840Z: 	st 3: 51580 out of 642879, 8.023282763941582%
+
+Output 2024-08-27T14:41:33.523Z: new	st 3: 51632 out of 642879, 8.0313713778176%
+
+Output 2024-08-27T14:41:33.524Z: diff	st 3: lines [91m52[0m(642879), methods [91m1[0m(54939), classes 0(6884), coverage 0.008088613876017225%
+
+Output 2024-08-27T14:41:37.270Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:41:37.271Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:41:59.245Z: ec files: 1(14), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:41:59.941Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:41:59.941Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:42:00.671Z: ec files: 4(14), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:42:00.671Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:42:00.686Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:42:00.686Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines [91m52[0m(1664085), methods [91m1[0m(134744), classes 0(17351), coverage 0.003124840377745127%
+
+2024-08-27T14:42:01.115Z Process exited with code 0
+Output 2024-08-27T14:43:38.507Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:43:56.285Z: ec files: 2(15), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:43:56.286Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:43:56.644Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:43:56.644Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:44:20.656Z: ec files: 3(15), probes: 55452 out of 692524 total; 8.00723151833005% coverage
+
+Output 2024-08-27T14:44:20.656Z: 	st 3: 51632 out of 642879, 8.0313713778176%
+
+Output 2024-08-27T14:44:21.456Z: new	st 3: 51632 out of 642879, 8.0313713778176%
+
+Output 2024-08-27T14:44:21.456Z: diff	st 3: lines 0(642879), methods 0(54939), classes 0(6884), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:44:44.378Z: ec files: 1(15), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:44:44.379Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:44:45.066Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:44:45.066Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:44:45.812Z: ec files: 4(15), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:44:45.813Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:44:45.827Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:44:45.827Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines 0(1664085), methods 0(134744), classes 0(17351), coverage 0.0%
+
+2024-08-27T14:44:46.317Z Process exited with code 0
+Output 2024-08-27T14:46:23.919Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:46:42.510Z: ec files: 2(16), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:46:42.510Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:46:42.872Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:46:42.872Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:47:07.107Z: ec files: 3(16), probes: 55452 out of 692524 total; 8.00723151833005% coverage
+	st 3: 51632 out of 642879, 8.0313713778176%
+
+Output 2024-08-27T14:47:07.807Z: new	st 3: 51632 out of 642879, 8.0313713778176%
+
+Output 2024-08-27T14:47:07.807Z: diff	st 3: lines 0(642879), methods 0(54939), classes 0(6884), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:47:31.779Z: ec files: 1(16), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:47:31.779Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:47:32.413Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:47:32.413Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:47:33.217Z: ec files: 4(16), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:47:33.218Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:47:33.232Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:47:33.233Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines 0(1664085), methods 0(134744), classes 0(17351), coverage 0.0%
+
+2024-08-27T14:47:33.804Z Process exited with code 0
+Output 2024-08-27T14:49:09.291Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:49:28.770Z: ec files: 2(17), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:49:28.771Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:49:29.133Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+
+Output 2024-08-27T14:49:29.133Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:50:01.479Z: ec files: 3(17), probes: 55452 out of 692524 total; 8.00723151833005% coverage
+
+Output 2024-08-27T14:50:01.479Z: 	st 3: 51632 out of 642879, 8.0313713778176%
+
+Output 2024-08-27T14:50:02.710Z: new	st 3: 51632 out of 642879, 8.0313713778176%
+
+Output 2024-08-27T14:50:02.710Z: diff	st 3: lines 0(642879), methods 0(54939), classes 0(6884), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:50:37.692Z: ec files: 1(17), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:50:37.692Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:50:38.393Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:50:39.222Z: ec files: 4(17), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:50:39.222Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:50:39.236Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:50:39.236Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines 0(1664085), methods 0(134744), classes 0(17351), coverage 0.0%
+
+2024-08-27T14:50:39.706Z Process exited with code 0
+Output 2024-08-27T14:51:55.491Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:52:15.549Z: ec files: 2(18), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:52:15.549Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:52:15.955Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:52:15.955Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:52:42.669Z: ec files: 3(18), probes: 55452 out of 692524 total; 8.00723151833005% coverage
+
+Output 2024-08-27T14:52:42.669Z: 	st 3: 51632 out of 642879, 8.0313713778176%
+
+Output 2024-08-27T14:52:43.431Z: new	st 3: 51632 out of 642879, 8.0313713778176%
+
+Output 2024-08-27T14:52:43.431Z: diff	st 3: lines 0(642879), methods 0(54939), classes 0(6884), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:53:09.660Z: ec files: 1(18), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:53:09.661Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:53:10.393Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:53:10.394Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:53:11.345Z: ec files: 4(18), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:53:11.359Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+
+Output 2024-08-27T14:53:11.360Z:  total diff: lines 0(1664085), methods 0(134744), classes 0(17351), coverage 0.0%
+
+2024-08-27T14:53:11.840Z Process exited with code 0
+Output 2024-08-27T14:54:40.198Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:55:01.137Z: ec files: 2(19), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:55:01.137Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:55:01.575Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:55:01.575Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:55:30.655Z: ec files: 3(19), probes: 55452 out of 692524 total; 8.00723151833005% coverage
+
+Output 2024-08-27T14:55:30.656Z: 	st 3: 51632 out of 642879, 8.0313713778176%
+
+Output 2024-08-27T14:55:31.327Z: new	st 3: 51632 out of 642879, 8.0313713778176%
+diff	st 3: lines 0(642879), methods 0(54939), classes 0(6884), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:55:58.808Z: ec files: 1(19), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:55:59.455Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+
+Output 2024-08-27T14:55:59.455Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:56:00.338Z: ec files: 4(19), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:56:00.338Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:56:00.355Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:56:00.356Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines 0(1664085), methods 0(134744), classes 0(17351), coverage 0.0%
+
+2024-08-27T14:56:00.953Z Process exited with code 0
+Output 2024-08-27T14:57:25.688Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T14:57:47.475Z: ec files: 2(20), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T14:57:47.475Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:57:47.841Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T14:57:47.841Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:58:29.556Z: ec files: 3(20), probes: 55454 out of 692524 total; 8.007520316985405% coverage
+
+Output 2024-08-27T14:58:29.556Z: 	st 3: 51632 out of 642879, 8.0313713778176%
+
+Output 2024-08-27T14:58:30.780Z: new	st 3: 51634 out of 642879, 8.031682478351291%
+
+Output 2024-08-27T14:58:30.780Z: diff	st 3: lines [91m2[0m(642879), methods 0(54939), classes 0(6884), coverage 0.0003111005336925432%
+
+Output 2024-08-27T14:58:36.414Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T14:58:36.414Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T14:59:07.205Z: ec files: 1(20), probes: 44884 out of 645598 total; 6.952313978667839% coverage
+
+Output 2024-08-27T14:59:07.205Z: 	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:59:07.959Z: new	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T14:59:07.959Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T14:59:09.450Z: ec files: 4(20), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T14:59:09.450Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:59:09.475Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T14:59:09.475Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+
+Output 2024-08-27T14:59:09.475Z:  total diff: lines [91m2[0m(1664085), methods 0(134744), classes 0(17351), coverage 0.00012018616837481259%
+
+2024-08-27T14:59:10.317Z Process exited with code 0
+Output 2024-08-27T15:01:17.879Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T15:01:40.587Z: ec files: 2(21), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T15:01:40.587Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:01:40.971Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:01:40.971Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:02:12.624Z: ec files: 3(21), probes: 55595 out of 692524 total; 8.027880622187823% coverage
+
+Output 2024-08-27T15:02:12.625Z: 	st 3: 51634 out of 642879, 8.031682478351291%
+
+Output 2024-08-27T15:02:13.288Z: new	st 3: 51766 out of 642879, 8.052215113575027%
+
+Output 2024-08-27T15:02:13.288Z: diff	st 3: lines [91m132[0m(642879), methods [91m9[0m(54939), classes 0(6884), coverage 0.020532635223735607%
+
+Output 2024-08-27T15:02:16.913Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T15:02:47.433Z: ec files: 1(21), probes: 45451 out of 645598 total; 7.040139529552446% coverage
+	st 1: 41737 out of 599671, 6.959983057376462%
+
+Output 2024-08-27T15:02:48.058Z: new	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:02:48.059Z: diff	st 1: lines [91m540[0m(599671), methods [91m33[0m(50896), classes 0(6182), coverage 0.09004937707509514%
+
+Output 2024-08-27T15:02:51.542Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T15:02:51.542Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T15:02:52.483Z: ec files: 4(21), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T15:02:52.483Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:02:52.499Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:02:52.499Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+ total diff: lines [91m672[0m(1664085), methods [91m42[0m(134744), classes 0(17351), coverage 0.04038255257393703%
+
+2024-08-27T15:02:53.066Z Process exited with code 0
+Output 2024-08-27T15:04:05.317Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T15:04:06.476Z: ec files: 4(22), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T15:04:06.476Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:04:06.497Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:04:06.497Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T15:04:28.878Z: ec files: 2(22), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T15:04:28.878Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:04:29.242Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:04:29.242Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:05:01.763Z: ec files: 3(22), probes: 55713 out of 692524 total; 8.044919742853677% coverage
+
+Output 2024-08-27T15:05:01.763Z: 	st 3: 51766 out of 642879, 8.052215113575027%
+
+Output 2024-08-27T15:05:02.431Z: new	st 3: 51881 out of 642879, 8.070103394262373%
+
+Output 2024-08-27T15:05:02.431Z: diff	st 3: lines [91m115[0m(642879), methods [91m3[0m(54939), classes 0(6884), coverage 0.017888280687346214%
+
+Output 2024-08-27T15:05:06.134Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:05:06.134Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T15:05:40.173Z: ec files: 1(22), probes: 45451 out of 645598 total; 7.040139529552446% coverage
+
+Output 2024-08-27T15:05:40.173Z: 	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:05:41.252Z: new	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:05:41.253Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+ total diff: lines [91m115[0m(1664085), methods [91m3[0m(134744), classes 0(17351), coverage 0.006910704681551723%
+
+2024-08-27T15:05:42.574Z Process exited with code 0
+Output 2024-08-27T15:06:50.476Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T15:06:51.684Z: ec files: 4(23), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T15:06:51.685Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:06:51.706Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:06:51.706Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+
+Output 2024-08-27T15:06:51.706Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T15:07:15.056Z: ec files: 2(23), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T15:07:15.056Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:07:15.419Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:07:15.419Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:07:49.437Z: ec files: 3(23), probes: 55739 out of 692524 total; 8.048674125373273% coverage
+	st 3: 51881 out of 642879, 8.070103394262373%
+
+Output 2024-08-27T15:07:50.166Z: new	st 3: 51909 out of 642879, 8.074458801734075%
+
+Output 2024-08-27T15:07:50.167Z: diff	st 3: lines [91m28[0m(642879), methods 0(54939), classes 0(6884), coverage 0.004355407471701156%
+
+Output 2024-08-27T15:07:53.640Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:07:53.640Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T15:08:25.515Z: ec files: 1(23), probes: 45451 out of 645598 total; 7.040139529552446% coverage
+
+Output 2024-08-27T15:08:25.515Z: 	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:08:26.157Z: new	st 1: 42277 out of 599671, 7.050032434451557%
+diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+
+Output 2024-08-27T15:08:26.158Z:  total diff: lines [91m28[0m(1664085), methods 0(134744), classes 0(17351), coverage 0.0016826063572473763%
+
+2024-08-27T15:08:27.164Z Process exited with code 0
+Output 2024-08-27T15:09:35.043Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T15:09:36.289Z: ec files: 4(24), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T15:09:36.289Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:09:36.310Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:09:36.310Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T15:10:00.093Z: ec files: 2(24), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T15:10:00.093Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:10:00.460Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:10:00.461Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:10:35.369Z: ec files: 3(24), probes: 55739 out of 692524 total; 8.048674125373273% coverage
+
+Output 2024-08-27T15:10:35.369Z: 	st 3: 51909 out of 642879, 8.074458801734075%
+
+Output 2024-08-27T15:10:36.091Z: new	st 3: 51909 out of 642879, 8.074458801734075%
+
+Output 2024-08-27T15:10:36.091Z: diff	st 3: lines 0(642879), methods 0(54939), classes 0(6884), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T15:11:08.895Z: ec files: 1(24), probes: 45451 out of 645598 total; 7.040139529552446% coverage
+
+Output 2024-08-27T15:11:08.895Z: 	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:11:09.527Z: new	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:11:09.528Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+ total diff: lines 0(1664085), methods 0(134744), classes 0(17351), coverage 0.0%
+
+2024-08-27T15:11:10.433Z Process exited with code 0
+Output 2024-08-27T15:12:19.908Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T15:12:21.207Z: ec files: 4(25), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T15:12:21.208Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:12:21.229Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:12:21.229Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+
+Output 2024-08-27T15:12:21.229Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T15:12:45.695Z: ec files: 2(25), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T15:12:45.695Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:12:46.109Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:12:46.110Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:13:32.986Z: ec files: 3(25), probes: 55741 out of 692524 total; 8.048962924028626% coverage
+
+Output 2024-08-27T15:13:32.986Z: 	st 3: 51909 out of 642879, 8.074458801734075%
+
+Output 2024-08-27T15:13:34.148Z: new	st 3: 51911 out of 642879, 8.074769902267768%
+
+Output 2024-08-27T15:13:34.148Z: diff	st 3: lines [91m2[0m(642879), methods 0(54939), classes 0(6884), coverage 0.0003111005336925432%
+
+Output 2024-08-27T15:13:39.684Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:13:39.684Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T15:14:16.176Z: ec files: 1(25), probes: 45451 out of 645598 total; 7.040139529552446% coverage
+
+Output 2024-08-27T15:14:16.176Z: 	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:14:16.816Z: new	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:14:16.816Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+ total diff: lines [91m2[0m(1664085), methods 0(134744), classes 0(17351), coverage 0.00012018616837481259%
+
+2024-08-27T15:14:17.740Z Process exited with code 0
+Output 2024-08-27T15:15:04.657Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T15:15:05.998Z: ec files: 4(26), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T15:15:05.998Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:15:06.019Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:15:06.019Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T15:15:31.555Z: ec files: 2(26), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T15:15:31.556Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:15:31.930Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:15:31.931Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:16:09.429Z: ec files: 3(26), probes: 55741 out of 692524 total; 8.048962924028626% coverage
+
+Output 2024-08-27T15:16:09.429Z: 	st 3: 51911 out of 642879, 8.074769902267768%
+
+Output 2024-08-27T15:16:10.112Z: new	st 3: 51911 out of 642879, 8.074769902267768%
+
+Output 2024-08-27T15:16:10.112Z: diff	st 3: lines 0(642879), methods 0(54939), classes 0(6884), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T15:16:45.330Z: ec files: 1(26), probes: 45451 out of 645598 total; 7.040139529552446% coverage
+
+Output 2024-08-27T15:16:45.330Z: 	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:16:45.963Z: new	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:16:45.963Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+ total diff: lines 0(1664085), methods 0(134744), classes 0(17351), coverage 0.0%
+
+2024-08-27T15:16:47.018Z Process exited with code 0
+Output 2024-08-27T15:17:50.443Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T15:17:51.836Z: ec files: 4(27), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T15:17:51.836Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:17:51.858Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:17:51.858Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+
+Output 2024-08-27T15:17:51.858Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T15:18:17.425Z: ec files: 2(27), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T15:18:17.426Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:18:17.789Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:18:17.789Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:18:56.370Z: ec files: 3(27), probes: 55777 out of 692524 total; 8.054161299824989% coverage
+
+Output 2024-08-27T15:18:56.370Z: 	st 3: 51911 out of 642879, 8.074769902267768%
+
+Output 2024-08-27T15:18:57.079Z: new	st 3: 51947 out of 642879, 8.08036971187424%
+
+Output 2024-08-27T15:18:57.079Z: diff	st 3: lines [91m36[0m(642879), methods [91m2[0m(54939), classes 0(6884), coverage 0.005599809606474104%
+
+Output 2024-08-27T15:19:00.720Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:19:00.720Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T15:19:37.429Z: ec files: 1(27), probes: 45451 out of 645598 total; 7.040139529552446% coverage
+
+Output 2024-08-27T15:19:37.429Z: 	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:19:38.154Z: new	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:19:38.154Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+ total diff: lines [91m36[0m(1664085), methods [91m2[0m(134744), classes 0(17351), coverage 0.0021633510307466266%
+
+2024-08-27T15:19:39.172Z Process exited with code 0
+Output 2024-08-27T15:20:45.543Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T15:20:46.984Z: ec files: 4(28), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T15:20:46.984Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:20:47.006Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:20:47.006Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+
+Output 2024-08-27T15:20:47.006Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T15:21:13.440Z: ec files: 2(28), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T15:21:13.440Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:21:13.840Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:21:13.841Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:21:53.333Z: ec files: 3(28), probes: 55794 out of 692524 total; 8.056616088395492% coverage
+
+Output 2024-08-27T15:21:53.333Z: 	st 3: 51947 out of 642879, 8.08036971187424%
+
+Output 2024-08-27T15:21:53.989Z: new	st 3: 51964 out of 642879, 8.08301406641063%
+
+Output 2024-08-27T15:21:53.989Z: diff	st 3: lines [91m17[0m(642879), methods 0(54939), classes 0(6884), coverage 0.0026443545363893928%
+
+Output 2024-08-27T15:21:57.712Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T15:22:35.034Z: ec files: 1(28), probes: 45451 out of 645598 total; 7.040139529552446% coverage
+
+Output 2024-08-27T15:22:35.035Z: 	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:22:35.679Z: new	st 1: 42277 out of 599671, 7.050032434451557%
+diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+
+Output 2024-08-27T15:22:35.679Z:  total diff: lines [91m17[0m(1664085), methods 0(134744), classes 0(17351), coverage 0.001021582431185907%
+
+2024-08-27T15:22:36.639Z Process exited with code 0
+Output 2024-08-27T15:23:29.847Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T15:23:31.333Z: ec files: 4(29), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T15:23:31.333Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:23:31.355Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:23:31.355Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T15:23:58.559Z: ec files: 2(29), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T15:23:58.560Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:23:58.922Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:23:58.923Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:24:40.066Z: ec files: 3(29), probes: 55797 out of 692524 total; 8.057049286378522% coverage
+
+Output 2024-08-27T15:24:40.066Z: 	st 3: 51964 out of 642879, 8.08301406641063%
+
+Output 2024-08-27T15:24:40.779Z: new	st 3: 51967 out of 642879, 8.08348071721117%
+
+Output 2024-08-27T15:24:40.779Z: diff	st 3: lines [91m3[0m(642879), methods 0(54939), classes 0(6884), coverage 0.0004666508005402026%
+
+Output 2024-08-27T15:24:44.236Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:24:44.237Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T15:25:22.922Z: ec files: 1(29), probes: 45451 out of 645598 total; 7.040139529552446% coverage
+
+Output 2024-08-27T15:25:22.922Z: 	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:25:23.677Z: new	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:25:23.677Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+ total diff: lines [91m3[0m(1664085), methods 0(134744), classes 0(17351), coverage 0.00018027925256221887%
+
+2024-08-27T15:25:24.658Z Process exited with code 0
+Output 2024-08-27T15:26:14.413Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T15:26:15.962Z: ec files: 4(30), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T15:26:15.962Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:26:15.983Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:26:15.983Z: diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+
+Output 2024-08-27T15:26:15.983Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T15:26:44.358Z: ec files: 2(30), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T15:26:44.358Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:26:44.718Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:26:44.718Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:27:27.022Z: ec files: 3(30), probes: 55797 out of 692524 total; 8.057049286378522% coverage
+	st 3: 51967 out of 642879, 8.08348071721117%
+
+Output 2024-08-27T15:27:27.690Z: new	st 3: 51967 out of 642879, 8.08348071721117%
+diff	st 3: lines 0(642879), methods 0(54939), classes 0(6884), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T15:28:07.267Z: ec files: 1(30), probes: 45451 out of 645598 total; 7.040139529552446% coverage
+
+Output 2024-08-27T15:28:07.268Z: 	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:28:08.028Z: new	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:28:08.028Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+ total diff: lines 0(1664085), methods 0(134744), classes 0(17351), coverage 0.0%
+
+2024-08-27T15:28:09.043Z Process exited with code 0
+Output 2024-08-27T15:28:58.723Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_4.pickle
+
+Output 2024-08-27T15:29:00.316Z: ec files: 4(31), probes: 2 out of 14190 total; 0.014094432699083862% coverage
+
+Output 2024-08-27T15:29:00.316Z: 	st 4: 1 out of 13485, 0.007415647015202077%
+
+Output 2024-08-27T15:29:00.337Z: new	st 4: 1 out of 13485, 0.007415647015202077%
+diff	st 4: lines 0(13485), methods 0(825), classes 0(99), coverage 0.0%
+
+Output 2024-08-27T15:29:00.337Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_2.pickle
+
+Output 2024-08-27T15:29:29.320Z: ec files: 2(31), probes: 12443 out of 434025 total; 2.8668855480675077% coverage
+
+Output 2024-08-27T15:29:29.320Z: 	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:29:29.679Z: new	st 2: 11993 out of 408050, 2.939100600416616%
+
+Output 2024-08-27T15:29:29.680Z: diff	st 2: lines 0(408050), methods 0(28084), classes 0(4186), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_3.pickle
+
+Output 2024-08-27T15:30:12.931Z: ec files: 3(31), probes: 55797 out of 692524 total; 8.057049286378522% coverage
+
+Output 2024-08-27T15:30:12.931Z: 	st 3: 51967 out of 642879, 8.08348071721117%
+
+Output 2024-08-27T15:30:13.620Z: new	st 3: 51967 out of 642879, 8.08348071721117%
+
+Output 2024-08-27T15:30:13.620Z: diff	st 3: lines 0(642879), methods 0(54939), classes 0(6884), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/it.ministerodellasalute.verificaC19_1.pickle
+
+Output 2024-08-27T15:30:53.141Z: ec files: 1(31), probes: 45451 out of 645598 total; 7.040139529552446% coverage
+
+Output 2024-08-27T15:30:53.141Z: 	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:30:53.786Z: new	st 1: 42277 out of 599671, 7.050032434451557%
+
+Output 2024-08-27T15:30:53.786Z: diff	st 1: lines 0(599671), methods 0(50896), classes 0(6182), coverage 0.0%
+ total diff: lines 0(1664085), methods 0(134744), classes 0(17351), coverage 0.0%
+
+2024-08-27T15:30:54.788Z Process exited with code 0

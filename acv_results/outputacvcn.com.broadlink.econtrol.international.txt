@@ -1,0 +1,1015 @@
+Output 2024-08-26T13:55:06.130Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T13:55:12.527Z: ec files: 1(1), probes: 38050 out of 549814 total; 6.920522212966567% coverage
+
+Output 2024-08-26T13:55:12.527Z: 	st 1: 0 out of 510933, 0.0%
+
+Output 2024-08-26T13:55:13.137Z: new	ast 1: 35245 out of 510933, 6.898164730013525%
+
+Output 2024-08-26T13:55:13.137Z: diff	st 1: lines [91m35245[0m(510933), methods [91m3249[0m(43222), classes 0(7823), coverage 6.898164730013525%
+
+Output 2024-08-26T13:55:17.126Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T13:55:17.126Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T13:55:23.196Z: ec files: 2(1), probes: 57487 out of 513894 total; 11.186548198655753% coverage
+
+Output 2024-08-26T13:55:23.196Z: 	st 2: 0 out of 485439, 0.0%
+
+Output 2024-08-26T13:55:23.813Z: new	st 2: 53101 out of 485439, 10.938758525787998%
+
+Output 2024-08-26T13:55:23.813Z: diff	st 2: lines [91m53101[0m(485439), methods [91m4934[0m(33241), classes 0(5982), coverage 10.938758525787998%
+
+Output 2024-08-26T13:55:26.931Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T13:55:26.931Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T13:55:28.406Z: ec files: 3(1), probes: 12167 out of 144098 total; 8.443559244403115% coverage
+
+Output 2024-08-26T13:55:28.406Z: 	st 3: 0 out of 134533, 0.0%
+
+Output 2024-08-26T13:55:28.598Z: new	st 3: 11423 out of 134533, 8.490853545226821%
+diff	st 3: lines [91m11423[0m(134533), methods [91m899[0m(11039), classes 0(2084), coverage 8.490853545226821%
+
+Output 2024-08-26T13:55:29.541Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T13:55:29.541Z:  total diff: lines [91m99769[0m(1130905), methods [91m9082[0m(87502), classes 0(15889), coverage 8.822049597446293%
+
+2024-08-26T13:55:30.023Z Process exited with code 0
+Output 2024-08-26T14:02:20.584Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:02:31.132Z: ec files: 1(2), probes: 38309 out of 549814 total; 6.967629052734197% coverage
+	st 1: 35245 out of 510933, 6.898164730013525%
+
+Output 2024-08-26T14:02:31.808Z: new	st 1: 35473 out of 510933, 6.942788976245417%
+
+Output 2024-08-26T14:02:31.808Z: diff	st 1: lines [91m228[0m(510933), methods [91m31[0m(43222), classes 0(7823), coverage 0.04462424623189326%
+
+Output 2024-08-26T14:02:35.561Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:02:35.562Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:02:42.219Z: ec files: 2(2), probes: 59324 out of 513894 total; 11.5440149135814% coverage
+
+Output 2024-08-26T14:02:42.227Z: 	st 2: 53101 out of 485439, 10.938758525787998%
+
+Output 2024-08-26T14:02:42.869Z: new	st 2: 54883 out of 485439, 11.305848932615632%
+
+Output 2024-08-26T14:02:42.869Z: diff	st 2: lines [91m1782[0m(485439), methods [91m79[0m(33241), classes 0(5982), coverage 0.36709040682763455%
+
+Output 2024-08-26T14:02:45.991Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:02:45.991Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:02:48.188Z: ec files: 3(2), probes: 12219 out of 144098 total; 8.47964579661064% coverage
+
+Output 2024-08-26T14:02:48.188Z: 	st 3: 11423 out of 134533, 8.490853545226821%
+
+Output 2024-08-26T14:02:48.396Z: new	st 3: 11474 out of 134533, 8.528762459768235%
+
+Output 2024-08-26T14:02:48.396Z: diff	st 3: lines [91m51[0m(134533), methods [91m2[0m(11039), classes 0(2084), coverage 0.03790891454141382%
+
+Output 2024-08-26T14:02:49.263Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:02:49.263Z:  total diff: lines [91m2061[0m(1130905), methods [91m112[0m(87502), classes 0(15889), coverage 0.18224342451399542%
+
+2024-08-26T14:02:49.826Z Process exited with code 0
+Output 2024-08-26T14:05:53.610Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:06:02.597Z: ec files: 1(3), probes: 38309 out of 549814 total; 6.967629052734197% coverage
+
+Output 2024-08-26T14:06:02.597Z: 	st 1: 35473 out of 510933, 6.942788976245417%
+
+Output 2024-08-26T14:06:03.192Z: new	st 1: 35473 out of 510933, 6.942788976245417%
+
+Output 2024-08-26T14:06:03.193Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:06:13.037Z: ec files: 2(3), probes: 60145 out of 513894 total; 11.703775486773537% coverage
+	st 2: 54883 out of 485439, 11.305848932615632%
+
+Output 2024-08-26T14:06:13.997Z: new	st 2: 55688 out of 485439, 11.471678212916556%
+
+Output 2024-08-26T14:06:13.997Z: diff	st 2: lines [91m805[0m(485439), methods [91m21[0m(33241), classes 0(5982), coverage 0.16582928030092342%
+
+Output 2024-08-26T14:06:18.557Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:06:18.557Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:06:23.224Z: ec files: 3(3), probes: 12219 out of 144098 total; 8.47964579661064% coverage
+
+Output 2024-08-26T14:06:23.225Z: 	st 3: 11474 out of 134533, 8.528762459768235%
+
+Output 2024-08-26T14:06:23.519Z: new	st 3: 11474 out of 134533, 8.528762459768235%
+
+Output 2024-08-26T14:06:23.519Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+
+Output 2024-08-26T14:06:23.519Z:  total diff: lines [91m805[0m(1130905), methods [91m21[0m(87502), classes 0(15889), coverage 0.07118192951662607%
+
+2024-08-26T14:06:24.009Z Process exited with code 0
+Output 2024-08-26T14:08:52.968Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:09:09.059Z: ec files: 1(4), probes: 38309 out of 549814 total; 6.967629052734197% coverage
+
+Output 2024-08-26T14:09:09.059Z: 	st 1: 35473 out of 510933, 6.942788976245417%
+
+Output 2024-08-26T14:09:10.112Z: new	st 1: 35473 out of 510933, 6.942788976245417%
+
+Output 2024-08-26T14:09:10.112Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:09:14.326Z: ec files: 3(4), probes: 12219 out of 144098 total; 8.47964579661064% coverage
+
+Output 2024-08-26T14:09:14.326Z: 	st 3: 11474 out of 134533, 8.528762459768235%
+
+Output 2024-08-26T14:09:14.606Z: new	st 3: 11474 out of 134533, 8.528762459768235%
+
+Output 2024-08-26T14:09:14.606Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:09:25.938Z: ec files: 2(4), probes: 60597 out of 513894 total; 11.791731368725847% coverage
+
+Output 2024-08-26T14:09:25.939Z: 	st 2: 55688 out of 485439, 11.471678212916556%
+
+Output 2024-08-26T14:09:26.574Z: new	st 2: 56136 out of 485439, 11.563965812388375%
+
+Output 2024-08-26T14:09:26.574Z: diff	st 2: lines [91m448[0m(485439), methods [91m6[0m(33241), classes 0(5982), coverage 0.09228759947181864%
+
+Output 2024-08-26T14:09:29.419Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:09:29.419Z:  total diff: lines [91m448[0m(1130905), methods [91m6[0m(87502), classes 0(15889), coverage 0.03961429120925277%
+
+2024-08-26T14:09:30.123Z Process exited with code 0
+Output 2024-08-26T14:11:49.233Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:12:03.664Z: ec files: 1(5), probes: 38309 out of 549814 total; 6.967629052734197% coverage
+
+Output 2024-08-26T14:12:03.664Z: 	st 1: 35473 out of 510933, 6.942788976245417%
+
+Output 2024-08-26T14:12:04.705Z: new	st 1: 35473 out of 510933, 6.942788976245417%
+
+Output 2024-08-26T14:12:04.705Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:12:10.113Z: ec files: 3(5), probes: 12219 out of 144098 total; 8.47964579661064% coverage
+
+Output 2024-08-26T14:12:10.113Z: 	st 3: 11474 out of 134533, 8.528762459768235%
+
+Output 2024-08-26T14:12:10.395Z: new	st 3: 11474 out of 134533, 8.528762459768235%
+
+Output 2024-08-26T14:12:10.395Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:12:27.192Z: ec files: 2(5), probes: 60637 out of 513894 total; 11.799515075093307% coverage
+
+Output 2024-08-26T14:12:27.193Z: 	st 2: 56136 out of 485439, 11.563965812388375%
+
+Output 2024-08-26T14:12:28.124Z: new	st 2: 56176 out of 485439, 11.57220577662693%
+
+Output 2024-08-26T14:12:28.124Z: diff	st 2: lines [91m40[0m(485439), methods 0(33241), classes 0(5982), coverage 0.00823996423855583%
+
+Output 2024-08-26T14:12:32.439Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:12:32.440Z:  total diff: lines [91m40[0m(1130905), methods 0(87502), classes 0(15889), coverage 0.0035369902865404258%
+
+2024-08-26T14:12:33.233Z Process exited with code 0
+Output 2024-08-26T14:14:49.525Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:15:09.941Z: ec files: 1(6), probes: 38309 out of 549814 total; 6.967629052734197% coverage
+
+Output 2024-08-26T14:15:09.941Z: 	st 1: 35473 out of 510933, 6.942788976245417%
+
+Output 2024-08-26T14:15:10.963Z: new	st 1: 35473 out of 510933, 6.942788976245417%
+
+Output 2024-08-26T14:15:10.963Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:15:17.004Z: ec files: 3(6), probes: 12219 out of 144098 total; 8.47964579661064% coverage
+
+Output 2024-08-26T14:15:17.004Z: 	st 3: 11474 out of 134533, 8.528762459768235%
+
+Output 2024-08-26T14:15:17.295Z: new	st 3: 11474 out of 134533, 8.528762459768235%
+
+Output 2024-08-26T14:15:17.295Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:15:29.341Z: ec files: 2(6), probes: 60655 out of 513894 total; 11.803017742958664% coverage
+
+Output 2024-08-26T14:15:29.341Z: 	st 2: 56176 out of 485439, 11.57220577662693%
+
+Output 2024-08-26T14:15:29.939Z: new	st 2: 56194 out of 485439, 11.575913760534279%
+
+Output 2024-08-26T14:15:29.939Z: diff	st 2: lines [91m18[0m(485439), methods 0(33241), classes 0(5982), coverage 0.0037079839073486665%
+
+Output 2024-08-26T14:15:32.812Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:15:32.813Z:  total diff: lines [91m18[0m(1130905), methods 0(87502), classes 0(15889), coverage 0.0015916456289431916%
+
+2024-08-26T14:15:33.462Z Process exited with code 0
+Output 2024-08-26T14:17:47.634Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:18:06.507Z: ec files: 1(7), probes: 38328 out of 549814 total; 6.971084766848425% coverage
+	st 1: 35473 out of 510933, 6.942788976245417%
+
+Output 2024-08-26T14:18:07.481Z: new	st 1: 35490 out of 510933, 6.946116222674989%
+
+Output 2024-08-26T14:18:07.481Z: diff	st 1: lines [91m17[0m(510933), methods [91m2[0m(43222), classes 0(7823), coverage 0.0033272464295713844%
+
+Output 2024-08-26T14:18:12.687Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:18:12.688Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:18:19.183Z: ec files: 3(7), probes: 12219 out of 144098 total; 8.47964579661064% coverage
+
+Output 2024-08-26T14:18:19.183Z: 	st 3: 11474 out of 134533, 8.528762459768235%
+
+Output 2024-08-26T14:18:19.492Z: new	st 3: 11474 out of 134533, 8.528762459768235%
+
+Output 2024-08-26T14:18:19.492Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:18:35.941Z: ec files: 2(7), probes: 60817 out of 513894 total; 11.834541753746882% coverage
+
+Output 2024-08-26T14:18:35.941Z: 	st 2: 56194 out of 485439, 11.575913760534279%
+
+Output 2024-08-26T14:18:36.548Z: new	st 2: 56351 out of 485439, 11.608255620170608%
+
+Output 2024-08-26T14:18:36.548Z: diff	st 2: lines [91m157[0m(485439), methods [91m5[0m(33241), classes 0(5982), coverage 0.032341859636329795%
+
+Output 2024-08-26T14:18:39.388Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:18:39.389Z:  total diff: lines [91m174[0m(1130905), methods [91m7[0m(87502), classes 0(15889), coverage 0.01538590774645085%
+
+2024-08-26T14:18:40.036Z Process exited with code 0
+Output 2024-08-26T14:20:54.913Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:21:11.361Z: ec files: 1(8), probes: 38583 out of 549814 total; 7.017464087855165% coverage
+
+Output 2024-08-26T14:21:11.361Z: 	st 1: 35490 out of 510933, 6.946116222674989%
+
+Output 2024-08-26T14:21:12.401Z: new	st 1: 35699 out of 510933, 6.987021781720891%
+diff	st 1: lines [91m209[0m(510933), methods [91m47[0m(43222), classes 0(7823), coverage 0.04090555904590204%
+
+Output 2024-08-26T14:21:17.784Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:21:25.140Z: ec files: 3(8), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T14:21:25.141Z: 	st 3: 11474 out of 134533, 8.528762459768235%
+
+Output 2024-08-26T14:21:25.416Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:21:25.416Z: diff	st 3: lines [91m201[0m(134533), methods [91m26[0m(11039), classes 0(2084), coverage 0.14940572201615904%
+
+Output 2024-08-26T14:21:26.695Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:21:26.695Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:21:46.951Z: ec files: 2(8), probes: 60969 out of 513894 total; 11.864119837943234% coverage
+
+Output 2024-08-26T14:21:46.951Z: 	st 2: 56351 out of 485439, 11.608255620170608%
+
+Output 2024-08-26T14:21:47.528Z: new	st 2: 56497 out of 485439, 11.638331489641335%
+
+Output 2024-08-26T14:21:47.528Z: diff	st 2: lines [91m146[0m(485439), methods [91m7[0m(33241), classes 0(5982), coverage 0.030075869470726213%
+
+Output 2024-08-26T14:21:50.477Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:21:50.477Z:  total diff: lines [91m556[0m(1130905), methods [91m80[0m(87502), classes 0(15889), coverage 0.049164164982911915%
+
+2024-08-26T14:21:51.163Z Process exited with code 0
+Output 2024-08-26T14:33:11.129Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:33:30.967Z: ec files: 1(9), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T14:33:30.967Z: 	st 1: 35699 out of 510933, 6.987021781720891%
+
+Output 2024-08-26T14:33:31.948Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:33:31.948Z: diff	st 1: lines [91m11[0m(510933), methods [91m1[0m(43222), classes 0(7823), coverage 0.0021529241603104876%
+
+Output 2024-08-26T14:33:37.319Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:33:37.319Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:33:45.285Z: ec files: 3(9), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T14:33:45.286Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:33:45.601Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:33:45.601Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:34:09.924Z: ec files: 2(9), probes: 61001 out of 513894 total; 11.870346803037203% coverage
+
+Output 2024-08-26T14:34:09.925Z: 	st 2: 56497 out of 485439, 11.638331489641335%
+
+Output 2024-08-26T14:34:10.484Z: new	st 2: 56527 out of 485439, 11.644511462820253%
+
+Output 2024-08-26T14:34:10.484Z: diff	st 2: lines [91m30[0m(485439), methods [91m3[0m(33241), classes 0(5982), coverage 0.00617997317891722%
+
+Output 2024-08-26T14:34:13.357Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:34:13.357Z:  total diff: lines [91m41[0m(1130905), methods [91m4[0m(87502), classes 0(15889), coverage 0.003625415043703936%
+
+2024-08-26T14:34:14.123Z Process exited with code 0
+Output 2024-08-26T14:36:09.252Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:36:26.760Z: ec files: 1(10), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T14:36:26.760Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:36:27.631Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:36:27.631Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:36:35.894Z: ec files: 3(10), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T14:36:35.895Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:36:36.189Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:36:36.189Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:36:58.923Z: ec files: 2(10), probes: 61045 out of 513894 total; 11.87890888004141% coverage
+	st 2: 56527 out of 485439, 11.644511462820253%
+
+Output 2024-08-26T14:36:59.521Z: new	st 2: 56571 out of 485439, 11.653575423482662%
+
+Output 2024-08-26T14:36:59.521Z: diff	st 2: lines [91m44[0m(485439), methods 0(33241), classes 0(5982), coverage 0.009063960662410164%
+
+Output 2024-08-26T14:37:02.605Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:37:02.605Z:  total diff: lines [91m44[0m(1130905), methods 0(87502), classes 0(15889), coverage 0.003890689315194468%
+
+2024-08-26T14:37:03.427Z Process exited with code 0
+Output 2024-08-26T14:39:07.980Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:39:38.922Z: ec files: 1(11), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T14:39:38.922Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:39:39.943Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:39:39.943Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:39:45.470Z: ec files: 3(11), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T14:39:45.470Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:39:45.636Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:39:45.636Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:40:04.676Z: ec files: 2(11), probes: 61045 out of 513894 total; 11.87890888004141% coverage
+
+Output 2024-08-26T14:40:04.676Z: 	st 2: 56571 out of 485439, 11.653575423482662%
+
+Output 2024-08-26T14:40:05.636Z: new	st 2: 56571 out of 485439, 11.653575423482662%
+
+Output 2024-08-26T14:40:05.636Z: diff	st 2: lines 0(485439), methods 0(33241), classes 0(5982), coverage 0.0%
+ total diff: lines 0(1130905), methods 0(87502), classes 0(15889), coverage 0.0%
+
+2024-08-26T14:40:06.667Z Process exited with code 0
+Output 2024-08-26T14:42:08.882Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:42:37.956Z: ec files: 1(12), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T14:42:37.956Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:42:39.018Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:42:39.018Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+
+Output 2024-08-26T14:42:39.018Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:42:48.467Z: ec files: 3(12), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T14:42:48.467Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:42:48.750Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:42:48.750Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:43:07.578Z: ec files: 2(12), probes: 61122 out of 513894 total; 11.893892514798772% coverage
+
+Output 2024-08-26T14:43:07.578Z: 	st 2: 56571 out of 485439, 11.653575423482662%
+
+Output 2024-08-26T14:43:08.187Z: new	st 2: 56642 out of 485439, 11.668201360006098%
+
+Output 2024-08-26T14:43:08.187Z: diff	st 2: lines [91m71[0m(485439), methods [91m6[0m(33241), classes 0(5982), coverage 0.014625936523435246%
+
+Output 2024-08-26T14:43:11.153Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:43:11.153Z:  total diff: lines [91m71[0m(1130905), methods [91m6[0m(87502), classes 0(15889), coverage 0.006278157758609256%
+
+2024-08-26T14:43:12.136Z Process exited with code 0
+Output 2024-08-26T14:45:11.421Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:45:33.293Z: ec files: 1(13), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T14:45:33.293Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:45:34.345Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:45:34.346Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:46:07.529Z: ec files: 2(13), probes: 61158 out of 513894 total; 11.900897850529487% coverage
+
+Output 2024-08-26T14:46:07.529Z: 	st 2: 56642 out of 485439, 11.668201360006098%
+
+Output 2024-08-26T14:46:08.051Z: new	st 2: 56678 out of 485439, 11.675617327820797%
+
+Output 2024-08-26T14:46:08.051Z: diff	st 2: lines [91m36[0m(485439), methods 0(33241), classes 0(5982), coverage 0.0074159678147001085%
+
+Output 2024-08-26T14:46:10.995Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:46:10.995Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:46:16.635Z: ec files: 3(13), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:46:16.805Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:46:16.805Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines [91m36[0m(1130905), methods 0(87502), classes 0(15889), coverage 0.0031832912578863832%
+
+2024-08-26T14:46:17.145Z Process exited with code 0
+Output 2024-08-26T14:48:11.101Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:48:39.896Z: ec files: 1(14), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T14:48:39.897Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:48:40.963Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:48:40.963Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:49:01.624Z: ec files: 2(14), probes: 61158 out of 513894 total; 11.900897850529487% coverage
+
+Output 2024-08-26T14:49:01.624Z: 	st 2: 56678 out of 485439, 11.675617327820797%
+
+Output 2024-08-26T14:49:02.549Z: new	st 2: 56678 out of 485439, 11.675617327820797%
+
+Output 2024-08-26T14:49:02.549Z: diff	st 2: lines 0(485439), methods 0(33241), classes 0(5982), coverage 0.0%
+
+Output 2024-08-26T14:49:02.549Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:49:13.272Z: ec files: 3(14), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T14:49:13.272Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:49:13.572Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:49:13.573Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines 0(1130905), methods 0(87502), classes 0(15889), coverage 0.0%
+
+2024-08-26T14:49:14.053Z Process exited with code 0
+Output 2024-08-26T14:51:09.466Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:51:33.849Z: ec files: 1(15), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T14:51:33.850Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:51:34.822Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:51:34.823Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:52:08.187Z: ec files: 2(15), probes: 61986 out of 513894 total; 12.062020572335928% coverage
+
+Output 2024-08-26T14:52:08.187Z: 	st 2: 56678 out of 485439, 11.675617327820797%
+
+Output 2024-08-26T14:52:08.706Z: new	st 2: 57485 out of 485439, 11.841858606333648%
+
+Output 2024-08-26T14:52:08.706Z: diff	st 2: lines [91m807[0m(485439), methods [91m25[0m(33241), classes 0(5982), coverage 0.1662412785128506%
+
+Output 2024-08-26T14:52:11.623Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:52:11.623Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:52:21.199Z: ec files: 3(15), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T14:52:21.199Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:52:21.471Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:52:21.472Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines [91m807[0m(1130905), methods [91m25[0m(87502), classes 0(15889), coverage 0.07135877903095308%
+
+2024-08-26T14:52:21.956Z Process exited with code 0
+Output 2024-08-26T14:54:06.401Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:54:35.828Z: ec files: 1(16), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T14:54:35.829Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:54:36.440Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:54:36.441Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:54:44.094Z: ec files: 3(16), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T14:54:44.097Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:54:44.394Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:55:20.551Z: ec files: 2(16), probes: 61986 out of 513894 total; 12.062020572335928% coverage
+
+Output 2024-08-26T14:55:20.551Z: 	st 2: 57485 out of 485439, 11.841858606333648%
+
+Output 2024-08-26T14:55:21.107Z: new	st 2: 57485 out of 485439, 11.841858606333648%
+
+Output 2024-08-26T14:55:21.107Z: diff	st 2: lines 0(485439), methods 0(33241), classes 0(5982), coverage 0.0%
+ total diff: lines 0(1130905), methods 0(87502), classes 0(15889), coverage 0.0%
+
+2024-08-26T14:55:21.990Z Process exited with code 0
+Output 2024-08-26T14:57:02.311Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T14:57:33.880Z: ec files: 1(17), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T14:57:33.880Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T14:57:34.844Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T14:58:09.584Z: ec files: 2(17), probes: 61986 out of 513894 total; 12.062020572335928% coverage
+
+Output 2024-08-26T14:58:09.584Z: 	st 2: 57485 out of 485439, 11.841858606333648%
+
+Output 2024-08-26T14:58:10.098Z: new	st 2: 57485 out of 485439, 11.841858606333648%
+
+Output 2024-08-26T14:58:10.098Z: diff	st 2: lines 0(485439), methods 0(33241), classes 0(5982), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T14:58:17.007Z: ec files: 3(17), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T14:58:17.008Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:58:17.173Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T14:58:17.174Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines 0(1130905), methods 0(87502), classes 0(15889), coverage 0.0%
+
+2024-08-26T14:58:17.489Z Process exited with code 0
+Output 2024-08-26T15:00:00.937Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T15:00:34.741Z: ec files: 1(18), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T15:00:34.741Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:00:35.404Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:00:35.404Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:01:15.246Z: ec files: 2(18), probes: 62349 out of 513894 total; 12.132657707620638% coverage
+	st 2: 57485 out of 485439, 11.841858606333648%
+
+Output 2024-08-26T15:01:16.124Z: new	st 2: 57836 out of 485439, 11.91416429252697%
+
+Output 2024-08-26T15:01:16.124Z: diff	st 2: lines [91m351[0m(485439), methods [91m20[0m(33241), classes 0(5982), coverage 0.0723056861933219%
+
+Output 2024-08-26T15:01:19.772Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:01:19.772Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T15:01:26.951Z: ec files: 3(18), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T15:01:26.951Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:01:27.116Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:01:27.116Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines [91m351[0m(1130905), methods [91m20[0m(87502), classes 0(15889), coverage 0.031037089764392234%
+
+2024-08-26T15:01:27.507Z Process exited with code 0
+Output 2024-08-26T15:03:12.482Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T15:03:49.796Z: ec files: 1(19), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T15:03:49.796Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:03:50.853Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:03:50.853Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:04:19.798Z: ec files: 2(19), probes: 62349 out of 513894 total; 12.132657707620638% coverage
+
+Output 2024-08-26T15:04:19.798Z: 	st 2: 57836 out of 485439, 11.91416429252697%
+
+Output 2024-08-26T15:04:20.386Z: new	st 2: 57836 out of 485439, 11.91416429252697%
+
+Output 2024-08-26T15:04:20.386Z: diff	st 2: lines 0(485439), methods 0(33241), classes 0(5982), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T15:04:33.338Z: ec files: 3(19), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T15:04:33.339Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:04:33.627Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:04:33.627Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+
+Output 2024-08-26T15:04:33.627Z:  total diff: lines 0(1130905), methods 0(87502), classes 0(15889), coverage 0.0%
+
+2024-08-26T15:04:34.129Z Process exited with code 0
+Output 2024-08-26T15:06:11.736Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T15:06:48.853Z: ec files: 1(20), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T15:06:48.853Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:06:49.819Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:06:49.819Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+
+Output 2024-08-26T15:06:49.819Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:07:26.731Z: ec files: 2(20), probes: 62370 out of 513894 total; 12.136744153463555% coverage
+
+Output 2024-08-26T15:07:26.731Z: 	st 2: 57836 out of 485439, 11.91416429252697%
+
+Output 2024-08-26T15:07:27.278Z: new	st 2: 57857 out of 485439, 11.918490273752212%
+
+Output 2024-08-26T15:07:27.279Z: diff	st 2: lines [91m21[0m(485439), methods 0(33241), classes 0(5982), coverage 0.0043259812252421925%
+
+Output 2024-08-26T15:07:30.380Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:07:30.380Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T15:07:41.628Z: ec files: 3(20), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T15:07:41.628Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:07:41.903Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:07:41.903Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+
+Output 2024-08-26T15:07:41.903Z:  total diff: lines [91m21[0m(1130905), methods 0(87502), classes 0(15889), coverage 0.0018569199004337235%
+
+2024-08-26T15:07:42.323Z Process exited with code 0
+Output 2024-08-26T15:12:26.986Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T15:13:04.156Z: ec files: 1(21), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T15:13:04.156Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:13:05.217Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:13:05.217Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+
+Output 2024-08-26T15:13:05.217Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:13:49.000Z: ec files: 2(21), probes: 62449 out of 513894 total; 12.15211697353929% coverage
+
+Output 2024-08-26T15:13:49.000Z: 	st 2: 57857 out of 485439, 11.918490273752212%
+
+Output 2024-08-26T15:13:49.998Z: new	st 2: 57935 out of 485439, 11.934558204017394%
+diff	st 2: lines [91m78[0m(485439), methods [91m2[0m(33241), classes 0(5982), coverage 0.016067930265181718%
+
+Output 2024-08-26T15:13:54.456Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:13:54.457Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T15:14:09.056Z: ec files: 3(21), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T15:14:09.056Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:14:09.346Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:14:09.347Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines [91m78[0m(1130905), methods [91m2[0m(87502), classes 0(15889), coverage 0.00689713105875383%
+
+2024-08-26T15:14:09.846Z Process exited with code 0
+Output 2024-08-26T15:18:57.592Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T15:19:33.602Z: ec files: 1(22), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T15:19:33.603Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:19:34.226Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:19:34.226Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:20:13.026Z: ec files: 2(22), probes: 62513 out of 513894 total; 12.164570903727228% coverage
+
+Output 2024-08-26T15:20:13.026Z: 	st 2: 57935 out of 485439, 11.934558204017394%
+
+Output 2024-08-26T15:20:13.930Z: new	st 2: 57999 out of 485439, 11.947742146799083%
+
+Output 2024-08-26T15:20:13.930Z: diff	st 2: lines [91m64[0m(485439), methods 0(33241), classes 0(5982), coverage 0.013183942781688773%
+
+Output 2024-08-26T15:20:18.136Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:20:18.136Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T15:20:33.295Z: ec files: 3(22), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T15:20:33.295Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:20:33.594Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:20:33.594Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines [91m64[0m(1130905), methods 0(87502), classes 0(15889), coverage 0.0056591844584646805%
+
+2024-08-26T15:20:34.132Z Process exited with code 0
+Output 2024-08-26T15:21:53.260Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T15:22:33.429Z: ec files: 1(23), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T15:22:33.429Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:22:34.469Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:22:34.469Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:23:11.011Z: ec files: 2(23), probes: 62513 out of 513894 total; 12.164570903727228% coverage
+
+Output 2024-08-26T15:23:11.011Z: 	st 2: 57999 out of 485439, 11.947742146799083%
+
+Output 2024-08-26T15:23:11.563Z: new	st 2: 57999 out of 485439, 11.947742146799083%
+
+Output 2024-08-26T15:23:11.563Z: diff	st 2: lines 0(485439), methods 0(33241), classes 0(5982), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T15:23:26.297Z: ec files: 3(23), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:23:26.580Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:23:26.581Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines 0(1130905), methods 0(87502), classes 0(15889), coverage 0.0%
+
+2024-08-26T15:23:27.080Z Process exited with code 0
+Output 2024-08-26T15:24:53.139Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T15:25:33.193Z: ec files: 1(24), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T15:25:33.193Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:25:34.218Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:25:34.218Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+
+Output 2024-08-26T15:25:34.218Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:26:18.661Z: ec files: 2(24), probes: 62513 out of 513894 total; 12.164570903727228% coverage
+
+Output 2024-08-26T15:26:18.661Z: 	st 2: 57999 out of 485439, 11.947742146799083%
+
+Output 2024-08-26T15:26:19.241Z: new	st 2: 57999 out of 485439, 11.947742146799083%
+
+Output 2024-08-26T15:26:19.241Z: diff	st 2: lines 0(485439), methods 0(33241), classes 0(5982), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T15:26:28.407Z: ec files: 3(24), probes: 12445 out of 144098 total; 8.636483504281808% coverage
+
+Output 2024-08-26T15:26:28.407Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:26:28.584Z: new	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:26:28.584Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines 0(1130905), methods 0(87502), classes 0(15889), coverage 0.0%
+
+2024-08-26T15:26:28.980Z Process exited with code 0
+Output 2024-08-26T15:35:10.359Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T15:35:56.636Z: ec files: 1(25), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T15:35:56.636Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:35:57.662Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:35:57.663Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+
+Output 2024-08-26T15:35:57.663Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:36:35.101Z: ec files: 2(25), probes: 62513 out of 513894 total; 12.164570903727228% coverage
+	st 2: 57999 out of 485439, 11.947742146799083%
+
+Output 2024-08-26T15:36:35.679Z: new	st 2: 57999 out of 485439, 11.947742146799083%
+
+Output 2024-08-26T15:36:35.679Z: diff	st 2: lines 0(485439), methods 0(33241), classes 0(5982), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T15:36:52.188Z: ec files: 3(25), probes: 12455 out of 144098 total; 8.643423225860179% coverage
+
+Output 2024-08-26T15:36:52.188Z: 	st 3: 11675 out of 134533, 8.678168181784395%
+
+Output 2024-08-26T15:36:52.470Z: new	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T15:36:52.470Z: diff	st 3: lines [91m10[0m(134533), methods 0(11039), classes 0(2084), coverage 0.0074331204983166255%
+
+Output 2024-08-26T15:36:53.797Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T15:36:53.797Z:  total diff: lines [91m10[0m(1130905), methods 0(87502), classes 0(15889), coverage 0.0008842475716351064%
+
+2024-08-26T15:36:54.335Z Process exited with code 0
+Output 2024-08-26T15:38:12.172Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T15:39:03.430Z: ec files: 1(26), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:39:04.074Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:39:04.074Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:39:48.790Z: ec files: 2(26), probes: 62513 out of 513894 total; 12.164570903727228% coverage
+
+Output 2024-08-26T15:39:48.791Z: 	st 2: 57999 out of 485439, 11.947742146799083%
+
+Output 2024-08-26T15:39:49.710Z: new	st 2: 57999 out of 485439, 11.947742146799083%
+
+Output 2024-08-26T15:39:49.711Z: diff	st 2: lines 0(485439), methods 0(33241), classes 0(5982), coverage 0.0%
+
+Output 2024-08-26T15:39:49.711Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T15:40:02.611Z: ec files: 3(26), probes: 12455 out of 144098 total; 8.643423225860179% coverage
+
+Output 2024-08-26T15:40:02.611Z: 	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T15:40:02.833Z: new	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T15:40:02.833Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines 0(1130905), methods 0(87502), classes 0(15889), coverage 0.0%
+
+2024-08-26T15:40:03.274Z Process exited with code 0
+Output 2024-08-26T15:50:42.828Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T15:51:26.865Z: ec files: 1(27), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T15:51:26.865Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:51:27.758Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T15:51:27.758Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:52:12.042Z: ec files: 2(27), probes: 62631 out of 513894 total; 12.187532837511238% coverage
+
+Output 2024-08-26T15:52:12.042Z: 	st 2: 57999 out of 485439, 11.947742146799083%
+
+Output 2024-08-26T15:52:12.632Z: new	st 2: 58117 out of 485439, 11.97205004130282%
+
+Output 2024-08-26T15:52:12.632Z: diff	st 2: lines [91m118[0m(485439), methods 0(33241), classes 0(5982), coverage 0.024307894503737548%
+
+Output 2024-08-26T15:52:15.959Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T15:52:15.959Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T15:52:34.354Z: ec files: 3(27), probes: 12455 out of 144098 total; 8.643423225860179% coverage
+
+Output 2024-08-26T15:52:34.357Z: 	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T15:52:34.696Z: new	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T15:52:34.696Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines [91m118[0m(1130905), methods 0(87502), classes 0(15889), coverage 0.010434121345294256%
+
+2024-08-26T15:52:35.408Z Process exited with code 0
+Output 2024-08-26T16:02:31.616Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T16:03:28.227Z: ec files: 1(28), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T16:03:28.821Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T16:03:28.821Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T16:04:18.979Z: ec files: 2(28), probes: 62812 out of 513894 total; 12.222754108823999% coverage
+
+Output 2024-08-26T16:04:18.979Z: 	st 2: 58117 out of 485439, 11.97205004130282%
+
+Output 2024-08-26T16:04:19.606Z: new	st 2: 58292 out of 485439, 12.0080998848465%
+
+Output 2024-08-26T16:04:19.606Z: diff	st 2: lines [91m175[0m(485439), methods [91m8[0m(33241), classes 0(5982), coverage 0.03604984354367985%
+
+Output 2024-08-26T16:04:22.437Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T16:04:22.437Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T16:04:40.461Z: ec files: 3(28), probes: 12455 out of 144098 total; 8.643423225860179% coverage
+
+Output 2024-08-26T16:04:40.461Z: 	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T16:04:40.735Z: new	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T16:04:40.735Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+
+Output 2024-08-26T16:04:40.735Z:  total diff: lines [91m175[0m(1130905), methods [91m8[0m(87502), classes 0(15889), coverage 0.01547433250361436%
+
+2024-08-26T16:04:41.118Z Process exited with code 0
+Output 2024-08-26T16:05:33.973Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T16:06:34.153Z: ec files: 1(29), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T16:06:34.153Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T16:06:35.203Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T16:06:35.203Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+
+Output 2024-08-26T16:06:35.203Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T16:07:29.759Z: ec files: 2(29), probes: 62820 out of 513894 total; 12.22431085009749% coverage
+
+Output 2024-08-26T16:07:29.760Z: 	st 2: 58292 out of 485439, 12.0080998848465%
+
+Output 2024-08-26T16:07:30.652Z: new	st 2: 58300 out of 485439, 12.00974787769421%
+
+Output 2024-08-26T16:07:30.652Z: diff	st 2: lines [91m8[0m(485439), methods 0(33241), classes 0(5982), coverage 0.0016479928477100558%
+
+Output 2024-08-26T16:07:34.910Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T16:07:34.910Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T16:07:54.124Z: ec files: 3(29), probes: 12455 out of 144098 total; 8.643423225860179% coverage
+
+Output 2024-08-26T16:07:54.124Z: 	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T16:07:54.432Z: new	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T16:07:54.432Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines [91m8[0m(1130905), methods 0(87502), classes 0(15889), coverage 0.0007073980573080851%
+
+2024-08-26T16:07:54.891Z Process exited with code 0
+Output 2024-08-26T16:08:39.470Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T16:09:44.305Z: ec files: 1(30), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T16:09:44.305Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T16:09:45.355Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T16:09:45.355Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T16:10:36.795Z: ec files: 2(30), probes: 62820 out of 513894 total; 12.22431085009749% coverage
+
+Output 2024-08-26T16:10:36.795Z: 	st 2: 58300 out of 485439, 12.00974787769421%
+
+Output 2024-08-26T16:10:37.675Z: new	st 2: 58300 out of 485439, 12.00974787769421%
+
+Output 2024-08-26T16:10:37.675Z: diff	st 2: lines 0(485439), methods 0(33241), classes 0(5982), coverage 0.0%
+
+Output 2024-08-26T16:10:37.675Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T16:10:51.600Z: ec files: 3(30), probes: 12455 out of 144098 total; 8.643423225860179% coverage
+
+Output 2024-08-26T16:10:51.600Z: 	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T16:10:51.768Z: new	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T16:10:51.768Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines 0(1130905), methods 0(87502), classes 0(15889), coverage 0.0%
+
+2024-08-26T16:10:52.053Z Process exited with code 0
+Output 2024-08-26T16:11:41.281Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_1.pickle
+
+Output 2024-08-26T16:12:40.601Z: ec files: 1(31), probes: 38595 out of 549814 total; 7.019646644137835% coverage
+
+Output 2024-08-26T16:12:40.601Z: 	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T16:12:41.174Z: new	st 1: 35710 out of 510933, 6.989174705881202%
+
+Output 2024-08-26T16:12:41.174Z: diff	st 1: lines 0(510933), methods 0(43222), classes 0(7823), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+
+Output 2024-08-26T16:13:35.987Z: ec files: 2(31), probes: 62854 out of 513894 total; 12.230927000509833% coverage
+
+Output 2024-08-26T16:13:35.987Z: 	st 2: 58300 out of 485439, 12.00974787769421%
+
+Output 2024-08-26T16:13:36.503Z: new	st 2: 58332 out of 485439, 12.016339849085055%
+diff	st 2: lines [91m32[0m(485439), methods [91m2[0m(33241), classes 0(5982), coverage 0.006591971390844387%
+
+Output 2024-08-26T16:13:39.293Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_2.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/cn.com.broadlink.econtrol.international_3.pickle
+
+Output 2024-08-26T16:13:51.449Z: ec files: 3(31), probes: 12455 out of 144098 total; 8.643423225860179% coverage
+
+Output 2024-08-26T16:13:51.449Z: 	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T16:13:51.614Z: new	st 3: 11685 out of 134533, 8.685601302282711%
+
+Output 2024-08-26T16:13:51.614Z: diff	st 3: lines 0(134533), methods 0(11039), classes 0(2084), coverage 0.0%
+ total diff: lines [91m32[0m(1130905), methods [91m2[0m(87502), classes 0(15889), coverage 0.0028295922292323403%
+
+2024-08-26T16:13:51.900Z Process exited with code 0

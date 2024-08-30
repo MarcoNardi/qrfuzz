@@ -1,0 +1,2428 @@
+Output 2024-08-29T12:22:48.277Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/com.discord_6.pickle
+
+Output 2024-08-29T12:22:48.638Z: ec files: 6(1), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T12:22:48.638Z: 	st 6: 0 out of 20862, 0.0%
+
+Output 2024-08-29T12:22:48.660Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:22:48.660Z: diff	st 6: lines [91m2393[0m(20862), methods [91m232[0m(1822), classes 0(607), coverage 11.470616431789857%
+
+Output 2024-08-29T12:22:49.053Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T12:22:49.053Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/com.discord_2.pickle
+
+Output 2024-08-29T12:22:49.295Z: ec files: 2(1), probes: 3645 out of 30587 total; 11.916827410337724% coverage
+
+Output 2024-08-29T12:22:49.295Z: 	st 2: 0 out of 27673, 0.0%
+
+Output 2024-08-29T12:22:49.329Z: new	st 2: 3459 out of 27673, 12.499548296173165%
+
+Output 2024-08-29T12:22:49.329Z: diff	st 2: lines [91m3459[0m(27673), methods [91m226[0m(3174), classes 0(417), coverage 12.499548296173165%
+
+Output 2024-08-29T12:22:49.447Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T12:22:49.447Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:22:51.854Z: ec files: 5(1), probes: 49581 out of 265759 total; 18.65637664199519% coverage
+
+Output 2024-08-29T12:22:51.855Z: 	st 5: 0 out of 246657, 0.0%
+
+Output 2024-08-29T12:22:52.121Z: new	st 5: 45435 out of 246657, 18.420316471861735%
+
+Output 2024-08-29T12:22:52.121Z: diff	st 5: lines [91m45435[0m(246657), methods [91m4549[0m(21121), classes 0(2893), coverage 18.420316471861735%
+
+Output 2024-08-29T12:22:53.613Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:22:58.505Z: ec files: 3(1), probes: 74682 out of 493166 total; 15.143379713929995% coverage
+	st 3: 0 out of 459030, 0.0%
+
+Output 2024-08-29T12:22:58.966Z: new	st 3: 68278 out of 459030, 14.874409080016557%
+
+Output 2024-08-29T12:22:58.966Z: diff	st 3: lines [91m68278[0m(459030), methods [91m7003[0m(37948), classes 0(6041), coverage 14.874409080016557%
+
+Output 2024-08-29T12:23:01.938Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:23:01.938Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/com.discord_4.pickle
+
+Output 2024-08-29T12:23:03.448Z: ec files: 4(1), probes: 21300 out of 85833 total; 24.815630351962533% coverage
+
+Output 2024-08-29T12:23:03.448Z: 	st 4: 0 out of 78679, 0.0%
+
+Output 2024-08-29T12:23:03.558Z: new	st 4: 18911 out of 78679, 24.035638480407734%
+
+Output 2024-08-29T12:23:03.559Z: diff	st 4: lines [91m18911[0m(78679), methods [91m2535[0m(7736), classes 0(1431), coverage 24.035638480407734%
+
+Output 2024-08-29T12:23:04.388Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T12:23:04.388Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/com.discord_7.pickle
+
+Output 2024-08-29T12:23:05.227Z: ec files: 7(1), probes: 2743 out of 43219 total; 6.346745644276822% coverage
+
+Output 2024-08-29T12:23:05.227Z: 	st 7: 0 out of 39437, 0.0%
+
+Output 2024-08-29T12:23:05.290Z: new	st 7: 2394 out of 39437, 6.070441463600172%
+diff	st 7: lines [91m2394[0m(39437), methods [91m357[0m(3888), classes 0(931), coverage 6.070441463600172%
+
+Output 2024-08-29T12:23:05.786Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T12:23:05.787Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:23:09.561Z: ec files: 1(1), probes: 28007 out of 319433 total; 8.767722808851934% coverage
+
+Output 2024-08-29T12:23:09.561Z: 	st 1: 0 out of 297899, 0.0%
+
+Output 2024-08-29T12:23:09.910Z: new	st 1: 25092 out of 297899, 8.422988999627389%
+
+Output 2024-08-29T12:23:09.910Z: diff	st 1: lines [91m25092[0m(297899), methods [91m3158[0m(24110), classes 0(4005), coverage 8.422988999627389%
+
+Output 2024-08-29T12:23:11.732Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:23:11.732Z: deserialise: /home/marco/acvtool/acvtool_working_dir/pickles/com.discord_8.pickle
+
+Output 2024-08-29T12:23:14.208Z: ec files: 8(1), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+	st 8: 0 out of 164877, 0.0%
+
+Output 2024-08-29T12:23:14.433Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:23:14.433Z: diff	st 8: lines [91m6884[0m(164877), methods [91m741[0m(14376), classes 0(2381), coverage 4.175233659030671%
+
+Output 2024-08-29T12:23:15.515Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T12:23:15.515Z:  total diff: lines [91m172846[0m(1335114), methods [91m18801[0m(114175), classes 0(18706), coverage 12.946160402782084%
+
+2024-08-29T12:23:15.908Z Process exited with code 0
+Output 2024-08-29T12:27:14.233Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T12:27:16.278Z: ec files: 8(2), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+
+Output 2024-08-29T12:27:16.278Z: 	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:27:16.442Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:27:16.442Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T12:27:17.191Z: ec files: 6(2), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T12:27:17.191Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:27:17.215Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T12:27:17.531Z: ec files: 2(2), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+	st 2: 3459 out of 27673, 12.499548296173165%
+
+Output 2024-08-29T12:27:17.566Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+diff	st 2: lines [91m10[0m(27673), methods [91m2[0m(3174), classes 0(417), coverage 0.0361363061467862%
+
+Output 2024-08-29T12:27:17.684Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T12:27:17.684Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:27:20.559Z: ec files: 5(2), probes: 49840 out of 265759 total; 18.75383336030012% coverage
+
+Output 2024-08-29T12:27:20.560Z: 	st 5: 45435 out of 246657, 18.420316471861735%
+
+Output 2024-08-29T12:27:20.881Z: new	st 5: 45689 out of 246657, 18.52329348042018%
+
+Output 2024-08-29T12:27:20.881Z: diff	st 5: lines [91m254[0m(246657), methods [91m15[0m(21121), classes 0(2893), coverage 0.10297700855844139%
+
+Output 2024-08-29T12:27:22.861Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:27:22.861Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:27:29.494Z: ec files: 3(2), probes: 76516 out of 493166 total; 15.515262609344521% coverage
+
+Output 2024-08-29T12:27:29.494Z: 	st 3: 68278 out of 459030, 14.874409080016557%
+
+Output 2024-08-29T12:27:30.174Z: new	st 3: 70036 out of 459030, 15.257390584493388%
+
+Output 2024-08-29T12:27:30.174Z: diff	st 3: lines [91m1758[0m(459030), methods [91m79[0m(37948), classes 0(6041), coverage 0.38298150447683144%
+
+Output 2024-08-29T12:27:33.463Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:27:36.575Z: ec files: 1(2), probes: 28023 out of 319433 total; 8.772731683952504% coverage
+
+Output 2024-08-29T12:27:36.576Z: 	st 1: 25092 out of 297899, 8.422988999627389%
+
+Output 2024-08-29T12:27:36.894Z: new	st 1: 25107 out of 297899, 8.42802426325701%
+diff	st 1: lines [91m15[0m(297899), methods [91m1[0m(24110), classes 0(4005), coverage 0.005035263629619979%
+
+Output 2024-08-29T12:27:39.003Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:27:39.003Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T12:27:40.810Z: ec files: 4(2), probes: 21302 out of 85833 total; 24.817960458098867% coverage
+	st 4: 18911 out of 78679, 24.035638480407734%
+
+Output 2024-08-29T12:27:40.909Z: new	st 4: 18913 out of 78679, 24.03818045475921%
+
+Output 2024-08-29T12:27:40.909Z: diff	st 4: lines [91m2[0m(78679), methods 0(7736), classes 0(1431), coverage 0.002541974351477627%
+
+Output 2024-08-29T12:27:41.687Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T12:27:41.687Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T12:27:42.385Z: ec files: 7(2), probes: 2743 out of 43219 total; 6.346745644276822% coverage
+
+Output 2024-08-29T12:27:42.385Z: 	st 7: 2394 out of 39437, 6.070441463600172%
+
+Output 2024-08-29T12:27:42.435Z: new	st 7: 2394 out of 39437, 6.070441463600172%
+
+Output 2024-08-29T12:27:42.435Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+ total diff: lines [91m2039[0m(1335114), methods [91m97[0m(114175), classes 0(18706), coverage 0.15272104104967815%
+
+2024-08-29T12:27:42.810Z Process exited with code 0
+Output 2024-08-29T12:31:36.606Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T12:31:38.871Z: ec files: 8(3), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+
+Output 2024-08-29T12:31:38.871Z: 	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:31:39.030Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:31:39.030Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T12:31:39.768Z: ec files: 6(3), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:31:39.792Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:31:39.792Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+
+Output 2024-08-29T12:31:39.792Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T12:31:40.136Z: ec files: 2(3), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T12:31:40.171Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+
+Output 2024-08-29T12:31:40.171Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:31:44.058Z: ec files: 5(3), probes: 49840 out of 265759 total; 18.75383336030012% coverage
+
+Output 2024-08-29T12:31:44.058Z: 	st 5: 45689 out of 246657, 18.52329348042018%
+
+Output 2024-08-29T12:31:44.402Z: new	st 5: 45689 out of 246657, 18.52329348042018%
+diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:31:50.547Z: ec files: 3(3), probes: 76625 out of 493166 total; 15.537364700729572% coverage
+	st 3: 70036 out of 459030, 15.257390584493388%
+
+Output 2024-08-29T12:31:51.036Z: new	st 3: 70142 out of 459030, 15.280482757118271%
+diff	st 3: lines [91m106[0m(459030), methods [91m4[0m(37948), classes 0(6041), coverage 0.02309217262488339%
+
+Output 2024-08-29T12:31:54.481Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:31:59.681Z: ec files: 1(3), probes: 28023 out of 319433 total; 8.772731683952504% coverage
+
+Output 2024-08-29T12:31:59.681Z: 	st 1: 25107 out of 297899, 8.42802426325701%
+
+Output 2024-08-29T12:32:00.001Z: new	st 1: 25107 out of 297899, 8.42802426325701%
+
+Output 2024-08-29T12:32:00.001Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T12:32:01.900Z: ec files: 4(3), probes: 21302 out of 85833 total; 24.817960458098867% coverage
+
+Output 2024-08-29T12:32:01.900Z: 	st 4: 18913 out of 78679, 24.03818045475921%
+
+Output 2024-08-29T12:32:02.026Z: new	st 4: 18913 out of 78679, 24.03818045475921%
+
+Output 2024-08-29T12:32:02.026Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T12:32:03.305Z: ec files: 7(3), probes: 2743 out of 43219 total; 6.346745644276822% coverage
+
+Output 2024-08-29T12:32:03.305Z: 	st 7: 2394 out of 39437, 6.070441463600172%
+
+Output 2024-08-29T12:32:03.359Z: new	st 7: 2394 out of 39437, 6.070441463600172%
+
+Output 2024-08-29T12:32:03.359Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+ total diff: lines [91m106[0m(1335114), methods [91m4[0m(114175), classes 0(18706), coverage 0.007939396935392784%
+
+2024-08-29T12:32:03.647Z Process exited with code 0
+Output 2024-08-29T12:35:59.410Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T12:36:01.987Z: ec files: 8(4), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+
+Output 2024-08-29T12:36:01.987Z: 	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:36:02.162Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:36:02.162Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T12:36:02.882Z: ec files: 6(4), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:36:02.906Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:36:02.906Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T12:36:03.376Z: ec files: 2(4), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T12:36:03.376Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T12:36:03.415Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T12:36:03.415Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:36:06.863Z: ec files: 5(4), probes: 49840 out of 265759 total; 18.75383336030012% coverage
+
+Output 2024-08-29T12:36:06.863Z: 	st 5: 45689 out of 246657, 18.52329348042018%
+
+Output 2024-08-29T12:36:07.217Z: new	st 5: 45689 out of 246657, 18.52329348042018%
+
+Output 2024-08-29T12:36:07.218Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:36:15.526Z: ec files: 3(4), probes: 77226 out of 493166 total; 15.659230360568246% coverage
+
+Output 2024-08-29T12:36:15.526Z: 	st 3: 70142 out of 459030, 15.280482757118271%
+
+Output 2024-08-29T12:36:16.188Z: new	st 3: 70719 out of 459030, 15.406182602444286%
+diff	st 3: lines [91m577[0m(459030), methods [91m36[0m(37948), classes 0(6041), coverage 0.1256998453260133%
+
+Output 2024-08-29T12:36:19.137Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:36:19.137Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:36:24.090Z: ec files: 1(4), probes: 28023 out of 319433 total; 8.772731683952504% coverage
+
+Output 2024-08-29T12:36:24.090Z: 	st 1: 25107 out of 297899, 8.42802426325701%
+
+Output 2024-08-29T12:36:24.503Z: new	st 1: 25107 out of 297899, 8.42802426325701%
+
+Output 2024-08-29T12:36:24.503Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T12:36:26.480Z: ec files: 4(4), probes: 21302 out of 85833 total; 24.817960458098867% coverage
+
+Output 2024-08-29T12:36:26.480Z: 	st 4: 18913 out of 78679, 24.03818045475921%
+
+Output 2024-08-29T12:36:26.578Z: new	st 4: 18913 out of 78679, 24.03818045475921%
+
+Output 2024-08-29T12:36:26.578Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T12:36:27.575Z: ec files: 7(4), probes: 2743 out of 43219 total; 6.346745644276822% coverage
+
+Output 2024-08-29T12:36:27.575Z: 	st 7: 2394 out of 39437, 6.070441463600172%
+
+Output 2024-08-29T12:36:27.623Z: new	st 7: 2394 out of 39437, 6.070441463600172%
+diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+
+Output 2024-08-29T12:36:27.623Z:  total diff: lines [91m577[0m(1335114), methods [91m36[0m(114175), classes 0(18706), coverage 0.04321728331812864%
+
+2024-08-29T12:36:28.004Z Process exited with code 0
+Output 2024-08-29T12:40:20.935Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T12:40:23.873Z: ec files: 8(5), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+
+Output 2024-08-29T12:40:23.873Z: 	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:40:24.031Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+
+Output 2024-08-29T12:40:24.031Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T12:40:24.994Z: ec files: 6(5), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:40:25.021Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:40:25.021Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T12:40:25.534Z: ec files: 2(5), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T12:40:25.534Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T12:40:25.567Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+
+Output 2024-08-29T12:40:25.567Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:40:29.939Z: ec files: 5(5), probes: 50662 out of 265759 total; 19.063136149669436% coverage
+
+Output 2024-08-29T12:40:29.939Z: 	st 5: 45689 out of 246657, 18.52329348042018%
+
+Output 2024-08-29T12:40:30.197Z: new	st 5: 46478 out of 246657, 18.843170881021013%
+
+Output 2024-08-29T12:40:30.197Z: diff	st 5: lines [91m789[0m(246657), methods [91m41[0m(21121), classes 0(2893), coverage 0.3198774006008348%
+
+Output 2024-08-29T12:40:31.778Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:40:31.778Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:40:41.769Z: ec files: 3(5), probes: 77780 out of 493166 total; 15.771565760818872% coverage
+
+Output 2024-08-29T12:40:41.769Z: 	st 3: 70719 out of 459030, 15.406182602444286%
+
+Output 2024-08-29T12:40:42.269Z: new	st 3: 71236 out of 459030, 15.518811406661873%
+
+Output 2024-08-29T12:40:42.270Z: diff	st 3: lines [91m517[0m(459030), methods [91m43[0m(37948), classes 0(6041), coverage 0.1126288042175877%
+
+Output 2024-08-29T12:40:45.850Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:40:45.850Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:40:53.082Z: ec files: 1(5), probes: 28058 out of 319433 total; 8.783688598234997% coverage
+
+Output 2024-08-29T12:40:53.082Z: 	st 1: 25107 out of 297899, 8.42802426325701%
+
+Output 2024-08-29T12:40:53.456Z: new	st 1: 25139 out of 297899, 8.438766159000197%
+
+Output 2024-08-29T12:40:53.456Z: diff	st 1: lines [91m32[0m(297899), methods [91m4[0m(24110), classes 0(4005), coverage 0.010741895743188179%
+
+Output 2024-08-29T12:40:55.705Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:40:55.705Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T12:40:57.908Z: ec files: 4(5), probes: 21370 out of 85833 total; 24.89718406673424% coverage
+
+Output 2024-08-29T12:40:57.908Z: 	st 4: 18913 out of 78679, 24.03818045475921%
+
+Output 2024-08-29T12:40:58.008Z: new	st 4: 18969 out of 78679, 24.10935573660062%
+
+Output 2024-08-29T12:40:58.008Z: diff	st 4: lines [91m56[0m(78679), methods [91m12[0m(7736), classes 0(1431), coverage 0.07117528184140687%
+
+Output 2024-08-29T12:40:58.750Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T12:40:58.750Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T12:40:59.920Z: ec files: 7(5), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+
+Output 2024-08-29T12:40:59.920Z: 	st 7: 2394 out of 39437, 6.070441463600172%
+
+Output 2024-08-29T12:40:59.970Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T12:40:59.970Z: diff	st 7: lines [91m56[0m(39437), methods [91m9[0m(3888), classes 0(931), coverage 0.1419986307274898%
+
+Output 2024-08-29T12:41:00.441Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T12:41:00.441Z:  total diff: lines [91m1450[0m(1335114), methods [91m109[0m(114175), classes 0(18706), coverage 0.10860495807848618%
+
+2024-08-29T12:41:00.744Z Process exited with code 0
+Output 2024-08-29T12:44:43.286Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T12:44:46.914Z: ec files: 8(6), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:44:47.074Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:44:47.074Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+
+Output 2024-08-29T12:44:47.075Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:44:57.156Z: ec files: 3(6), probes: 80204 out of 493166 total; 16.263083829785508% coverage
+
+Output 2024-08-29T12:44:57.156Z: 	st 3: 71236 out of 459030, 15.518811406661873%
+
+Output 2024-08-29T12:44:57.638Z: new	st 3: 73393 out of 459030, 15.988715334509726%
+
+Output 2024-08-29T12:44:57.638Z: diff	st 3: lines [91m2157[0m(459030), methods [91m295[0m(37948), classes 0(6041), coverage 0.4699039278478534%
+
+Output 2024-08-29T12:45:01.005Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:45:01.006Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T12:45:01.947Z: ec files: 6(6), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T12:45:01.947Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:45:01.971Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:45:01.971Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T12:45:02.549Z: ec files: 2(6), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T12:45:02.549Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T12:45:02.586Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T12:45:02.586Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:45:07.230Z: ec files: 5(6), probes: 50736 out of 265759 total; 19.09098092632799% coverage
+
+Output 2024-08-29T12:45:07.230Z: 	st 5: 46478 out of 246657, 18.843170881021013%
+
+Output 2024-08-29T12:45:07.546Z: new	st 5: 46552 out of 246657, 18.873172056742764%
+
+Output 2024-08-29T12:45:07.546Z: diff	st 5: lines [91m74[0m(246657), methods 0(21121), classes 0(2893), coverage 0.03000117572175276%
+
+Output 2024-08-29T12:45:09.312Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:45:09.313Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:45:15.908Z: ec files: 1(6), probes: 28116 out of 319433 total; 8.801845770474559% coverage
+
+Output 2024-08-29T12:45:15.908Z: 	st 1: 25139 out of 297899, 8.438766159000197%
+
+Output 2024-08-29T12:45:16.264Z: new	st 1: 25196 out of 297899, 8.457900160792752%
+
+Output 2024-08-29T12:45:16.265Z: diff	st 1: lines [91m57[0m(297899), methods [91m3[0m(24110), classes 0(4005), coverage 0.019134001792553423%
+
+Output 2024-08-29T12:45:18.288Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T12:45:20.248Z: ec files: 4(6), probes: 21372 out of 85833 total; 24.899514172870575% coverage
+	st 4: 18969 out of 78679, 24.10935573660062%
+
+Output 2024-08-29T12:45:20.341Z: new	st 4: 18971 out of 78679, 24.111897710952096%
+
+Output 2024-08-29T12:45:20.341Z: diff	st 4: lines [91m2[0m(78679), methods 0(7736), classes 0(1431), coverage 0.002541974351477627%
+
+Output 2024-08-29T12:45:21.111Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T12:45:22.653Z: ec files: 7(6), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+
+Output 2024-08-29T12:45:22.653Z: 	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T12:45:22.703Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T12:45:22.703Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+ total diff: lines [91m2290[0m(1335114), methods [91m298[0m(114175), classes 0(18706), coverage 0.17152093379291955%
+
+2024-08-29T12:45:22.915Z Process exited with code 0
+Output 2024-08-29T12:49:05.764Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T12:49:09.710Z: ec files: 8(7), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+
+Output 2024-08-29T12:49:09.710Z: 	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:49:09.881Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:49:09.881Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:49:20.151Z: ec files: 3(7), probes: 80372 out of 493166 total; 16.29714943852577% coverage
+
+Output 2024-08-29T12:49:20.151Z: 	st 3: 73393 out of 459030, 15.988715334509726%
+
+Output 2024-08-29T12:49:20.652Z: new	st 3: 73556 out of 459030, 16.024224996187613%
+
+Output 2024-08-29T12:49:20.653Z: diff	st 3: lines [91m163[0m(459030), methods [91m7[0m(37948), classes 0(6041), coverage 0.035509661677887716%
+
+Output 2024-08-29T12:49:24.040Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:49:24.040Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T12:49:24.900Z: ec files: 6(7), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T12:49:24.901Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:49:24.924Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:49:24.924Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T12:49:25.554Z: ec files: 2(7), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T12:49:25.591Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T12:49:25.591Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:49:31.821Z: ec files: 5(7), probes: 50778 out of 265759 total; 19.106784718485546% coverage
+
+Output 2024-08-29T12:49:31.821Z: 	st 5: 46552 out of 246657, 18.873172056742764%
+
+Output 2024-08-29T12:49:32.086Z: new	st 5: 46594 out of 246657, 18.890199751071325%
+
+Output 2024-08-29T12:49:32.086Z: diff	st 5: lines [91m42[0m(246657), methods 0(21121), classes 0(2893), coverage 0.017027694328561327%
+
+Output 2024-08-29T12:49:33.556Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:49:33.556Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:49:41.062Z: ec files: 1(7), probes: 28116 out of 319433 total; 8.801845770474559% coverage
+
+Output 2024-08-29T12:49:41.062Z: 	st 1: 25196 out of 297899, 8.457900160792752%
+
+Output 2024-08-29T12:49:41.370Z: new	st 1: 25196 out of 297899, 8.457900160792752%
+
+Output 2024-08-29T12:49:41.370Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T12:49:43.538Z: ec files: 4(7), probes: 21373 out of 85833 total; 24.90067922593874% coverage
+
+Output 2024-08-29T12:49:43.538Z: 	st 4: 18971 out of 78679, 24.111897710952096%
+
+Output 2024-08-29T12:49:43.645Z: new	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T12:49:43.645Z: diff	st 4: lines [91m1[0m(78679), methods 0(7736), classes 0(1431), coverage 0.0012709871757388136%
+
+Output 2024-08-29T12:49:44.357Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T12:49:45.652Z: ec files: 7(7), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+
+Output 2024-08-29T12:49:45.652Z: 	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T12:49:45.704Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T12:49:45.705Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+ total diff: lines [91m206[0m(1335114), methods [91m7[0m(114175), classes 0(18706), coverage 0.015429394044253898%
+
+2024-08-29T12:49:46.025Z Process exited with code 0
+Output 2024-08-29T12:53:26.353Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T12:53:30.607Z: ec files: 8(8), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+
+Output 2024-08-29T12:53:30.607Z: 	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:53:30.771Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:53:30.771Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:53:42.869Z: ec files: 3(8), probes: 80546 out of 493166 total; 16.332431676149614% coverage
+
+Output 2024-08-29T12:53:42.869Z: 	st 3: 73556 out of 459030, 16.024224996187613%
+
+Output 2024-08-29T12:53:43.480Z: new	st 3: 73721 out of 459030, 16.06017035923578%
+
+Output 2024-08-29T12:53:43.480Z: diff	st 3: lines [91m165[0m(459030), methods [91m11[0m(37948), classes 0(6041), coverage 0.03594536304816487%
+
+Output 2024-08-29T12:53:46.406Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:53:46.406Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T12:53:47.361Z: ec files: 6(8), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T12:53:47.361Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:53:47.384Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T12:53:48.076Z: ec files: 2(8), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T12:53:48.118Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+
+Output 2024-08-29T12:53:48.118Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T12:53:49.700Z: ec files: 7(8), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T12:53:49.747Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T12:53:49.748Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:53:55.689Z: ec files: 5(8), probes: 50788 out of 265759 total; 19.110547526142106% coverage
+
+Output 2024-08-29T12:53:55.689Z: 	st 5: 46594 out of 246657, 18.890199751071325%
+
+Output 2024-08-29T12:53:55.949Z: new	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T12:53:55.949Z: diff	st 5: lines [91m9[0m(246657), methods [91m1[0m(21121), classes 0(2893), coverage 0.0036487916418331823%
+
+Output 2024-08-29T12:53:57.434Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:53:57.434Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:54:05.635Z: ec files: 1(8), probes: 28200 out of 319433 total; 8.828142364752546% coverage
+
+Output 2024-08-29T12:54:05.635Z: 	st 1: 25196 out of 297899, 8.457900160792752%
+
+Output 2024-08-29T12:54:05.949Z: new	st 1: 25269 out of 297899, 8.4824051104569%
+diff	st 1: lines [91m73[0m(297899), methods [91m11[0m(24110), classes 0(4005), coverage 0.0245049496641489%
+
+Output 2024-08-29T12:54:07.890Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:54:07.890Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T12:54:11.027Z: ec files: 4(8), probes: 21373 out of 85833 total; 24.90067922593874% coverage
+
+Output 2024-08-29T12:54:11.027Z: 	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T12:54:11.136Z: new	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T12:54:11.136Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+ total diff: lines [91m247[0m(1335114), methods [91m23[0m(114175), classes 0(18706), coverage 0.018500292858886956%
+
+2024-08-29T12:54:11.369Z Process exited with code 0
+Output 2024-08-29T12:57:47.981Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T12:57:52.572Z: ec files: 8(9), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+
+Output 2024-08-29T12:57:52.572Z: 	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:57:52.728Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T12:57:52.728Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T12:58:05.676Z: ec files: 3(9), probes: 80824 out of 493166 total; 16.388802147755523% coverage
+
+Output 2024-08-29T12:58:05.676Z: 	st 3: 73721 out of 459030, 16.06017035923578%
+
+Output 2024-08-29T12:58:06.125Z: new	st 3: 73995 out of 459030, 16.11986144696425%
+diff	st 3: lines [91m274[0m(459030), methods [91m13[0m(37948), classes 0(6041), coverage 0.059691087728472314%
+
+Output 2024-08-29T12:58:09.037Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T12:58:09.988Z: ec files: 6(9), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:58:10.014Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T12:58:10.014Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+
+Output 2024-08-29T12:58:10.014Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T12:58:11.046Z: ec files: 2(9), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T12:58:11.084Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T12:58:11.084Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T12:58:12.482Z: ec files: 7(9), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T12:58:12.533Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T12:58:12.534Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T12:58:19.075Z: ec files: 5(9), probes: 50788 out of 265759 total; 19.110547526142106% coverage
+	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T12:58:19.335Z: new	st 5: 46603 out of 246657, 18.893848542713158%
+diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+
+Output 2024-08-29T12:58:19.335Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T12:58:22.124Z: ec files: 4(9), probes: 21373 out of 85833 total; 24.90067922593874% coverage
+
+Output 2024-08-29T12:58:22.124Z: 	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T12:58:22.261Z: new	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T12:58:22.261Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T12:58:30.802Z: ec files: 1(9), probes: 28200 out of 319433 total; 8.828142364752546% coverage
+
+Output 2024-08-29T12:58:30.802Z: 	st 1: 25269 out of 297899, 8.4824051104569%
+
+Output 2024-08-29T12:58:31.252Z: new	st 1: 25269 out of 297899, 8.4824051104569%
+
+Output 2024-08-29T12:58:31.252Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+ total diff: lines [91m274[0m(1335114), methods [91m13[0m(114175), classes 0(18706), coverage 0.02052259207827946%
+
+2024-08-29T12:58:31.672Z Process exited with code 0
+Output 2024-08-29T13:02:08.662Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:02:13.623Z: ec files: 8(10), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+
+Output 2024-08-29T13:02:13.624Z: 	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T13:02:13.785Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T13:02:13.785Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:02:27.465Z: ec files: 3(10), probes: 80839 out of 493166 total; 16.391843719964474% coverage
+
+Output 2024-08-29T13:02:27.465Z: 	st 3: 73995 out of 459030, 16.11986144696425%
+
+Output 2024-08-29T13:02:27.918Z: new	st 3: 74010 out of 459030, 16.12312920724136%
+
+Output 2024-08-29T13:02:27.919Z: diff	st 3: lines [91m15[0m(459030), methods 0(37948), classes 0(6041), coverage 0.003267760277106402%
+
+Output 2024-08-29T13:02:30.841Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:02:30.841Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:02:31.860Z: ec files: 6(10), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:02:31.860Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:02:31.883Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:02:31.883Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:02:33.105Z: ec files: 2(10), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:02:33.106Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:02:33.149Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:02:33.149Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:02:34.815Z: ec files: 7(10), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+
+Output 2024-08-29T13:02:34.815Z: 	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:02:34.860Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:02:34.860Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:02:41.966Z: ec files: 5(10), probes: 50788 out of 265759 total; 19.110547526142106% coverage
+
+Output 2024-08-29T13:02:41.966Z: 	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:02:42.244Z: new	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:02:42.244Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:02:51.540Z: ec files: 1(10), probes: 28200 out of 319433 total; 8.828142364752546% coverage
+
+Output 2024-08-29T13:02:51.540Z: 	st 1: 25269 out of 297899, 8.4824051104569%
+
+Output 2024-08-29T13:02:51.981Z: new	st 1: 25269 out of 297899, 8.4824051104569%
+
+Output 2024-08-29T13:02:51.981Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:02:54.349Z: ec files: 4(10), probes: 21373 out of 85833 total; 24.90067922593874% coverage
+
+Output 2024-08-29T13:02:54.349Z: 	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T13:02:54.445Z: new	st 4: 18972 out of 78679, 24.113168698127836%
+diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+ total diff: lines [91m15[0m(1335114), methods 0(114175), classes 0(18706), coverage 0.0011234995663291674%
+
+2024-08-29T13:02:54.762Z Process exited with code 0
+Output 2024-08-29T13:06:30.156Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:06:35.388Z: ec files: 8(11), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T13:06:35.571Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T13:06:35.571Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:06:50.409Z: ec files: 3(11), probes: 80843 out of 493166 total; 16.392654805886863% coverage
+
+Output 2024-08-29T13:06:50.409Z: 	st 3: 74010 out of 459030, 16.12312920724136%
+
+Output 2024-08-29T13:06:50.886Z: new	st 3: 74014 out of 459030, 16.124000609981916%
+diff	st 3: lines [91m4[0m(459030), methods 0(37948), classes 0(6041), coverage 0.0008714027405598568%
+
+Output 2024-08-29T13:06:53.949Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:06:53.949Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:06:55.135Z: ec files: 6(11), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:06:55.135Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:06:55.167Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:06:55.167Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:06:56.558Z: ec files: 2(11), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:06:56.558Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:06:56.596Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:06:56.596Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:06:58.045Z: ec files: 7(11), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+
+Output 2024-08-29T13:06:58.045Z: 	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:06:58.090Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:06:58.090Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:07:05.948Z: ec files: 5(11), probes: 50788 out of 265759 total; 19.110547526142106% coverage
+
+Output 2024-08-29T13:07:05.948Z: 	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:07:06.205Z: new	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:07:06.205Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:07:15.940Z: ec files: 1(11), probes: 28232 out of 319433 total; 8.838160114953684% coverage
+
+Output 2024-08-29T13:07:15.940Z: 	st 1: 25269 out of 297899, 8.4824051104569%
+
+Output 2024-08-29T13:07:16.240Z: new	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:07:16.240Z: diff	st 1: lines [91m28[0m(297899), methods [91m4[0m(24110), classes 0(4005), coverage 0.009399158775288963%
+
+Output 2024-08-29T13:07:18.022Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:07:18.023Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:07:21.347Z: ec files: 4(11), probes: 21373 out of 85833 total; 24.90067922593874% coverage
+
+Output 2024-08-29T13:07:21.347Z: 	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T13:07:21.458Z: new	st 4: 18972 out of 78679, 24.113168698127836%
+diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+ total diff: lines [91m32[0m(1335114), methods [91m4[0m(114175), classes 0(18706), coverage 0.0023967990748355573%
+
+2024-08-29T13:07:21.704Z Process exited with code 0
+Output 2024-08-29T13:10:50.857Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:10:56.430Z: ec files: 8(12), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+
+Output 2024-08-29T13:10:56.430Z: 	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T13:10:56.586Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T13:10:56.587Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:11:12.175Z: ec files: 3(12), probes: 80867 out of 493166 total; 16.397521321421184% coverage
+
+Output 2024-08-29T13:11:12.175Z: 	st 3: 74014 out of 459030, 16.124000609981916%
+
+Output 2024-08-29T13:11:12.642Z: new	st 3: 74038 out of 459030, 16.12922902642529%
+
+Output 2024-08-29T13:11:12.642Z: diff	st 3: lines [91m24[0m(459030), methods 0(37948), classes 0(6041), coverage 0.005228416443370243%
+
+Output 2024-08-29T13:11:15.940Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:11:17.380Z: ec files: 6(12), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:11:17.380Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:11:17.404Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:11:17.405Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:11:18.620Z: ec files: 2(12), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:11:18.658Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:11:18.658Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:11:20.199Z: ec files: 7(12), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+
+Output 2024-08-29T13:11:20.199Z: 	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:11:20.245Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:11:20.245Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:11:28.570Z: ec files: 5(12), probes: 50788 out of 265759 total; 19.110547526142106% coverage
+	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:11:28.835Z: new	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:11:28.835Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:11:39.104Z: ec files: 1(12), probes: 28232 out of 319433 total; 8.838160114953684% coverage
+
+Output 2024-08-29T13:11:39.104Z: 	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:11:39.407Z: new	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:11:39.407Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:11:43.210Z: ec files: 4(12), probes: 21373 out of 85833 total; 24.90067922593874% coverage
+
+Output 2024-08-29T13:11:43.210Z: 	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T13:11:43.306Z: new	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T13:11:43.306Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+ total diff: lines [91m24[0m(1335114), methods 0(114175), classes 0(18706), coverage 0.0017975993061266678%
+
+2024-08-29T13:11:43.536Z Process exited with code 0
+Output 2024-08-29T13:15:12.384Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:15:18.523Z: ec files: 8(13), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+
+Output 2024-08-29T13:15:18.523Z: 	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T13:15:18.702Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T13:15:18.702Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:15:34.136Z: ec files: 3(13), probes: 80878 out of 493166 total; 16.399751807707748% coverage
+
+Output 2024-08-29T13:15:34.137Z: 	st 3: 74038 out of 459030, 16.12922902642529%
+
+Output 2024-08-29T13:15:34.579Z: new	st 3: 74049 out of 459030, 16.131625383961833%
+diff	st 3: lines [91m11[0m(459030), methods 0(37948), classes 0(6041), coverage 0.0023963575365437695%
+
+Output 2024-08-29T13:15:37.719Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:15:40.251Z: ec files: 6(13), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:15:40.251Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:15:40.305Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:15:40.305Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:15:42.047Z: ec files: 2(13), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:15:42.048Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:15:42.115Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:15:44.943Z: ec files: 7(13), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+
+Output 2024-08-29T13:15:44.943Z: 	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:15:45.030Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:15:45.030Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:16:00.961Z: ec files: 5(13), probes: 50788 out of 265759 total; 19.110547526142106% coverage
+
+Output 2024-08-29T13:16:00.961Z: 	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:16:01.386Z: new	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:16:01.387Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:16:20.765Z: ec files: 1(13), probes: 28232 out of 319433 total; 8.838160114953684% coverage
+
+Output 2024-08-29T13:16:20.765Z: 	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:16:21.283Z: new	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:16:21.283Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:16:26.359Z: ec files: 4(13), probes: 21373 out of 85833 total; 24.90067922593874% coverage
+
+Output 2024-08-29T13:16:26.359Z: 	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T13:16:26.453Z: new	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T13:16:26.453Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+ total diff: lines [91m11[0m(1335114), methods 0(114175), classes 0(18706), coverage 0.0008238996819747227%
+
+2024-08-29T13:16:26.681Z Process exited with code 0
+Output 2024-08-29T13:19:36.314Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:19:42.904Z: ec files: 8(14), probes: 7609 out of 178851 total; 4.254379343699504% coverage
+
+Output 2024-08-29T13:19:42.904Z: 	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T13:19:43.091Z: new	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T13:19:43.091Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:20:12.367Z: ec files: 3(14), probes: 80879 out of 493166 total; 16.399954579188346% coverage
+
+Output 2024-08-29T13:20:12.367Z: 	st 3: 74049 out of 459030, 16.131625383961833%
+
+Output 2024-08-29T13:20:13.180Z: new	st 3: 74050 out of 459030, 16.131843234646972%
+diff	st 3: lines [91m1[0m(459030), methods 0(37948), classes 0(6041), coverage 0.00021785068514135197%
+
+Output 2024-08-29T13:20:17.749Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:20:17.750Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:20:20.943Z: ec files: 6(14), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:20:20.944Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:20:20.985Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:20:20.985Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:20:22.815Z: ec files: 2(14), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:20:22.815Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:20:22.876Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:20:22.876Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:20:25.907Z: ec files: 7(14), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+
+Output 2024-08-29T13:20:25.907Z: 	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:20:25.986Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:20:25.986Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:20:38.604Z: ec files: 5(14), probes: 50788 out of 265759 total; 19.110547526142106% coverage
+
+Output 2024-08-29T13:20:38.604Z: 	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:20:38.915Z: new	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:20:38.915Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:20:42.885Z: ec files: 4(14), probes: 21373 out of 85833 total; 24.90067922593874% coverage
+
+Output 2024-08-29T13:20:42.885Z: 	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T13:20:42.978Z: new	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T13:20:42.978Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:20:54.549Z: ec files: 1(14), probes: 28232 out of 319433 total; 8.838160114953684% coverage
+
+Output 2024-08-29T13:20:54.549Z: 	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:20:54.873Z: new	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:20:54.873Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+ total diff: lines [91m1[0m(1335114), methods 0(114175), classes 0(18706), coverage 7.489997108861116e-05%
+
+2024-08-29T13:20:55.537Z Process exited with code 0
+Output 2024-08-29T13:23:58.728Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:24:05.289Z: ec files: 8(15), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+
+Output 2024-08-29T13:24:05.289Z: 	st 8: 6884 out of 164877, 4.175233659030671%
+
+Output 2024-08-29T13:24:05.472Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:24:05.472Z: diff	st 8: lines [91m10[0m(164877), methods 0(14376), classes 0(2381), coverage 0.0060651273373485415%
+
+Output 2024-08-29T13:24:06.728Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:24:06.728Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:24:18.366Z: ec files: 1(15), probes: 28232 out of 319433 total; 8.838160114953684% coverage
+
+Output 2024-08-29T13:24:18.366Z: 	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:24:18.652Z: new	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:24:18.653Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:24:37.179Z: ec files: 3(15), probes: 80883 out of 493166 total; 16.400765665110733% coverage
+
+Output 2024-08-29T13:24:37.179Z: 	st 3: 74050 out of 459030, 16.131843234646972%
+
+Output 2024-08-29T13:24:37.657Z: new	st 3: 74054 out of 459030, 16.132714637387537%
+
+Output 2024-08-29T13:24:37.657Z: diff	st 3: lines [91m4[0m(459030), methods 0(37948), classes 0(6041), coverage 0.0008714027405626323%
+
+Output 2024-08-29T13:24:40.970Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:24:43.164Z: ec files: 6(15), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:24:43.165Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:24:43.191Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:24:43.191Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:24:44.270Z: ec files: 2(15), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:24:44.270Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:24:44.306Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:24:44.306Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:24:46.114Z: ec files: 7(15), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+
+Output 2024-08-29T13:24:46.114Z: 	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:24:46.162Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:24:46.163Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:24:55.834Z: ec files: 5(15), probes: 50788 out of 265759 total; 19.110547526142106% coverage
+
+Output 2024-08-29T13:24:55.834Z: 	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:24:56.093Z: new	st 5: 46603 out of 246657, 18.893848542713158%
+diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:25:00.424Z: ec files: 4(15), probes: 21402 out of 85833 total; 24.934465764915593% coverage
+
+Output 2024-08-29T13:25:00.424Z: 	st 4: 18972 out of 78679, 24.113168698127836%
+
+Output 2024-08-29T13:25:00.524Z: new	st 4: 18997 out of 78679, 24.144943377521322%
+
+Output 2024-08-29T13:25:00.524Z: diff	st 4: lines [91m25[0m(78679), methods [91m4[0m(7736), classes 0(1431), coverage 0.03177467939348699%
+
+Output 2024-08-29T13:25:01.253Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:25:01.253Z:  total diff: lines [91m39[0m(1335114), methods [91m4[0m(114175), classes 0(18706), coverage 0.002921098872455835%
+
+2024-08-29T13:25:01.477Z Process exited with code 0
+Output 2024-08-29T13:28:19.011Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:28:25.964Z: ec files: 8(16), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:28:26.144Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:28:26.144Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:28:38.483Z: ec files: 1(16), probes: 28232 out of 319433 total; 8.838160114953684% coverage
+
+Output 2024-08-29T13:28:38.483Z: 	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:28:38.769Z: new	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:28:38.770Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:28:58.147Z: ec files: 3(16), probes: 80886 out of 493166 total; 16.401373979552524% coverage
+
+Output 2024-08-29T13:28:58.148Z: 	st 3: 74054 out of 459030, 16.132714637387537%
+
+Output 2024-08-29T13:28:58.615Z: new	st 3: 74057 out of 459030, 16.133368189442958%
+
+Output 2024-08-29T13:28:58.615Z: diff	st 3: lines [91m3[0m(459030), methods 0(37948), classes 0(6041), coverage 0.0006535520554212804%
+
+Output 2024-08-29T13:29:02.188Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:29:02.188Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:29:04.094Z: ec files: 6(16), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:29:04.094Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:29:04.120Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:29:04.120Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:29:05.259Z: ec files: 2(16), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:29:05.259Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:29:05.298Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:29:05.299Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:29:07.133Z: ec files: 7(16), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:29:07.177Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:29:07.177Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:29:17.443Z: ec files: 5(16), probes: 50788 out of 265759 total; 19.110547526142106% coverage
+
+Output 2024-08-29T13:29:17.443Z: 	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:29:17.752Z: new	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:29:17.752Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:29:21.825Z: ec files: 4(16), probes: 21402 out of 85833 total; 24.934465764915593% coverage
+
+Output 2024-08-29T13:29:21.825Z: 	st 4: 18997 out of 78679, 24.144943377521322%
+
+Output 2024-08-29T13:29:21.918Z: new	st 4: 18997 out of 78679, 24.144943377521322%
+
+Output 2024-08-29T13:29:21.918Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+ total diff: lines [91m3[0m(1335114), methods 0(114175), classes 0(18706), coverage 0.00022469991326583348%
+
+2024-08-29T13:29:22.135Z Process exited with code 0
+Output 2024-08-29T13:32:40.337Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:32:47.590Z: ec files: 8(17), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+
+Output 2024-08-29T13:32:47.591Z: 	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:32:47.790Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:32:47.791Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:33:00.794Z: ec files: 1(17), probes: 28232 out of 319433 total; 8.838160114953684% coverage
+
+Output 2024-08-29T13:33:00.794Z: 	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:33:01.082Z: new	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:33:01.082Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:33:33.954Z: ec files: 3(17), probes: 80886 out of 493166 total; 16.401373979552524% coverage
+	st 3: 74057 out of 459030, 16.133368189442958%
+
+Output 2024-08-29T13:33:34.421Z: new	st 3: 74057 out of 459030, 16.133368189442958%
+
+Output 2024-08-29T13:33:34.421Z: diff	st 3: lines 0(459030), methods 0(37948), classes 0(6041), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:33:36.423Z: ec files: 6(17), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:33:36.423Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:33:36.448Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:33:36.449Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:33:37.645Z: ec files: 2(17), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:33:37.645Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:33:37.681Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:33:37.681Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:33:39.691Z: ec files: 7(17), probes: 2808 out of 43219 total; 6.497142460491913% coverage
+	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:33:39.741Z: new	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:33:39.741Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:33:50.553Z: ec files: 5(17), probes: 50788 out of 265759 total; 19.110547526142106% coverage
+
+Output 2024-08-29T13:33:50.553Z: 	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:33:50.809Z: new	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:33:50.809Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:33:54.926Z: ec files: 4(17), probes: 21402 out of 85833 total; 24.934465764915593% coverage
+
+Output 2024-08-29T13:33:54.926Z: 	st 4: 18997 out of 78679, 24.144943377521322%
+
+Output 2024-08-29T13:33:55.018Z: new	st 4: 18997 out of 78679, 24.144943377521322%
+
+Output 2024-08-29T13:33:55.018Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+ total diff: lines 0(1335114), methods 0(114175), classes 0(18706), coverage 0.0%
+
+2024-08-29T13:33:55.245Z Process exited with code 0
+Output 2024-08-29T13:37:01.030Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:37:08.577Z: ec files: 8(18), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:37:08.736Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:37:08.736Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:37:22.375Z: ec files: 1(18), probes: 28232 out of 319433 total; 8.838160114953684% coverage
+	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:37:22.663Z: new	st 1: 25297 out of 297899, 8.491804269232189%
+diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:37:45.200Z: ec files: 3(18), probes: 80936 out of 493166 total; 16.411512553582362% coverage
+
+Output 2024-08-29T13:37:45.200Z: 	st 3: 74057 out of 459030, 16.133368189442958%
+
+Output 2024-08-29T13:37:46.008Z: new	st 3: 74102 out of 459030, 16.14317147027427%
+
+Output 2024-08-29T13:37:46.008Z: diff	st 3: lines [91m45[0m(459030), methods [91m5[0m(37948), classes 0(6041), coverage 0.00980328083131643%
+
+Output 2024-08-29T13:37:50.407Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:37:50.407Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:37:53.957Z: ec files: 6(18), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:37:53.958Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:37:54.007Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:37:54.007Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:37:56.263Z: ec files: 2(18), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:37:56.263Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:37:56.322Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:37:56.322Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:38:00.212Z: ec files: 7(18), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+
+Output 2024-08-29T13:38:00.212Z: 	st 7: 2450 out of 39437, 6.212440094327662%
+
+Output 2024-08-29T13:38:00.286Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T13:38:00.286Z: diff	st 7: lines [91m12[0m(39437), methods [91m1[0m(3888), classes 0(931), coverage 0.030428278013033133%
+
+Output 2024-08-29T13:38:01.048Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:38:01.048Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:38:15.429Z: ec files: 5(18), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T13:38:15.429Z: 	st 5: 46603 out of 246657, 18.893848542713158%
+
+Output 2024-08-29T13:38:15.684Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T13:38:15.685Z: diff	st 5: lines [91m406[0m(246657), methods [91m17[0m(21121), classes 0(2893), coverage 0.16460104517609653%
+
+Output 2024-08-29T13:38:17.181Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:38:17.181Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:38:21.641Z: ec files: 4(18), probes: 21402 out of 85833 total; 24.934465764915593% coverage
+	st 4: 18997 out of 78679, 24.144943377521322%
+
+Output 2024-08-29T13:38:21.736Z: new	st 4: 18997 out of 78679, 24.144943377521322%
+
+Output 2024-08-29T13:38:21.736Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+ total diff: lines [91m463[0m(1335114), methods [91m23[0m(114175), classes 0(18706), coverage 0.03467868661402697%
+
+2024-08-29T13:38:21.956Z Process exited with code 0
+Output 2024-08-29T13:41:23.188Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:41:31.138Z: ec files: 8(19), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+
+Output 2024-08-29T13:41:31.138Z: 	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:41:31.337Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:41:31.338Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:41:45.258Z: ec files: 1(19), probes: 28232 out of 319433 total; 8.838160114953684% coverage
+
+Output 2024-08-29T13:41:45.258Z: 	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:41:45.553Z: new	st 1: 25297 out of 297899, 8.491804269232189%
+diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+
+Output 2024-08-29T13:41:45.553Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:42:07.767Z: ec files: 3(19), probes: 80936 out of 493166 total; 16.411512553582362% coverage
+
+Output 2024-08-29T13:42:07.767Z: 	st 3: 74102 out of 459030, 16.14317147027427%
+
+Output 2024-08-29T13:42:08.230Z: new	st 3: 74102 out of 459030, 16.14317147027427%
+diff	st 3: lines 0(459030), methods 0(37948), classes 0(6041), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:42:10.327Z: ec files: 6(19), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:42:10.330Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:42:10.358Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+
+Output 2024-08-29T13:42:10.358Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:42:11.685Z: ec files: 2(19), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:42:11.685Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:42:11.720Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:42:11.721Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:42:14.520Z: ec files: 7(19), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+
+Output 2024-08-29T13:42:14.520Z: 	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T13:42:14.588Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T13:42:14.588Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:42:26.178Z: ec files: 5(19), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T13:42:26.178Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T13:42:26.460Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T13:42:26.460Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:42:31.083Z: ec files: 4(19), probes: 21402 out of 85833 total; 24.934465764915593% coverage
+
+Output 2024-08-29T13:42:31.083Z: 	st 4: 18997 out of 78679, 24.144943377521322%
+
+Output 2024-08-29T13:42:31.178Z: new	st 4: 18997 out of 78679, 24.144943377521322%
+
+Output 2024-08-29T13:42:31.178Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+ total diff: lines 0(1335114), methods 0(114175), classes 0(18706), coverage 0.0%
+
+2024-08-29T13:42:31.462Z Process exited with code 0
+Output 2024-08-29T13:45:43.895Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:45:52.181Z: ec files: 8(20), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:45:52.351Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:45:52.352Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:46:06.306Z: ec files: 1(20), probes: 28232 out of 319433 total; 8.838160114953684% coverage
+	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:46:06.629Z: new	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:46:06.630Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:46:29.782Z: ec files: 3(20), probes: 80936 out of 493166 total; 16.411512553582362% coverage
+
+Output 2024-08-29T13:46:29.782Z: 	st 3: 74102 out of 459030, 16.14317147027427%
+
+Output 2024-08-29T13:46:30.264Z: new	st 3: 74102 out of 459030, 16.14317147027427%
+
+Output 2024-08-29T13:46:30.264Z: diff	st 3: lines 0(459030), methods 0(37948), classes 0(6041), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:46:32.449Z: ec files: 6(20), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:46:32.474Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:46:32.474Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:46:33.892Z: ec files: 2(20), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:46:33.892Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:46:33.937Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:46:33.937Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:46:36.651Z: ec files: 7(20), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+
+Output 2024-08-29T13:46:36.652Z: 	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T13:46:36.696Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T13:46:36.696Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:46:48.803Z: ec files: 5(20), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T13:46:48.803Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T13:46:49.075Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T13:46:49.075Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:46:54.003Z: ec files: 4(20), probes: 21402 out of 85833 total; 24.934465764915593% coverage
+
+Output 2024-08-29T13:46:54.003Z: 	st 4: 18997 out of 78679, 24.144943377521322%
+
+Output 2024-08-29T13:46:54.096Z: new	st 4: 18997 out of 78679, 24.144943377521322%
+
+Output 2024-08-29T13:46:54.096Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+ total diff: lines 0(1335114), methods 0(114175), classes 0(18706), coverage 0.0%
+
+2024-08-29T13:46:54.318Z Process exited with code 0
+Output 2024-08-29T13:50:05.671Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:50:14.356Z: ec files: 8(21), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+
+Output 2024-08-29T13:50:14.356Z: 	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:50:14.541Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:50:14.542Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:50:34.983Z: ec files: 1(21), probes: 28232 out of 319433 total; 8.838160114953684% coverage
+
+Output 2024-08-29T13:50:34.983Z: 	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:50:35.485Z: new	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:50:35.485Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+
+Output 2024-08-29T13:50:35.485Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:51:12.402Z: ec files: 3(21), probes: 81146 out of 493166 total; 16.45409456450769% coverage
+
+Output 2024-08-29T13:51:12.403Z: 	st 3: 74102 out of 459030, 16.14317147027427%
+
+Output 2024-08-29T13:51:12.906Z: new	st 3: 74303 out of 459030, 16.186959457987495%
+
+Output 2024-08-29T13:51:12.906Z: diff	st 3: lines [91m201[0m(459030), methods [91m11[0m(37948), classes 0(6041), coverage 0.04378798771322301%
+
+Output 2024-08-29T13:51:16.367Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:51:16.367Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:51:19.187Z: ec files: 6(21), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:51:19.187Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:51:19.214Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:51:19.214Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:51:20.801Z: ec files: 2(21), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:51:20.801Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:51:20.842Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:51:20.842Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:51:23.889Z: ec files: 7(21), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T13:51:23.944Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T13:51:23.944Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:51:37.914Z: ec files: 5(21), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T13:51:37.914Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T13:51:38.347Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T13:51:38.347Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:51:46.897Z: ec files: 4(21), probes: 21405 out of 85833 total; 24.937960924120095% coverage
+
+Output 2024-08-29T13:51:46.897Z: 	st 4: 18997 out of 78679, 24.144943377521322%
+
+Output 2024-08-29T13:51:47.052Z: new	st 4: 19000 out of 78679, 24.14875633904854%
+diff	st 4: lines [91m3[0m(78679), methods 0(7736), classes 0(1431), coverage 0.0038129615272164408%
+
+Output 2024-08-29T13:51:48.120Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:51:48.120Z:  total diff: lines [91m204[0m(1335114), methods [91m11[0m(114175), classes 0(18706), coverage 0.015279594102076676%
+
+2024-08-29T13:51:48.435Z Process exited with code 0
+Output 2024-08-29T13:54:31.158Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:54:40.133Z: ec files: 8(22), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+
+Output 2024-08-29T13:54:40.133Z: 	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:54:40.295Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:55:02.934Z: ec files: 1(22), probes: 28233 out of 319433 total; 8.83847316964747% coverage
+
+Output 2024-08-29T13:55:02.934Z: 	st 1: 25297 out of 297899, 8.491804269232189%
+
+Output 2024-08-29T13:55:03.499Z: new	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T13:55:03.499Z: diff	st 1: lines [91m1[0m(297899), methods 0(24110), classes 0(4005), coverage 0.0003356842419741102%
+
+Output 2024-08-29T13:55:06.507Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:55:06.507Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:55:34.297Z: ec files: 3(22), probes: 81389 out of 493166 total; 16.503368034292713% coverage
+	st 3: 74303 out of 459030, 16.186959457987495%
+
+Output 2024-08-29T13:55:34.787Z: new	st 3: 74544 out of 459030, 16.239461473106335%
+
+Output 2024-08-29T13:55:34.787Z: diff	st 3: lines [91m241[0m(459030), methods [91m3[0m(37948), classes 0(6041), coverage 0.05250201511883823%
+
+Output 2024-08-29T13:55:37.829Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:55:37.829Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:55:40.537Z: ec files: 6(22), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:55:40.538Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:55:40.569Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:55:40.569Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:55:42.029Z: ec files: 2(22), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:55:42.029Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:55:42.065Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+
+Output 2024-08-29T13:55:42.065Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:55:44.647Z: ec files: 7(22), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T13:55:44.690Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T13:55:44.690Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T13:55:57.923Z: ec files: 5(22), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T13:55:57.923Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T13:55:58.174Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T13:55:58.174Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T13:56:03.156Z: ec files: 4(22), probes: 21405 out of 85833 total; 24.937960924120095% coverage
+
+Output 2024-08-29T13:56:03.156Z: 	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T13:56:03.260Z: new	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T13:56:03.260Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+ total diff: lines [91m242[0m(1335114), methods [91m3[0m(114175), classes 0(18706), coverage 0.018125793003443903%
+
+2024-08-29T13:56:03.518Z Process exited with code 0
+Output 2024-08-29T13:58:51.365Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T13:59:00.737Z: ec files: 8(23), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+
+Output 2024-08-29T13:59:00.737Z: 	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:59:00.901Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T13:59:00.901Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T13:59:17.382Z: ec files: 1(23), probes: 28233 out of 319433 total; 8.83847316964747% coverage
+
+Output 2024-08-29T13:59:17.382Z: 	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T13:59:17.670Z: new	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T13:59:17.670Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:59:43.278Z: ec files: 3(23), probes: 81391 out of 493166 total; 16.503773577253906% coverage
+
+Output 2024-08-29T13:59:43.278Z: 	st 3: 74544 out of 459030, 16.239461473106335%
+
+Output 2024-08-29T13:59:43.745Z: new	st 3: 74546 out of 459030, 16.239897174476614%
+
+Output 2024-08-29T13:59:43.746Z: diff	st 3: lines [91m2[0m(459030), methods 0(37948), classes 0(6041), coverage 0.0004357013702799284%
+
+Output 2024-08-29T13:59:46.690Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T13:59:46.691Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T13:59:48.893Z: ec files: 6(23), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T13:59:48.893Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:59:48.929Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T13:59:48.930Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T13:59:50.655Z: ec files: 2(23), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T13:59:50.655Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:59:50.717Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T13:59:50.717Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T13:59:53.388Z: ec files: 7(23), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+
+Output 2024-08-29T13:59:53.388Z: 	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T13:59:53.432Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T13:59:53.432Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T14:00:06.924Z: ec files: 5(23), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T14:00:06.924Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:00:07.219Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:00:07.219Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T14:00:12.674Z: ec files: 4(23), probes: 21405 out of 85833 total; 24.937960924120095% coverage
+
+Output 2024-08-29T14:00:12.674Z: 	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:00:12.773Z: new	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:00:12.773Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+
+Output 2024-08-29T14:00:12.773Z:  total diff: lines [91m2[0m(1335114), methods 0(114175), classes 0(18706), coverage 0.00014979994217722233%
+
+2024-08-29T14:00:13.117Z Process exited with code 0
+Output 2024-08-29T14:03:12.318Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T14:03:21.895Z: ec files: 8(24), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+
+Output 2024-08-29T14:03:21.895Z: 	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:03:22.081Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:03:22.082Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T14:03:39.288Z: ec files: 1(24), probes: 28233 out of 319433 total; 8.83847316964747% coverage
+
+Output 2024-08-29T14:03:39.288Z: 	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:03:39.575Z: new	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:03:39.575Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T14:04:08.412Z: ec files: 3(24), probes: 81391 out of 493166 total; 16.503773577253906% coverage
+
+Output 2024-08-29T14:04:08.413Z: 	st 3: 74546 out of 459030, 16.239897174476614%
+
+Output 2024-08-29T14:04:09.215Z: new	st 3: 74546 out of 459030, 16.239897174476614%
+
+Output 2024-08-29T14:04:09.215Z: diff	st 3: lines 0(459030), methods 0(37948), classes 0(6041), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T14:04:19.421Z: ec files: 4(24), probes: 21405 out of 85833 total; 24.937960924120095% coverage
+
+Output 2024-08-29T14:04:19.421Z: 	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:04:19.647Z: new	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:04:19.647Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+
+Output 2024-08-29T14:04:19.647Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T14:04:23.053Z: ec files: 6(24), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T14:04:23.054Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:04:23.096Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:04:23.097Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T14:04:25.984Z: ec files: 2(24), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T14:04:25.984Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:04:26.046Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:04:26.046Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T14:04:31.092Z: ec files: 7(24), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+
+Output 2024-08-29T14:04:31.092Z: 	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:04:31.138Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:04:31.138Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T14:04:44.731Z: ec files: 5(24), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T14:04:44.731Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:04:45.016Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+
+Output 2024-08-29T14:04:45.016Z:  total diff: lines 0(1335114), methods 0(114175), classes 0(18706), coverage 0.0%
+
+2024-08-29T14:04:45.371Z Process exited with code 0
+Output 2024-08-29T14:07:32.673Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T14:07:42.498Z: ec files: 8(25), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+
+Output 2024-08-29T14:07:42.498Z: 	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:07:42.657Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:07:42.657Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T14:08:00.465Z: ec files: 1(25), probes: 28233 out of 319433 total; 8.83847316964747% coverage
+
+Output 2024-08-29T14:08:00.465Z: 	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:08:00.747Z: new	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:08:00.748Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T14:08:28.213Z: ec files: 3(25), probes: 81406 out of 493166 total; 16.50681514946286% coverage
+	st 3: 74546 out of 459030, 16.239897174476614%
+
+Output 2024-08-29T14:08:28.694Z: new	st 3: 74561 out of 459030, 16.24316493475372%
+
+Output 2024-08-29T14:08:28.694Z: diff	st 3: lines [91m15[0m(459030), methods [91m1[0m(37948), classes 0(6041), coverage 0.003267760277106402%
+
+Output 2024-08-29T14:08:31.871Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T14:08:37.947Z: ec files: 4(25), probes: 21405 out of 85833 total; 24.937960924120095% coverage
+	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:08:38.040Z: new	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:08:38.040Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+
+Output 2024-08-29T14:08:38.040Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T14:08:40.018Z: ec files: 6(25), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T14:08:40.018Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:08:40.045Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:08:40.045Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T14:08:41.911Z: ec files: 2(25), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T14:08:41.911Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:08:41.947Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:08:41.947Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T14:08:44.707Z: ec files: 7(25), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:08:44.757Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:08:44.757Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T14:08:59.265Z: ec files: 5(25), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T14:08:59.266Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:08:59.518Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:08:59.518Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+
+Output 2024-08-29T14:08:59.519Z:  total diff: lines [91m15[0m(1335114), methods [91m1[0m(114175), classes 0(18706), coverage 0.0011234995663291674%
+
+2024-08-29T14:08:59.879Z Process exited with code 0
+Output 2024-08-29T14:11:51.724Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T14:11:54.543Z: ec files: 7(26), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+
+Output 2024-08-29T14:11:54.543Z: 	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:11:54.589Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+
+Output 2024-08-29T14:11:54.589Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T14:12:04.921Z: ec files: 8(26), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:12:05.082Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:12:05.082Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T14:12:23.069Z: ec files: 1(26), probes: 28233 out of 319433 total; 8.83847316964747% coverage
+	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:12:23.366Z: new	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:12:23.366Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T14:13:03.650Z: ec files: 3(26), probes: 81407 out of 493166 total; 16.507017920943454% coverage
+	st 3: 74561 out of 459030, 16.24316493475372%
+
+Output 2024-08-29T14:13:04.117Z: new	st 3: 74562 out of 459030, 16.243382785438857%
+
+Output 2024-08-29T14:13:04.117Z: diff	st 3: lines [91m1[0m(459030), methods 0(37948), classes 0(6041), coverage 0.00021785068513857642%
+
+Output 2024-08-29T14:13:07.061Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T14:13:13.872Z: ec files: 4(26), probes: 21405 out of 85833 total; 24.937960924120095% coverage
+
+Output 2024-08-29T14:13:13.873Z: 	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:13:13.976Z: new	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:13:13.976Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T14:13:15.887Z: ec files: 6(26), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T14:13:15.888Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:13:15.913Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+
+Output 2024-08-29T14:13:15.913Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T14:13:17.725Z: ec files: 2(26), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T14:13:17.725Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:13:17.765Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:13:17.765Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T14:13:32.710Z: ec files: 5(26), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T14:13:32.711Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:13:32.966Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:13:32.966Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+ total diff: lines [91m1[0m(1335114), methods 0(114175), classes 0(18706), coverage 7.489997108861116e-05%
+
+2024-08-29T14:13:33.371Z Process exited with code 0
+Output 2024-08-29T14:16:14.104Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T14:16:17.227Z: ec files: 7(27), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:16:17.268Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:16:17.268Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T14:16:27.875Z: ec files: 8(27), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+
+Output 2024-08-29T14:16:27.875Z: 	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:16:28.050Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:16:28.050Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T14:16:47.132Z: ec files: 1(27), probes: 28233 out of 319433 total; 8.83847316964747% coverage
+
+Output 2024-08-29T14:16:47.132Z: 	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:16:47.558Z: new	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:16:47.558Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T14:17:21.428Z: ec files: 3(27), probes: 81414 out of 493166 total; 16.508437321307632% coverage
+
+Output 2024-08-29T14:17:21.428Z: 	st 3: 74562 out of 459030, 16.243382785438857%
+
+Output 2024-08-29T14:17:22.386Z: new	st 3: 74568 out of 459030, 16.2446898895497%
+
+Output 2024-08-29T14:17:22.386Z: diff	st 3: lines [91m6[0m(459030), methods [91m1[0m(37948), classes 0(6041), coverage 0.0013071041108425607%
+
+Output 2024-08-29T14:17:26.868Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T14:17:26.868Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T14:17:37.726Z: ec files: 4(27), probes: 21405 out of 85833 total; 24.937960924120095% coverage
+
+Output 2024-08-29T14:17:37.726Z: 	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:17:37.883Z: new	st 4: 19000 out of 78679, 24.14875633904854%
+diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+
+Output 2024-08-29T14:17:37.884Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T14:17:41.668Z: ec files: 6(27), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T14:17:41.668Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:17:41.708Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:17:41.708Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+
+Output 2024-08-29T14:17:41.708Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T14:17:44.910Z: ec files: 2(27), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T14:17:44.910Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:17:44.969Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:17:44.969Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+
+Output 2024-08-29T14:17:44.969Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T14:18:05.666Z: ec files: 5(27), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T14:18:05.666Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:18:05.965Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:18:05.965Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+
+Output 2024-08-29T14:18:05.965Z:  total diff: lines [91m6[0m(1335114), methods [91m1[0m(114175), classes 0(18706), coverage 0.00044939982653166696%
+
+2024-08-29T14:18:06.459Z Process exited with code 0
+Output 2024-08-29T14:20:45.131Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T14:20:48.093Z: ec files: 7(28), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+
+Output 2024-08-29T14:20:48.093Z: 	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:20:48.135Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:20:48.135Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T14:20:59.053Z: ec files: 8(28), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:20:59.211Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:20:59.211Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T14:21:18.996Z: ec files: 1(28), probes: 28233 out of 319433 total; 8.83847316964747% coverage
+
+Output 2024-08-29T14:21:18.996Z: 	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:21:19.365Z: new	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:21:19.365Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T14:21:51.160Z: ec files: 3(28), probes: 81415 out of 493166 total; 16.50864009278823% coverage
+
+Output 2024-08-29T14:21:51.160Z: 	st 3: 74568 out of 459030, 16.2446898895497%
+
+Output 2024-08-29T14:21:52.068Z: new	st 3: 74569 out of 459030, 16.244907740234844%
+
+Output 2024-08-29T14:21:52.068Z: diff	st 3: lines [91m1[0m(459030), methods 0(37948), classes 0(6041), coverage 0.00021785068514135197%
+
+Output 2024-08-29T14:21:56.883Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T14:21:56.883Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T14:22:08.453Z: ec files: 4(28), probes: 21405 out of 85833 total; 24.937960924120095% coverage
+
+Output 2024-08-29T14:22:08.453Z: 	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:22:08.616Z: new	st 4: 19000 out of 78679, 24.14875633904854%
+diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T14:22:12.323Z: ec files: 6(28), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T14:22:12.323Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:22:12.375Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:22:12.375Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+
+Output 2024-08-29T14:22:12.375Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T14:22:15.746Z: ec files: 2(28), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T14:22:15.746Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:22:15.814Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:22:15.814Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T14:22:39.332Z: ec files: 5(28), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T14:22:39.332Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:22:39.591Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:22:39.592Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+ total diff: lines [91m1[0m(1335114), methods 0(114175), classes 0(18706), coverage 7.489997108861116e-05%
+
+2024-08-29T14:22:40.042Z Process exited with code 0
+Output 2024-08-29T14:25:06.113Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T14:25:09.208Z: ec files: 7(29), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+
+Output 2024-08-29T14:25:09.208Z: 	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:25:09.250Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:25:09.250Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T14:25:20.575Z: ec files: 8(29), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:25:20.736Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:25:20.737Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T14:25:41.146Z: ec files: 1(29), probes: 28233 out of 319433 total; 8.83847316964747% coverage
+
+Output 2024-08-29T14:25:41.146Z: 	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:25:41.437Z: new	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:25:41.437Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T14:26:17.794Z: ec files: 3(29), probes: 81415 out of 493166 total; 16.50864009278823% coverage
+
+Output 2024-08-29T14:26:17.794Z: 	st 3: 74569 out of 459030, 16.244907740234844%
+
+Output 2024-08-29T14:26:18.630Z: new	st 3: 74569 out of 459030, 16.244907740234844%
+
+Output 2024-08-29T14:26:18.630Z: diff	st 3: lines 0(459030), methods 0(37948), classes 0(6041), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T14:26:30.293Z: ec files: 4(29), probes: 21405 out of 85833 total; 24.937960924120095% coverage
+
+Output 2024-08-29T14:26:30.293Z: 	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:26:30.448Z: new	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:26:30.448Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+
+Output 2024-08-29T14:26:30.448Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T14:26:34.331Z: ec files: 6(29), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T14:26:34.331Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:26:34.372Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:26:34.372Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T14:26:37.797Z: ec files: 2(29), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T14:26:37.797Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:26:37.862Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:26:37.862Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+
+Output 2024-08-29T14:26:37.862Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T14:26:55.040Z: ec files: 5(29), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T14:26:55.040Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:26:55.315Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:26:55.315Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+ total diff: lines 0(1335114), methods 0(114175), classes 0(18706), coverage 0.0%
+
+2024-08-29T14:26:55.721Z Process exited with code 0
+Output 2024-08-29T14:29:26.293Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T14:29:29.432Z: ec files: 7(30), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+
+Output 2024-08-29T14:29:29.432Z: 	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:29:29.476Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:29:29.476Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T14:29:41.247Z: ec files: 8(30), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+
+Output 2024-08-29T14:29:41.247Z: 	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:29:41.439Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:29:41.439Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T14:30:02.313Z: ec files: 1(30), probes: 28233 out of 319433 total; 8.83847316964747% coverage
+
+Output 2024-08-29T14:30:02.313Z: 	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:30:02.620Z: new	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:30:02.620Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T14:30:55.362Z: ec files: 3(30), probes: 81415 out of 493166 total; 16.50864009278823% coverage
+
+Output 2024-08-29T14:30:55.362Z: 	st 3: 74569 out of 459030, 16.244907740234844%
+
+Output 2024-08-29T14:30:55.838Z: new	st 3: 74569 out of 459030, 16.244907740234844%
+
+Output 2024-08-29T14:30:55.838Z: diff	st 3: lines 0(459030), methods 0(37948), classes 0(6041), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T14:31:02.615Z: ec files: 4(30), probes: 21405 out of 85833 total; 24.937960924120095% coverage
+
+Output 2024-08-29T14:31:02.615Z: 	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:31:02.749Z: new	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:31:02.749Z: diff	st 4: lines 0(78679), methods 0(7736), classes 0(1431), coverage 0.0%
+
+Output 2024-08-29T14:31:02.749Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T14:31:05.115Z: ec files: 6(30), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T14:31:05.115Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:31:05.140Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:31:05.141Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T14:31:07.028Z: ec files: 2(30), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T14:31:07.028Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:31:07.070Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:31:07.070Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T14:31:23.940Z: ec files: 5(30), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T14:31:23.940Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:31:24.203Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:31:24.203Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+ total diff: lines 0(1335114), methods 0(114175), classes 0(18706), coverage 0.0%
+
+2024-08-29T14:31:24.620Z Process exited with code 0
+Output 2024-08-29T14:33:47.786Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_7.pickle
+
+Output 2024-08-29T14:33:51.011Z: ec files: 7(31), probes: 2821 out of 43219 total; 6.527221823734932% coverage
+
+Output 2024-08-29T14:33:51.011Z: 	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:33:51.052Z: new	st 7: 2462 out of 39437, 6.242868372340695%
+
+Output 2024-08-29T14:33:51.052Z: diff	st 7: lines 0(39437), methods 0(3888), classes 0(931), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_8.pickle
+
+Output 2024-08-29T14:34:02.957Z: ec files: 8(31), probes: 7619 out of 178851 total; 4.259970590044227% coverage
+
+Output 2024-08-29T14:34:02.957Z: 	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:34:03.151Z: new	st 8: 6894 out of 164877, 4.1812987863680195%
+
+Output 2024-08-29T14:34:03.152Z: diff	st 8: lines 0(164877), methods 0(14376), classes 0(2381), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_1.pickle
+
+Output 2024-08-29T14:34:28.523Z: ec files: 1(31), probes: 28233 out of 319433 total; 8.83847316964747% coverage
+
+Output 2024-08-29T14:34:28.524Z: 	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:34:29.026Z: new	st 1: 25298 out of 297899, 8.492139953474164%
+
+Output 2024-08-29T14:34:29.026Z: diff	st 1: lines 0(297899), methods 0(24110), classes 0(4005), coverage 0.0%
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T14:35:13.213Z: ec files: 3(31), probes: 82164 out of 493166 total; 16.66051593175523% coverage
+
+Output 2024-08-29T14:35:13.214Z: 	st 3: 74569 out of 459030, 16.244907740234844%
+
+Output 2024-08-29T14:35:13.762Z: new	st 3: 75268 out of 459030, 16.397185369147984%
+diff	st 3: lines [91m699[0m(459030), methods [91m58[0m(37948), classes 0(6041), coverage 0.15227762891314167%
+
+Output 2024-08-29T14:35:17.606Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_3.pickle
+
+Output 2024-08-29T14:35:17.607Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+
+Output 2024-08-29T14:35:30.013Z: ec files: 4(31), probes: 21417 out of 85833 total; 24.9519415609381% coverage
+
+Output 2024-08-29T14:35:30.014Z: 	st 4: 19000 out of 78679, 24.14875633904854%
+
+Output 2024-08-29T14:35:30.181Z: new	st 4: 19010 out of 78679, 24.161466210805933%
+
+Output 2024-08-29T14:35:30.181Z: diff	st 4: lines [91m10[0m(78679), methods [91m2[0m(7736), classes 0(1431), coverage 0.012709871757393687%
+
+Output 2024-08-29T14:35:31.398Z: pickle file saved: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_4.pickle
+deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_6.pickle
+
+Output 2024-08-29T14:35:35.408Z: ec files: 6(31), probes: 2622 out of 22604 total; 11.59971686427181% coverage
+
+Output 2024-08-29T14:35:35.408Z: 	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:35:35.450Z: new	st 6: 2393 out of 20862, 11.470616431789857%
+
+Output 2024-08-29T14:35:35.450Z: diff	st 6: lines 0(20862), methods 0(1822), classes 0(607), coverage 0.0%
+
+Output 2024-08-29T14:35:35.450Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_2.pickle
+
+Output 2024-08-29T14:35:39.128Z: ec files: 2(31), probes: 3657 out of 30587 total; 11.956059763952005% coverage
+
+Output 2024-08-29T14:35:39.129Z: 	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:35:39.195Z: new	st 2: 3469 out of 27673, 12.535684602319952%
+
+Output 2024-08-29T14:35:39.195Z: diff	st 2: lines 0(27673), methods 0(3174), classes 0(417), coverage 0.0%
+
+Output 2024-08-29T14:35:39.195Z: deserialise: /home/marco/acvtool/acvtool_working_dir/covered_pickles/com.discord_5.pickle
+
+Output 2024-08-29T14:36:02.608Z: ec files: 5(31), probes: 51206 out of 265759 total; 19.26783288618636% coverage
+
+Output 2024-08-29T14:36:02.608Z: 	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:36:02.891Z: new	st 5: 47009 out of 246657, 19.058449587889257%
+
+Output 2024-08-29T14:36:02.891Z: diff	st 5: lines 0(246657), methods 0(21121), classes 0(2893), coverage 0.0%
+ total diff: lines [91m709[0m(1335114), methods [91m60[0m(114175), classes 0(18706), coverage 0.053104079501825316%
+
+2024-08-29T14:36:03.328Z Process exited with code 0
