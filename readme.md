@@ -4,13 +4,21 @@ A fuzzing toolkit to test malicious QR Codes in mobile applications
 
 ## Installation
 
+Before you execute the install script you need to install [acvtool](https://github.com/pilgun/acvtool) (make sure to correctly follow the instructions present in the page)
+
 The `install` script should be able to do everything by itself
 
 The required dependencies can be installed and configured individually by using the scripts provided in `setup/`
 
 ## Usage
 
-- `bin/qrfuzz <app>` will automatically perform fuzzing tests on an application and install all required dependencies
+
+- instrument the apk usign acvtool
+- install the apk
+- make sure you have an inspector written for the app
+- `bin/qrfuzz <app>` will automatically perform fuzzing tests on an application and install all required dependencies. It will also call acvtool functions to collect coverage data
+- the coverage data is saved in `outputacv_app_package.log`
+- you can use scripts inside `util` to clean up those files
 - Use `util/stream <image.png>` to start a stream to the virtual webcam
 - Use `util/launch-emulator [<video-device>]` to launch an emulator using `<video-device>` as a virtual webcam
 - Use `util/apk-install <app> [...]` to download and install supported apps on the Android virtual device

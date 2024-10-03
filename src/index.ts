@@ -54,7 +54,9 @@ const main = async () => {
   const appIns = await _appIns;
 
   const { spawn } = require("child_process");
-
+  //this calls acv activate to give app permissions to write and read local storage
+  //this might not be needed and if the app already has permissions you will see
+  //an error in output but everything will keep going smoothly 
   const ls = spawn("acv", ["activate", appIns.app_package]);  
   ls.stdout.on("data", (data: string) => {
     console.log(`stdout: ${data}`);
@@ -83,9 +85,9 @@ const main = async () => {
   // Perform QR Checking
   let qr_payload: Uint8Array | null;
   let qr_status: DictsIterStatus;
-  let coverage_count=0;
+  let coverage_count=0; // is counting how many qr codes have we scanned
   
-  const fs = require("fs")
+  const fs = require("fs")//it is saved to file to keep track in case the software crashes
   let qrcodecountsfile=`qrcodecounts${appIns.app_package}.txt`
   try {
     const data = fs.readFileSync(qrcodecountsfile, 'utf8');
@@ -98,7 +100,7 @@ const main = async () => {
   while ((([qr_payload, qr_status] = qr_iter()), qr_payload != null)) {
     console.log(`coverage number: ${coverage_count}`)
     if(coverage_count%30==0){  //every 30 qr codes we compute the coverage    
-      const command = 'acv';
+      const command = 'acv'; //call acv snap to pull the coverage data
       const args = ['snap', appIns.app_package];
 
       const child = spawn(command, args);
@@ -119,11 +121,11 @@ const main = async () => {
           
           const getTimestamp = () => {
             return new Date().toISOString(); 
-        };
+        };//helper function to add timestamps to data
           
           const command = 'acv';
           const args = ['cover-pickles', appIns.app_package];
-          const logFile = `outputacv${appIns.app_package}.log`; // Name of the log file
+          const logFile = `outputacv_${appIns.app_package}.log`; // Name of the log file
 
           // Open a writable stream to the log file
           const logStream = fs.createWriteStream(logFile, { flags: 'a' }); 
@@ -140,7 +142,7 @@ const main = async () => {
 
           child.on('close', (code: number) => {
               logStream.write(`${getTimestamp()} Process exited with code ${code}\n`);
-              logStream.end(); // Close the log file stream
+              logStream.end();
               console.log(`Process completed. Check ${logFile} for details.`);
           });
         }
